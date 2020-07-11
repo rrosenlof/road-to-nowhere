@@ -8,13 +8,17 @@ export default class IndexPage extends React.Component {
   constructor() {
     super();
     const add = this.getAddress();
-    const u = this.getUrl(add);
+    const u = this.getUrl(add, 1);
+    const u2 = this.getUrl(add, 2);
+    const u3 = this.getUrl(add, 3);
 
     this.state = {
       city: "",
       province: "",
       address: add,
-      url: u
+      url: u,
+      url2: u2,
+      url3: u3
     }
   }
 
@@ -24,9 +28,16 @@ export default class IndexPage extends React.Component {
     return JSONData[rand]
   }
   
-  getUrl(address) {
-    const url = `${process.env.API_URL}key=${process.env.KEY}&center=${address['latitude']},${address['longitude']}&scalebar=true|bottom&imagetype=png&zoom=18&scalebar=false&traffic=false&size=1600,1600&type=sat`
-    return url
+  getUrl(address, zoom) {
+    let url_string = ''
+    if (zoom === 1) {
+      url_string = `${process.env.API_URL}key=${process.env.KEY}&center=${address['latitude']},${address['longitude']}${process.env.FIRST_IMAGE_SETTINGS}`
+    } else if (zoom === 2) {
+      url_string = `${process.env.API_URL}key=${process.env.KEY}&center=${address['latitude']},${address['longitude']}${process.env.SECOND_IMAGE_SETTINGS}`
+    } else {
+      url_string = `${process.env.API_URL}key=${process.env.KEY}&center=${address['latitude']},${address['longitude']}${process.env.THIRD_IMAGE_SETTINGS}`
+    }
+    return url_string
   }
 
   handleInputChange = event => {
