@@ -106,7 +106,9 @@ hr {
   overflow: visible;
 }
 button,
-input,
+input {
+  margin-bottom: 1rem;
+},
 optgroup,
 select,
 textarea {
