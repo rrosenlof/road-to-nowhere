@@ -1,0 +1,2207 @@
+[
+  {
+    "province": "Somaliland",
+    "city": "Hargeisa",
+    "latitude": 9.55,
+    "longitude": 44.05,
+    "CountryCode": "NULL",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "South Georgia and South Sandwich Islands",
+    "city": "King Edward Point",
+    "latitude": -54.283333,
+    "longitude": -36.5,
+    "CountryCode": "GS",
+    "ContinentName": "Antarctica",
+    "address": ""
+  },
+  {
+    "province": "French Southern and Antarctic Lands",
+    "city": "Port-aux-Français",
+    "latitude": -49.35,
+    "longitude": 70.216667,
+    "CountryCode": "TF",
+    "ContinentName": "Antarctica",
+    "address": ""
+  },
+  {
+    "province": "Palestine",
+    "city": "Jerusalem",
+    "latitude": 31.76666667,
+    "longitude": 35.233333,
+    "CountryCode": "PS",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Aland Islands",
+    "city": "Mariehamn",
+    "latitude": 60.116667,
+    "longitude": 19.9,
+    "CountryCode": "AX",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Nauru",
+    "city": "Yaren",
+    "latitude": -0.5477,
+    "longitude": 166.920867,
+    "CountryCode": "NR",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Saint Martin",
+    "city": "Marigot",
+    "latitude": 18.0731,
+    "longitude": -63.0822,
+    "CountryCode": "MF",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Tokelau",
+    "city": "Atafu",
+    "latitude": -9.166667,
+    "longitude": -171.833333,
+    "CountryCode": "TK",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Western Sahara",
+    "city": "El-Aaiún",
+    "latitude": 27.153611,
+    "longitude": -13.203333,
+    "CountryCode": "EH",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Afghanistan",
+    "city": "Kabul",
+    "latitude": 34.51666667,
+    "longitude": 69.183333,
+    "CountryCode": "AF",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Albania",
+    "city": "Tirana",
+    "latitude": 41.31666667,
+    "longitude": 19.816667,
+    "CountryCode": "AL",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Algeria",
+    "city": "Algiers",
+    "latitude": 36.75,
+    "longitude": 3.05,
+    "CountryCode": "DZ",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "American Samoa",
+    "city": "Pago Pago",
+    "latitude": -14.26666667,
+    "longitude": -170.7,
+    "CountryCode": "AS",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Andorra",
+    "city": "Andorra la Vella",
+    "latitude": 42.5,
+    "longitude": 1.516667,
+    "CountryCode": "AD",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Angola",
+    "city": "Luanda",
+    "latitude": -8.833333333,
+    "longitude": 13.216667,
+    "CountryCode": "AO",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Anguilla",
+    "city": "The Valley",
+    "latitude": 18.21666667,
+    "longitude": -63.05,
+    "CountryCode": "AI",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Antigua and Barbuda",
+    "city": "Saint John's",
+    "latitude": 17.11666667,
+    "longitude": -61.85,
+    "CountryCode": "AG",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Argentina",
+    "city": "Buenos Aires",
+    "latitude": -34.58333333,
+    "longitude": -58.666667,
+    "CountryCode": "AR",
+    "ContinentName": "South America",
+    "address": ""
+  },
+  {
+    "province": "Armenia",
+    "city": "Yerevan",
+    "latitude": 40.16666667,
+    "longitude": 44.5,
+    "CountryCode": "AM",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Aruba",
+    "city": "Oranjestad",
+    "latitude": 12.51666667,
+    "longitude": -70.033333,
+    "CountryCode": "AW",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Australia",
+    "city": "Canberra",
+    "latitude": -35.26666667,
+    "longitude": 149.133333,
+    "CountryCode": "AU",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Austria",
+    "city": "Vienna",
+    "latitude": 48.2,
+    "longitude": 16.366667,
+    "CountryCode": "AT",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Azerbaijan",
+    "city": "Baku",
+    "latitude": 40.38333333,
+    "longitude": 49.866667,
+    "CountryCode": "AZ",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Bahamas",
+    "city": "Nassau",
+    "latitude": 25.08333333,
+    "longitude": -77.35,
+    "CountryCode": "BS",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Bahrain",
+    "city": "Manama",
+    "latitude": 26.23333333,
+    "longitude": 50.566667,
+    "CountryCode": "BH",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Bangladesh",
+    "city": "Dhaka",
+    "latitude": 23.71666667,
+    "longitude": 90.4,
+    "CountryCode": "BD",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Barbados",
+    "city": "Bridgetown",
+    "latitude": 13.1,
+    "longitude": -59.616667,
+    "CountryCode": "BB",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Belarus",
+    "city": "Minsk",
+    "latitude": 53.9,
+    "longitude": 27.566667,
+    "CountryCode": "BY",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Belgium",
+    "city": "Brussels",
+    "latitude": 50.83333333,
+    "longitude": 4.333333,
+    "CountryCode": "BE",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Belize",
+    "city": "Belmopan",
+    "latitude": 17.25,
+    "longitude": -88.766667,
+    "CountryCode": "BZ",
+    "ContinentName": "Central America",
+    "address": ""
+  },
+  {
+    "province": "Benin",
+    "city": "Porto-Novo",
+    "latitude": 6.483333333,
+    "longitude": 2.616667,
+    "CountryCode": "BJ",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Bermuda",
+    "city": "Hamilton",
+    "latitude": 32.28333333,
+    "longitude": -64.783333,
+    "CountryCode": "BM",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Bhutan",
+    "city": "Thimphu",
+    "latitude": 27.46666667,
+    "longitude": 89.633333,
+    "CountryCode": "BT",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Bolivia",
+    "city": "La Paz",
+    "latitude": -16.5,
+    "longitude": -68.15,
+    "CountryCode": "BO",
+    "ContinentName": "South America",
+    "address": ""
+  },
+  {
+    "province": "Bosnia and Herzegovina",
+    "city": "Sarajevo",
+    "latitude": 43.86666667,
+    "longitude": 18.416667,
+    "CountryCode": "BA",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Botswana",
+    "city": "Gaborone",
+    "latitude": -24.63333333,
+    "longitude": 25.9,
+    "CountryCode": "BW",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Brazil",
+    "city": "Brasilia",
+    "latitude": -15.78333333,
+    "longitude": -47.916667,
+    "CountryCode": "BR",
+    "ContinentName": "South America",
+    "address": ""
+  },
+  {
+    "province": "British Virgin Islands",
+    "city": "Road Town",
+    "latitude": 18.41666667,
+    "longitude": -64.616667,
+    "CountryCode": "VG",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Brunei Darussalam",
+    "city": "Bandar Seri Begawan",
+    "latitude": 4.883333333,
+    "longitude": 114.933333,
+    "CountryCode": "BN",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Bulgaria",
+    "city": "Sofia",
+    "latitude": 42.68333333,
+    "longitude": 23.316667,
+    "CountryCode": "BG",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Burkina Faso",
+    "city": "Ouagadougou",
+    "latitude": 12.36666667,
+    "longitude": -1.516667,
+    "CountryCode": "BF",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Myanmar",
+    "city": "Rangoon",
+    "latitude": 16.8,
+    "longitude": 96.15,
+    "CountryCode": "MM",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Burundi",
+    "city": "Bujumbura",
+    "latitude": -3.366666667,
+    "longitude": 29.35,
+    "CountryCode": "BI",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Cambodia",
+    "city": "Phnom Penh",
+    "latitude": 11.55,
+    "longitude": 104.916667,
+    "CountryCode": "KH",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Cameroon",
+    "city": "Yaounde",
+    "latitude": 3.866666667,
+    "longitude": 11.516667,
+    "CountryCode": "CM",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Canada",
+    "city": "Ottawa",
+    "latitude": 45.41666667,
+    "longitude": -75.7,
+    "CountryCode": "CA",
+    "ContinentName": "Central America",
+    "address": ""
+  },
+  {
+    "province": "Cape Verde",
+    "city": "Praia",
+    "latitude": 14.91666667,
+    "longitude": -23.516667,
+    "CountryCode": "CV",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Cayman Islands",
+    "city": "George Town",
+    "latitude": 19.3,
+    "longitude": -81.383333,
+    "CountryCode": "KY",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Central African Republic",
+    "city": "Bangui",
+    "latitude": 4.366666667,
+    "longitude": 18.583333,
+    "CountryCode": "CF",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Chad",
+    "city": "N'Djamena",
+    "latitude": 12.1,
+    "longitude": 15.033333,
+    "CountryCode": "TD",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Chile",
+    "city": "Santiago",
+    "latitude": -33.45,
+    "longitude": -70.666667,
+    "CountryCode": "CL",
+    "ContinentName": "South America",
+    "address": ""
+  },
+  {
+    "province": "China",
+    "city": "Beijing",
+    "latitude": 39.91666667,
+    "longitude": 116.383333,
+    "CountryCode": "CN",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Christmas Island",
+    "city": "The Settlement",
+    "latitude": -10.41666667,
+    "longitude": 105.716667,
+    "CountryCode": "CX",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Cocos Islands",
+    "city": "West Island",
+    "latitude": -12.16666667,
+    "longitude": 96.833333,
+    "CountryCode": "CC",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Colombia",
+    "city": "Bogota",
+    "latitude": 4.6,
+    "longitude": -74.083333,
+    "CountryCode": "CO",
+    "ContinentName": "South America",
+    "address": ""
+  },
+  {
+    "province": "Comoros",
+    "city": "Moroni",
+    "latitude": -11.7,
+    "longitude": 43.233333,
+    "CountryCode": "KM",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Democratic Republic of the Congo",
+    "city": "Kinshasa",
+    "latitude": -4.316666667,
+    "longitude": 15.3,
+    "CountryCode": "CD",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Republic of Congo",
+    "city": "Brazzaville",
+    "latitude": -4.25,
+    "longitude": 15.283333,
+    "CountryCode": "CG",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Cook Islands",
+    "city": "Avarua",
+    "latitude": -21.2,
+    "longitude": -159.766667,
+    "CountryCode": "CK",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Costa Rica",
+    "city": "San Jose",
+    "latitude": 9.933333333,
+    "longitude": -84.083333,
+    "CountryCode": "CR",
+    "ContinentName": "Central America",
+    "address": ""
+  },
+  {
+    "province": "Cote d'Ivoire",
+    "city": "Yamoussoukro",
+    "latitude": 6.816666667,
+    "longitude": -5.266667,
+    "CountryCode": "CI",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Croatia",
+    "city": "Zagreb",
+    "latitude": 45.8,
+    "longitude": 16,
+    "CountryCode": "HR",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Cuba",
+    "city": "Havana",
+    "latitude": 23.11666667,
+    "longitude": -82.35,
+    "CountryCode": "CU",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Curaçao",
+    "city": "Willemstad",
+    "latitude": 12.1,
+    "longitude": -68.916667,
+    "CountryCode": "CW",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Cyprus",
+    "city": "Nicosia",
+    "latitude": 35.16666667,
+    "longitude": 33.366667,
+    "CountryCode": "CY",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Czech Republic",
+    "city": "Prague",
+    "latitude": 50.08333333,
+    "longitude": 14.466667,
+    "CountryCode": "CZ",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Denmark",
+    "city": "Copenhagen",
+    "latitude": 55.66666667,
+    "longitude": 12.583333,
+    "CountryCode": "DK",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Djibouti",
+    "city": "Djibouti",
+    "latitude": 11.58333333,
+    "longitude": 43.15,
+    "CountryCode": "DJ",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Dominica",
+    "city": "Roseau",
+    "latitude": 15.3,
+    "longitude": -61.4,
+    "CountryCode": "DM",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Dominican Republic",
+    "city": "Santo Domingo",
+    "latitude": 18.46666667,
+    "longitude": -69.9,
+    "CountryCode": "DO",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Ecuador",
+    "city": "Quito",
+    "latitude": -0.216666667,
+    "longitude": -78.5,
+    "CountryCode": "EC",
+    "ContinentName": "South America",
+    "address": ""
+  },
+  {
+    "province": "Egypt",
+    "city": "Cairo",
+    "latitude": 30.05,
+    "longitude": 31.25,
+    "CountryCode": "EG",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "El Salvador",
+    "city": "San Salvador",
+    "latitude": 13.7,
+    "longitude": -89.2,
+    "CountryCode": "SV",
+    "ContinentName": "Central America",
+    "address": ""
+  },
+  {
+    "province": "Equatorial Guinea",
+    "city": "Malabo",
+    "latitude": 3.75,
+    "longitude": 8.783333,
+    "CountryCode": "GQ",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Eritrea",
+    "city": "Asmara",
+    "latitude": 15.33333333,
+    "longitude": 38.933333,
+    "CountryCode": "ER",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Estonia",
+    "city": "Tallinn",
+    "latitude": 59.43333333,
+    "longitude": 24.716667,
+    "CountryCode": "EE",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Ethiopia",
+    "city": "Addis Ababa",
+    "latitude": 9.033333333,
+    "longitude": 38.7,
+    "CountryCode": "ET",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Falkland Islands",
+    "city": "Stanley",
+    "latitude": -51.7,
+    "longitude": -57.85,
+    "CountryCode": "FK",
+    "ContinentName": "South America",
+    "address": ""
+  },
+  {
+    "province": "Faroe Islands",
+    "city": "Torshavn",
+    "latitude": 62,
+    "longitude": -6.766667,
+    "CountryCode": "FO",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Fiji",
+    "city": "Suva",
+    "latitude": -18.13333333,
+    "longitude": 178.416667,
+    "CountryCode": "FJ",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Finland",
+    "city": "Helsinki",
+    "latitude": 60.16666667,
+    "longitude": 24.933333,
+    "CountryCode": "FI",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "France",
+    "city": "Paris",
+    "latitude": 48.86666667,
+    "longitude": 2.333333,
+    "CountryCode": "FR",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "French Polynesia",
+    "city": "Papeete",
+    "latitude": -17.53333333,
+    "longitude": -149.566667,
+    "CountryCode": "PF",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Gabon",
+    "city": "Libreville",
+    "latitude": 0.383333333,
+    "longitude": 9.45,
+    "CountryCode": "GA",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "The Gambia",
+    "city": "Banjul",
+    "latitude": 13.45,
+    "longitude": -16.566667,
+    "CountryCode": "GM",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Georgia",
+    "city": "Tbilisi",
+    "latitude": 41.68333333,
+    "longitude": 44.833333,
+    "CountryCode": "GE",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Germany",
+    "city": "Berlin",
+    "latitude": 52.51666667,
+    "longitude": 13.4,
+    "CountryCode": "DE",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Ghana",
+    "city": "Accra",
+    "latitude": 5.55,
+    "longitude": -0.216667,
+    "CountryCode": "GH",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Gibraltar",
+    "city": "Gibraltar",
+    "latitude": 36.13333333,
+    "longitude": -5.35,
+    "CountryCode": "GI",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Greece",
+    "city": "Athens",
+    "latitude": 37.98333333,
+    "longitude": 23.733333,
+    "CountryCode": "GR",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Greenland",
+    "city": "Nuuk",
+    "latitude": 64.18333333,
+    "longitude": -51.75,
+    "CountryCode": "GL",
+    "ContinentName": "Central America",
+    "address": ""
+  },
+  {
+    "province": "Grenada",
+    "city": "Saint George's",
+    "latitude": 12.05,
+    "longitude": -61.75,
+    "CountryCode": "GD",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Guam",
+    "city": "Hagatna",
+    "latitude": 13.46666667,
+    "longitude": 144.733333,
+    "CountryCode": "GU",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Guatemala",
+    "city": "Guatemala City",
+    "latitude": 14.61666667,
+    "longitude": -90.516667,
+    "CountryCode": "GT",
+    "ContinentName": "Central America",
+    "address": ""
+  },
+  {
+    "province": "Guernsey",
+    "city": "Saint Peter Port",
+    "latitude": 49.45,
+    "longitude": -2.533333,
+    "CountryCode": "GG",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Guinea",
+    "city": "Conakry",
+    "latitude": 9.5,
+    "longitude": -13.7,
+    "CountryCode": "GN",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Guinea-Bissau",
+    "city": "Bissau",
+    "latitude": 11.85,
+    "longitude": -15.583333,
+    "CountryCode": "GW",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Guyana",
+    "city": "Georgetown",
+    "latitude": 6.8,
+    "longitude": -58.15,
+    "CountryCode": "GY",
+    "ContinentName": "South America",
+    "address": ""
+  },
+  {
+    "province": "Haiti",
+    "city": "Port-au-Prince",
+    "latitude": 18.53333333,
+    "longitude": -72.333333,
+    "CountryCode": "HT",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Vatican City",
+    "city": "Vatican City",
+    "latitude": 41.9,
+    "longitude": 12.45,
+    "CountryCode": "VA",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Honduras",
+    "city": "Tegucigalpa",
+    "latitude": 14.1,
+    "longitude": -87.216667,
+    "CountryCode": "HN",
+    "ContinentName": "Central America",
+    "address": ""
+  },
+  {
+    "province": "Hungary",
+    "city": "Budapest",
+    "latitude": 47.5,
+    "longitude": 19.083333,
+    "CountryCode": "HU",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Iceland",
+    "city": "Reykjavik",
+    "latitude": 64.15,
+    "longitude": -21.95,
+    "CountryCode": "IS",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "India",
+    "city": "New Delhi",
+    "latitude": 28.6,
+    "longitude": 77.2,
+    "CountryCode": "IN",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Indonesia",
+    "city": "Jakarta",
+    "latitude": -6.166666667,
+    "longitude": 106.816667,
+    "CountryCode": "ID",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Iran",
+    "city": "Tehran",
+    "latitude": 35.7,
+    "longitude": 51.416667,
+    "CountryCode": "IR",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Iraq",
+    "city": "Baghdad",
+    "latitude": 33.33333333,
+    "longitude": 44.4,
+    "CountryCode": "IQ",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Ireland",
+    "city": "Dublin",
+    "latitude": 53.31666667,
+    "longitude": -6.233333,
+    "CountryCode": "IE",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Isle of Man",
+    "city": "Douglas",
+    "latitude": 54.15,
+    "longitude": -4.483333,
+    "CountryCode": "IM",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Israel",
+    "city": "Jerusalem",
+    "latitude": 31.76666667,
+    "longitude": 35.233333,
+    "CountryCode": "IL",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Italy",
+    "city": "Rome",
+    "latitude": 41.9,
+    "longitude": 12.483333,
+    "CountryCode": "IT",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Jamaica",
+    "city": "Kingston",
+    "latitude": 18,
+    "longitude": -76.8,
+    "CountryCode": "JM",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Japan",
+    "city": "Tokyo",
+    "latitude": 35.68333333,
+    "longitude": 139.75,
+    "CountryCode": "JP",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Jersey",
+    "city": "Saint Helier",
+    "latitude": 49.18333333,
+    "longitude": -2.1,
+    "CountryCode": "JE",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Jordan",
+    "city": "Amman",
+    "latitude": 31.95,
+    "longitude": 35.933333,
+    "CountryCode": "JO",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Kazakhstan",
+    "city": "Astana",
+    "latitude": 51.16666667,
+    "longitude": 71.416667,
+    "CountryCode": "KZ",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Kenya",
+    "city": "Nairobi",
+    "latitude": -1.283333333,
+    "longitude": 36.816667,
+    "CountryCode": "KE",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Kiribati",
+    "city": "Tarawa",
+    "latitude": -0.883333333,
+    "longitude": 169.533333,
+    "CountryCode": "KI",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "North Korea",
+    "city": "Pyongyang",
+    "latitude": 39.01666667,
+    "longitude": 125.75,
+    "CountryCode": "KP",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "South Korea",
+    "city": "Seoul",
+    "latitude": 37.55,
+    "longitude": 126.983333,
+    "CountryCode": "KR",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Kosovo",
+    "city": "Pristina",
+    "latitude": 42.66666667,
+    "longitude": 21.166667,
+    "CountryCode": "KO",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Kuwait",
+    "city": "Kuwait City",
+    "latitude": 29.36666667,
+    "longitude": 47.966667,
+    "CountryCode": "KW",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Kyrgyzstan",
+    "city": "Bishkek",
+    "latitude": 42.86666667,
+    "longitude": 74.6,
+    "CountryCode": "KG",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Laos",
+    "city": "Vientiane",
+    "latitude": 17.96666667,
+    "longitude": 102.6,
+    "CountryCode": "LA",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Latvia",
+    "city": "Riga",
+    "latitude": 56.95,
+    "longitude": 24.1,
+    "CountryCode": "LV",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Lebanon",
+    "city": "Beirut",
+    "latitude": 33.86666667,
+    "longitude": 35.5,
+    "CountryCode": "LB",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Lesotho",
+    "city": "Maseru",
+    "latitude": -29.31666667,
+    "longitude": 27.483333,
+    "CountryCode": "LS",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Liberia",
+    "city": "Monrovia",
+    "latitude": 6.3,
+    "longitude": -10.8,
+    "CountryCode": "LR",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Libya",
+    "city": "Tripoli",
+    "latitude": 32.88333333,
+    "longitude": 13.166667,
+    "CountryCode": "LY",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Liechtenstein",
+    "city": "Vaduz",
+    "latitude": 47.13333333,
+    "longitude": 9.516667,
+    "CountryCode": "LI",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Lithuania",
+    "city": "Vilnius",
+    "latitude": 54.68333333,
+    "longitude": 25.316667,
+    "CountryCode": "LT",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Luxembourg",
+    "city": "Luxembourg",
+    "latitude": 49.6,
+    "longitude": 6.116667,
+    "CountryCode": "LU",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Macedonia",
+    "city": "Skopje",
+    "latitude": 42,
+    "longitude": 21.433333,
+    "CountryCode": "MK",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Madagascar",
+    "city": "Antananarivo",
+    "latitude": -18.91666667,
+    "longitude": 47.516667,
+    "CountryCode": "MG",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Malawi",
+    "city": "Lilongwe",
+    "latitude": -13.96666667,
+    "longitude": 33.783333,
+    "CountryCode": "MW",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Malaysia",
+    "city": "Kuala Lumpur",
+    "latitude": 3.166666667,
+    "longitude": 101.7,
+    "CountryCode": "MY",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Maldives",
+    "city": "Male",
+    "latitude": 4.166666667,
+    "longitude": 73.5,
+    "CountryCode": "MV",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Mali",
+    "city": "Bamako",
+    "latitude": 12.65,
+    "longitude": -8,
+    "CountryCode": "ML",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Malta",
+    "city": "Valletta",
+    "latitude": 35.88333333,
+    "longitude": 14.5,
+    "CountryCode": "MT",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Marshall Islands",
+    "city": "Majuro",
+    "latitude": 7.1,
+    "longitude": 171.383333,
+    "CountryCode": "MH",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Mauritania",
+    "city": "Nouakchott",
+    "latitude": 18.06666667,
+    "longitude": -15.966667,
+    "CountryCode": "MR",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Mauritius",
+    "city": "Port Louis",
+    "latitude": -20.15,
+    "longitude": 57.483333,
+    "CountryCode": "MU",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Mexico",
+    "city": "Mexico City",
+    "latitude": 19.43333333,
+    "longitude": -99.133333,
+    "CountryCode": "MX",
+    "ContinentName": "Central America",
+    "address": ""
+  },
+  {
+    "province": "Federated States of Micronesia",
+    "city": "Palikir",
+    "latitude": 6.916666667,
+    "longitude": 158.15,
+    "CountryCode": "FM",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Moldova",
+    "city": "Chisinau",
+    "latitude": 47,
+    "longitude": 28.85,
+    "CountryCode": "MD",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Monaco",
+    "city": "Monaco",
+    "latitude": 43.73333333,
+    "longitude": 7.416667,
+    "CountryCode": "MC",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Mongolia",
+    "city": "Ulaanbaatar",
+    "latitude": 47.91666667,
+    "longitude": 106.916667,
+    "CountryCode": "MN",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Montenegro",
+    "city": "Podgorica",
+    "latitude": 42.43333333,
+    "longitude": 19.266667,
+    "CountryCode": "ME",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Montserrat",
+    "city": "Plymouth",
+    "latitude": 16.7,
+    "longitude": -62.216667,
+    "CountryCode": "MS",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Morocco",
+    "city": "Rabat",
+    "latitude": 34.01666667,
+    "longitude": -6.816667,
+    "CountryCode": "MA",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Mozambique",
+    "city": "Maputo",
+    "latitude": -25.95,
+    "longitude": 32.583333,
+    "CountryCode": "MZ",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Namibia",
+    "city": "Windhoek",
+    "latitude": -22.56666667,
+    "longitude": 17.083333,
+    "CountryCode": "NA",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Nepal",
+    "city": "Kathmandu",
+    "latitude": 27.71666667,
+    "longitude": 85.316667,
+    "CountryCode": "NP",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Netherlands",
+    "city": "Amsterdam",
+    "latitude": 52.35,
+    "longitude": 4.916667,
+    "CountryCode": "NL",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "New Caledonia",
+    "city": "Noumea",
+    "latitude": -22.26666667,
+    "longitude": 166.45,
+    "CountryCode": "NC",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "New Zealand",
+    "city": "Wellington",
+    "latitude": -41.3,
+    "longitude": 174.783333,
+    "CountryCode": "NZ",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Nicaragua",
+    "city": "Managua",
+    "latitude": 12.13333333,
+    "longitude": -86.25,
+    "CountryCode": "NI",
+    "ContinentName": "Central America",
+    "address": ""
+  },
+  {
+    "province": "Niger",
+    "city": "Niamey",
+    "latitude": 13.51666667,
+    "longitude": 2.116667,
+    "CountryCode": "NE",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Nigeria",
+    "city": "Abuja",
+    "latitude": 9.083333333,
+    "longitude": 7.533333,
+    "CountryCode": "NG",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Niue",
+    "city": "Alofi",
+    "latitude": -19.01666667,
+    "longitude": -169.916667,
+    "CountryCode": "NU",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Norfolk Island",
+    "city": "Kingston",
+    "latitude": -29.05,
+    "longitude": 167.966667,
+    "CountryCode": "NF",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Northern Mariana Islands",
+    "city": "Saipan",
+    "latitude": 15.2,
+    "longitude": 145.75,
+    "CountryCode": "MP",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Norway",
+    "city": "Oslo",
+    "latitude": 59.91666667,
+    "longitude": 10.75,
+    "CountryCode": "NO",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Oman",
+    "city": "Muscat",
+    "latitude": 23.61666667,
+    "longitude": 58.583333,
+    "CountryCode": "OM",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Pakistan",
+    "city": "Islamabad",
+    "latitude": 33.68333333,
+    "longitude": 73.05,
+    "CountryCode": "PK",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Palau",
+    "city": "Melekeok",
+    "latitude": 7.483333333,
+    "longitude": 134.633333,
+    "CountryCode": "PW",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Panama",
+    "city": "Panama City",
+    "latitude": 8.966666667,
+    "longitude": -79.533333,
+    "CountryCode": "PA",
+    "ContinentName": "Central America",
+    "address": ""
+  },
+  {
+    "province": "Papua New Guinea",
+    "city": "Port Moresby",
+    "latitude": -9.45,
+    "longitude": 147.183333,
+    "CountryCode": "PG",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Paraguay",
+    "city": "Asuncion",
+    "latitude": -25.26666667,
+    "longitude": -57.666667,
+    "CountryCode": "PY",
+    "ContinentName": "South America",
+    "address": ""
+  },
+  {
+    "province": "Peru",
+    "city": "Lima",
+    "latitude": -12.05,
+    "longitude": -77.05,
+    "CountryCode": "PE",
+    "ContinentName": "South America",
+    "address": ""
+  },
+  {
+    "province": "Philippines",
+    "city": "Manila",
+    "latitude": 14.6,
+    "longitude": 120.966667,
+    "CountryCode": "PH",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Pitcairn Islands",
+    "city": "Adamstown",
+    "latitude": -25.06666667,
+    "longitude": -130.083333,
+    "CountryCode": "PN",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Poland",
+    "city": "Warsaw",
+    "latitude": 52.25,
+    "longitude": 21,
+    "CountryCode": "PL",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Portugal",
+    "city": "Lisbon",
+    "latitude": 38.71666667,
+    "longitude": -9.133333,
+    "CountryCode": "PT",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Puerto Rico",
+    "city": "San Juan",
+    "latitude": 18.46666667,
+    "longitude": -66.116667,
+    "CountryCode": "PR",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Qatar",
+    "city": "Doha",
+    "latitude": 25.28333333,
+    "longitude": 51.533333,
+    "CountryCode": "QA",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Romania",
+    "city": "Bucharest",
+    "latitude": 44.43333333,
+    "longitude": 26.1,
+    "CountryCode": "RO",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Russia",
+    "city": "Moscow",
+    "latitude": 55.75,
+    "longitude": 37.6,
+    "CountryCode": "RU",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Rwanda",
+    "city": "Kigali",
+    "latitude": -1.95,
+    "longitude": 30.05,
+    "CountryCode": "RW",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Saint Barthelemy",
+    "city": "Gustavia",
+    "latitude": 17.88333333,
+    "longitude": -62.85,
+    "CountryCode": "BL",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Saint Helena",
+    "city": "Jamestown",
+    "latitude": -15.93333333,
+    "longitude": -5.716667,
+    "CountryCode": "SH",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Saint Kitts and Nevis",
+    "city": "Basseterre",
+    "latitude": 17.3,
+    "longitude": -62.716667,
+    "CountryCode": "KN",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Saint Lucia",
+    "city": "Castries",
+    "latitude": 14,
+    "longitude": -61,
+    "CountryCode": "LC",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Saint Pierre and Miquelon",
+    "city": "Saint-Pierre",
+    "latitude": 46.76666667,
+    "longitude": -56.183333,
+    "CountryCode": "PM",
+    "ContinentName": "Central America",
+    "address": ""
+  },
+  {
+    "province": "Saint Vincent and the Grenadines",
+    "city": "Kingstown",
+    "latitude": 13.13333333,
+    "longitude": -61.216667,
+    "CountryCode": "VC",
+    "ContinentName": "Central America",
+    "address": ""
+  },
+  {
+    "province": "Samoa",
+    "city": "Apia",
+    "latitude": -13.81666667,
+    "longitude": -171.766667,
+    "CountryCode": "WS",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "San Marino",
+    "city": "San Marino",
+    "latitude": 43.93333333,
+    "longitude": 12.416667,
+    "CountryCode": "SM",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Sao Tome and Principe",
+    "city": "Sao Tome",
+    "latitude": 0.333333333,
+    "longitude": 6.733333,
+    "CountryCode": "ST",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Saudi Arabia",
+    "city": "Riyadh",
+    "latitude": 24.65,
+    "longitude": 46.7,
+    "CountryCode": "SA",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Senegal",
+    "city": "Dakar",
+    "latitude": 14.73333333,
+    "longitude": -17.633333,
+    "CountryCode": "SN",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Serbia",
+    "city": "Belgrade",
+    "latitude": 44.83333333,
+    "longitude": 20.5,
+    "CountryCode": "RS",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Seychelles",
+    "city": "Victoria",
+    "latitude": -4.616666667,
+    "longitude": 55.45,
+    "CountryCode": "SC",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Sierra Leone",
+    "city": "Freetown",
+    "latitude": 8.483333333,
+    "longitude": -13.233333,
+    "CountryCode": "SL",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Singapore",
+    "city": "Singapore",
+    "latitude": 1.283333333,
+    "longitude": 103.85,
+    "CountryCode": "SG",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Sint Maarten",
+    "city": "Philipsburg",
+    "latitude": 18.01666667,
+    "longitude": -63.033333,
+    "CountryCode": "SX",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Slovakia",
+    "city": "Bratislava",
+    "latitude": 48.15,
+    "longitude": 17.116667,
+    "CountryCode": "SK",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Slovenia",
+    "city": "Ljubljana",
+    "latitude": 46.05,
+    "longitude": 14.516667,
+    "CountryCode": "SI",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Solomon Islands",
+    "city": "Honiara",
+    "latitude": -9.433333333,
+    "longitude": 159.95,
+    "CountryCode": "SB",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Somalia",
+    "city": "Mogadishu",
+    "latitude": 2.066666667,
+    "longitude": 45.333333,
+    "CountryCode": "SO",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "South Africa",
+    "city": "Pretoria",
+    "latitude": -25.7,
+    "longitude": 28.216667,
+    "CountryCode": "ZA",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "South Sudan",
+    "city": "Juba",
+    "latitude": 4.85,
+    "longitude": 31.616667,
+    "CountryCode": "SS",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Spain",
+    "city": "Madrid",
+    "latitude": 40.4,
+    "longitude": -3.683333,
+    "CountryCode": "ES",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Sri Lanka",
+    "city": "Colombo",
+    "latitude": 6.916666667,
+    "longitude": 79.833333,
+    "CountryCode": "LK",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Sudan",
+    "city": "Khartoum",
+    "latitude": 15.6,
+    "longitude": 32.533333,
+    "CountryCode": "SD",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Suriname",
+    "city": "Paramaribo",
+    "latitude": 5.833333333,
+    "longitude": -55.166667,
+    "CountryCode": "SR",
+    "ContinentName": "South America",
+    "address": ""
+  },
+  {
+    "province": "Svalbard",
+    "city": "Longyearbyen",
+    "latitude": 78.21666667,
+    "longitude": 15.633333,
+    "CountryCode": "SJ",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Swaziland",
+    "city": "Mbabane",
+    "latitude": -26.31666667,
+    "longitude": 31.133333,
+    "CountryCode": "SZ",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Sweden",
+    "city": "Stockholm",
+    "latitude": 59.33333333,
+    "longitude": 18.05,
+    "CountryCode": "SE",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Switzerland",
+    "city": "Bern",
+    "latitude": 46.91666667,
+    "longitude": 7.466667,
+    "CountryCode": "CH",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Syria",
+    "city": "Damascus",
+    "latitude": 33.5,
+    "longitude": 36.3,
+    "CountryCode": "SY",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Taiwan",
+    "city": "Taipei",
+    "latitude": 25.03333333,
+    "longitude": 121.516667,
+    "CountryCode": "TW",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Tajikistan",
+    "city": "Dushanbe",
+    "latitude": 38.55,
+    "longitude": 68.766667,
+    "CountryCode": "TJ",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Tanzania",
+    "city": "Dar es Salaam",
+    "latitude": -6.8,
+    "longitude": 39.283333,
+    "CountryCode": "TZ",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Thailand",
+    "city": "Bangkok",
+    "latitude": 13.75,
+    "longitude": 100.516667,
+    "CountryCode": "TH",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Timor-Leste",
+    "city": "Dili",
+    "latitude": -8.583333333,
+    "longitude": 125.6,
+    "CountryCode": "TL",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Togo",
+    "city": "Lome",
+    "latitude": 6.116666667,
+    "longitude": 1.216667,
+    "CountryCode": "TG",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Tonga",
+    "city": "Nuku'alofa",
+    "latitude": -21.13333333,
+    "longitude": -175.2,
+    "CountryCode": "TO",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Trinidad and Tobago",
+    "city": "Port of Spain",
+    "latitude": 10.65,
+    "longitude": -61.516667,
+    "CountryCode": "TT",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Tunisia",
+    "city": "Tunis",
+    "latitude": 36.8,
+    "longitude": 10.183333,
+    "CountryCode": "TN",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Turkey",
+    "city": "Ankara",
+    "latitude": 39.93333333,
+    "longitude": 32.866667,
+    "CountryCode": "TR",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Turkmenistan",
+    "city": "Ashgabat",
+    "latitude": 37.95,
+    "longitude": 58.383333,
+    "CountryCode": "TM",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Turks and Caicos Islands",
+    "city": "Grand Turk",
+    "latitude": 21.46666667,
+    "longitude": -71.133333,
+    "CountryCode": "TC",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Tuvalu",
+    "city": "Funafuti",
+    "latitude": -8.516666667,
+    "longitude": 179.216667,
+    "CountryCode": "TV",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Uganda",
+    "city": "Kampala",
+    "latitude": 0.316666667,
+    "longitude": 32.55,
+    "CountryCode": "UG",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Ukraine",
+    "city": "Kyiv",
+    "latitude": 50.43333333,
+    "longitude": 30.516667,
+    "CountryCode": "UA",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "United Arab Emirates",
+    "city": "Abu Dhabi",
+    "latitude": 24.46666667,
+    "longitude": 54.366667,
+    "CountryCode": "AE",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "United Kingdom",
+    "city": "London",
+    "latitude": 51.5,
+    "longitude": -0.083333,
+    "CountryCode": "GB",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "United States",
+    "city": "Washington",
+    "latitude": 38.883333,
+    "longitude": -77,
+    "CountryCode": "US",
+    "ContinentName": "Central America",
+    "address": ""
+  },
+  {
+    "province": "Uruguay",
+    "city": "Montevideo",
+    "latitude": -34.85,
+    "longitude": -56.166667,
+    "CountryCode": "UY",
+    "ContinentName": "South America",
+    "address": ""
+  },
+  {
+    "province": "Uzbekistan",
+    "city": "Tashkent",
+    "latitude": 41.31666667,
+    "longitude": 69.25,
+    "CountryCode": "UZ",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Vanuatu",
+    "city": "Port-Vila",
+    "latitude": -17.73333333,
+    "longitude": 168.316667,
+    "CountryCode": "VU",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Venezuela",
+    "city": "Caracas",
+    "latitude": 10.48333333,
+    "longitude": -66.866667,
+    "CountryCode": "VE",
+    "ContinentName": "South America",
+    "address": ""
+  },
+  {
+    "province": "Vietnam",
+    "city": "Hanoi",
+    "latitude": 21.03333333,
+    "longitude": 105.85,
+    "CountryCode": "VN",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "US Virgin Islands",
+    "city": "Charlotte Amalie",
+    "latitude": 18.35,
+    "longitude": -64.933333,
+    "CountryCode": "VI",
+    "ContinentName": "North America",
+    "address": ""
+  },
+  {
+    "province": "Wallis and Futuna",
+    "city": "Mata-Utu",
+    "latitude": -13.95,
+    "longitude": -171.933333,
+    "CountryCode": "WF",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Yemen",
+    "city": "Sanaa",
+    "latitude": 15.35,
+    "longitude": 44.2,
+    "CountryCode": "YE",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Zambia",
+    "city": "Lusaka",
+    "latitude": -15.41666667,
+    "longitude": 28.283333,
+    "CountryCode": "ZM",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Zimbabwe",
+    "city": "Harare",
+    "latitude": -17.81666667,
+    "longitude": 31.033333,
+    "CountryCode": "ZW",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "US Minor Outlying Islands",
+    "city": "Washington",
+    "latitude": 38.883333,
+    "longitude": -77,
+    "CountryCode": "UM",
+    "ContinentName": "Australia",
+    "address": ""
+  },
+  {
+    "province": "Antarctica",
+    "city": "N/A",
+    "latitude": 0,
+    "longitude": 0,
+    "CountryCode": "AQ",
+    "ContinentName": "Antarctica",
+    "address": ""
+  },
+  {
+    "province": "Northern Cyprus",
+    "city": "North Nicosia",
+    "latitude": 35.183333,
+    "longitude": 33.366667,
+    "CountryCode": "NULL",
+    "ContinentName": "Europe",
+    "address": ""
+  },
+  {
+    "province": "Hong Kong",
+    "city": "N/A",
+    "latitude": 0,
+    "longitude": 0,
+    "CountryCode": "HK",
+    "ContinentName": "Asia",
+    "address": ""
+  },
+  {
+    "province": "Heard Island and McDonald Islands",
+    "city": "N/A",
+    "latitude": 0,
+    "longitude": 0,
+    "CountryCode": "HM",
+    "ContinentName": "Antarctica",
+    "address": ""
+  },
+  {
+    "province": "British Indian Ocean Territory",
+    "city": "Diego Garcia",
+    "latitude": -7.3,
+    "longitude": 72.4,
+    "CountryCode": "IO",
+    "ContinentName": "Africa",
+    "address": ""
+  },
+  {
+    "province": "Macau",
+    "city": "N/A",
+    "latitude": 0,
+    "longitude": 0,
+    "CountryCode": "MO",
+    "ContinentName": "Asia",
+    "address": ""
+  }
+]

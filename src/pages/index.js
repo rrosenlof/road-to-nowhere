@@ -2,11 +2,12 @@ import React from "react"
 import { navigate } from "gatsby"
 
 import Layout from "../components/layout"
-import JSONData from "../../content/taco-bells.json"
+import Spinner from "../components/spinner"
+import JSONData from "../../content/caps.json"
 
 export default class IndexPage extends React.Component {
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
     const add = this.getAddress();
     const u = this.getUrl(add, 1);
     const u2 = this.getUrl(add, 2);
@@ -18,13 +19,17 @@ export default class IndexPage extends React.Component {
       address: add,
       url: u,
       url2: u2,
-      url3: u3
+      url3: u3,
+      imageStatus: "loading"
     }
+
+    this.handleImageLoaded = this.handleImageLoaded.bind(this)
   }
 
   getAddress() {
     const len = Object.keys(JSONData).length;
     const rand = Math.floor(Math.random() * Math.floor(len));
+    console.log(JSONData[rand])
     return JSONData[rand]
   }
   
@@ -54,11 +59,32 @@ export default class IndexPage extends React.Component {
     navigate("/answer", { state: this.state})
   }
 
+  handleImageLoaded() {
+    this.setState({ imageStatus: "loaded" });
+  }
+
+  renderSpinner() {
+    if (this.state.imageStatus === "loaded") {
+      return null;
+    }
+    return <Spinner />
+  }
+
+  renderImage(imageUrl) {
+    return (
+      <div>
+        <img
+          style={{ width: `3000px` }} 
+          src={imageUrl}
+          onLoad={this.handleImageLoaded}
+          alt='Selected map area' 
+        />
+      </div>
+    );
+  }
+
   render() {
     return <Layout>
-      <div>
-        {JSON.stringify(this.state.address)}
-      </div>
       <form onSubmit={this.handleSubmit}>
         <label>
           City: 
@@ -72,7 +98,13 @@ export default class IndexPage extends React.Component {
         <br/>
         <button type="submit">Submit</button>
       </form>
-      <img style={{ width: `3000px` }} src={`${this.state.url}`} alt='Selected map area'></img>
+      <div>
+        {this.renderSpinner()}
+        <div className="images">
+          {this.renderImage(this.state.url)}
+        </div>
+      </div>
+      
     </Layout>
   }
 }
