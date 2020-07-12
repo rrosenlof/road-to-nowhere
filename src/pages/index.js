@@ -3,23 +3,20 @@ import { navigate } from "gatsby"
 
 import Layout from "../components/layout"
 import Spinner from "../components/spinner"
-import JSONData from "../../content/caps.json"
+import JSONData from "../../content/taco-bells.json"
+import STATES from "../../content/states.json"
 
 export default class IndexPage extends React.Component {
   constructor(props) {
     super(props);
     const add = this.getAddress();
     const u = this.getUrl(add, 1);
-    const u2 = this.getUrl(add, 2);
-    const u3 = this.getUrl(add, 3);
 
     this.state = {
       city: "",
       province: "",
       address: add,
       url: u,
-      url2: u2,
-      url3: u3,
       imageStatus: "loading"
     }
 
@@ -34,14 +31,7 @@ export default class IndexPage extends React.Component {
   }
   
   getUrl(address, zoom) {
-    let url_string = ''
-    if (zoom === 1) {
-      url_string = `${process.env.API_URL}key=${process.env.KEY}&center=${address['latitude']},${address['longitude']}${process.env.FIRST_IMAGE_SETTINGS}`
-    } else if (zoom === 2) {
-      url_string = `${process.env.API_URL}key=${process.env.KEY}&center=${address['latitude']},${address['longitude']}${process.env.SECOND_IMAGE_SETTINGS}`
-    } else {
-      url_string = `${process.env.API_URL}key=${process.env.KEY}&center=${address['latitude']},${address['longitude']}${process.env.THIRD_IMAGE_SETTINGS}`
-    }
+    let url_string = `https://maps.googleapis.com/maps/api/staticmap?center=${address['latitude']},${address['longitude']}&zoom=13&scale=2&size=600x600&maptype=roadmap&style=element:labels%7Cvisibility:off&style=feature:administrative.land_parcel%7Cvisibility:off&style=feature:administrative.neighborhood%7Cvisibility:off&key=${process.env.KEY}`
     return url_string
   }
 
@@ -74,7 +64,7 @@ export default class IndexPage extends React.Component {
     return (
       <div>
         <img
-          style={{ width: `3000px` }} 
+          style={{ width: `3000px`, paddingBottom: `-20px` }} 
           src={imageUrl}
           onLoad={this.handleImageLoaded}
           alt='Selected map area' 
@@ -93,7 +83,12 @@ export default class IndexPage extends React.Component {
         <br />
         <label>
           State: 
-          <input type="text" name="province" value={this.state.province} onChange={this.handleInputChange} />
+          <select name="province" onBlur={this.handleInputChange}>
+            <option disabled selected value=""> -- select an option -- </option>
+            {STATES.map((data) => {
+              return <option value={data.abbreviation}>{data.name}</option>
+            })}
+          </select>
         </label>
         <br/>
         <button type="submit">Submit</button>
