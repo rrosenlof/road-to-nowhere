@@ -3,7 +3,7 @@ import { navigate } from "gatsby"
 
 import Layout from "../components/layout"
 import Spinner from "../components/spinner"
-import JSONData from "../../content/caps.json"
+import JSONData from "../../content/taco-bells.json"
 import STATES from "../../content/states.json"
 
 export default class IndexPage extends React.Component {
@@ -31,7 +31,7 @@ export default class IndexPage extends React.Component {
   }
   
   getUrl(address, zoom) {
-    let url_string = `https://maps.googleapis.com/maps/api/staticmap?center=${address['latitude']},${address['longitude']}&zoom=17&scale=2&size=600x600&maptype=roadmap&style=feature:poi|visibility:on&style=element:administrative:all|visibility:off&key=${process.env.KEY}`
+    let url_string = `https://maps.googleapis.com/maps/api/staticmap?center=${address['latitude']},${address['longitude']}&zoom=17&scale=2&size=600x600&maptype=roadmap&style=feature:poi|visibility:off&style=element:administrative:all|visibility:off&key=${process.env.KEY}`
     return url_string
   }
 
@@ -84,9 +84,9 @@ export default class IndexPage extends React.Component {
         <label>
           State: 
           <select name="province" onBlur={this.handleInputChange}>
-            <option disabled selected value=""> -- select an option -- </option>
+            <option disabled defaultValue value=""> -- select an option -- </option>
             {STATES.map((data) => {
-              return <option value={data.abbreviation}>{data.name}</option>
+              return <option key={data.abbreviation} value={data.abbreviation}>{data.name}</option>
             })}
           </select>
         </label>
