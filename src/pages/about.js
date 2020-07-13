@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 
-const SecondPage = () => (
+const About = () => (
   <Layout>
     <h1>About</h1>
     <p>This app was made by Ross Rosenlof, July 2020. Made using Gatsby. The satellite images are rendered using the Mapquest Static Map API, using coordinates of over 2000 Taco Bell restaurants in the United States. These coordinates come from a dataset from Kaggle. Enjoy! Send any feedback to <a href="mailto:rosenlof.ross@gmail.com">me</a>.</p>
@@ -18,4 +18,4 @@ const SecondPage = () => (
   </Layout>
 )
 
-export default SecondPage
+export default About
