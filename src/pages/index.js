@@ -17,7 +17,8 @@ export default class IndexPage extends React.Component {
       province: "",
       address: add,
       url: u,
-      imageStatus: "loading"
+      imageStatus: "loading",
+      submitStatus: ""
     }
 
     this.handleImageLoaded = this.handleImageLoaded.bind(this)
@@ -41,11 +42,13 @@ export default class IndexPage extends React.Component {
     const name = target.name
     this.setState({
       [name]: value,
+      submitStatus: "answered"
     })
   }
 
   handleSubmit = event => {
-    event.preventDefault()
+    event.preventDefault();
+    console.log(this.state);
     navigate("/answer", { state: this.state})
   }
 
