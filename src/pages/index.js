@@ -3,7 +3,7 @@ import { navigate } from "gatsby"
 
 import Layout from "../components/layout"
 import Spinner from "../components/spinner"
-import JSONData from "../../content/taco-bells.json"
+import JSONData from "../../content/caps.json"
 import STATES from "../../content/states.json"
 
 export default class IndexPage extends React.Component {
@@ -31,7 +31,7 @@ export default class IndexPage extends React.Component {
   }
   
   getUrl(address, zoom) {
-    let url_string = `https://maps.googleapis.com/maps/api/staticmap?center=${address['latitude']},${address['longitude']}&zoom=13&scale=2&size=600x600&maptype=roadmap&style=element:labels%7Cvisibility:off&style=feature:administrative.land_parcel%7Cvisibility:off&style=feature:administrative.neighborhood%7Cvisibility:off&key=${process.env.KEY}`
+    let url_string = `https://maps.googleapis.com/maps/api/staticmap?center=${address['latitude']},${address['longitude']}&zoom=17&scale=2&size=600x600&maptype=roadmap&style=feature:poi|visibility:on&style=element:administrative:all|visibility:off&key=${process.env.KEY}`
     return url_string
   }
 
