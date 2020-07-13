@@ -1,9 +1,10 @@
 import React from 'react';
 import Layout from '../components/layout';
+import { Location } from '@reach/router';
 import {Link} from 'gatsby'
 
 
-const AnswerPage = ({ location }) => (
+const AnswerPage = ({location}) => (
     <Layout>
         { location.state.submitStatus === "answered" ? 
             <div>
