@@ -1,10 +1,10 @@
 import React from "react"
-import { navigate } from "gatsby"
 
 import Layout from "../components/layout"
 import Spinner from "../components/spinner"
 import JSONData from "../../content/taco-bells.json"
 import STATES from "../../content/states.json"
+import Answer from "../components/answer"
 
 export default class IndexPage extends React.Component {
   constructor(props) {
@@ -22,6 +22,7 @@ export default class IndexPage extends React.Component {
     }
 
     this.handleImageLoaded = this.handleImageLoaded.bind(this)
+    // this.handleSubmit = this.handleSubmit.bind(this)
   }
 
   getAddress() {
@@ -42,14 +43,15 @@ export default class IndexPage extends React.Component {
     const name = target.name
     this.setState({
       [name]: value,
-      submitStatus: "answered"
     })
   }
 
   handleSubmit = event => {
+    this.setState({
+      submitStatus: "answered"
+    })
     event.preventDefault();
     console.log(this.state);
-    navigate("/answer", { state: this.state})
   }
 
   handleImageLoaded() {
@@ -67,7 +69,6 @@ export default class IndexPage extends React.Component {
     return (
       <div>
         <img
-          style={{ width: `3000px`, paddingBottom: `-20px` }} 
           src={imageUrl}
           onLoad={this.handleImageLoaded}
           alt='Selected map area' 
@@ -96,6 +97,11 @@ export default class IndexPage extends React.Component {
         <br/>
         <button type="submit">Submit</button>
       </form>
+      { this.state.submitStatus === "answered" &&
+        <div>
+          <Answer answer={this.state} />
+        </div>
+      }
       <div>
         {this.renderSpinner()}
         <div className="images">
