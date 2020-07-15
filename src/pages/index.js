@@ -34,7 +34,7 @@ export default class IndexPage extends React.Component {
   }
   
   getUrl(address, zoom) {
-    let url_string = `https://maps.googleapis.com/maps/api/staticmap?center=${address['latitude']},${address['longitude']}&zoom=17&scale=2&size=600x600&maptype=roadmap&style=feature:poi|visibility:off&style=element:administrative:all|visibility:off&key=${process.env.KEY}`
+    let url_string = `https://maps.googleapis.com/maps/api/staticmap?center=${address['latitude']},${address['longitude']}&zoom=17&scale=2&size=600x600&maptype=roadmap&style=feature:poi|visibility:off&style=element:administrative:all|visibility:off&key=${process.env.GATSBY_KEY}`
     return url_string
   }
 
