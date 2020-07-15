@@ -5,6 +5,7 @@ import Spinner from "../components/spinner"
 import JSONData from "../../content/taco-bells.json"
 import STATES from "../../content/states.json"
 import Answer from "../components/answer"
+import { Link } from "gatsby"
 
 export default class IndexPage extends React.Component {
   constructor(props) {
@@ -100,6 +101,7 @@ export default class IndexPage extends React.Component {
       { this.state.submitStatus === "answered" &&
         <div>
           <Answer answer={this.state} />
+          <Link to="/" state={{address: this.getAddress}}>Next Map</Link>
         </div>
       }
       <div>
