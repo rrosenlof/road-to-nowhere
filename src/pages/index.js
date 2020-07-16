@@ -81,7 +81,7 @@ export default class IndexPage extends React.Component {
   render() {
     return <Layout>
       <form onSubmit={this.handleSubmit}>
-        <div class="input-row">
+        <div className="input-row">
           <label>
             City: 
             <input type="text" name="city" value={this.state.city} onChange={this.handleInputChange} />

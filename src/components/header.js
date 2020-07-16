@@ -1,6 +1,6 @@
 import { Link } from "gatsby"
-import PropTypes from "prop-types"
 import React from "react"
+import Byrne from "../static/byrne.gif"
 
 const Header = ({ siteTitle }) => (
   <header
@@ -16,25 +16,28 @@ const Header = ({ siteTitle }) => (
         alignItems: `center`
       }}
     >
-      <h1 style={{ 
+      <div style={{ 
         margin: 0, 
-        display: `inline`,
+        display: `inline-block`,
         float: `left`}}>
-        <Link to="/">
-          Road to Nowhere
-        </Link>
-      </h1>
-      <h3 style={{ 
+        <h1>
+          <img style={{ width: `50px`}} src={Byrne} alt="talking heads gif" />
+          <Link style={{ textDecoration: `none` }} to="/">
+            Road to Nowhere
+          </Link>
+        </h1>
+      </div>
+      <div style={{ 
         margin: 0,
-        display: `inline`,
+        display: `inline-block`,
         float: "right"}}>
-        <Link to="/about/">
-          About
-        </Link>
-      </h3>
+        <h3>
+          <Link style={{ textDecoration: `none` }} to="/about/">
+            About
+          </Link>
+        </h3>
+      </div>
     </div>
-    <br/>
-    <hr />
   </header>
 )
 
