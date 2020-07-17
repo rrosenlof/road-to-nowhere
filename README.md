@@ -7,14 +7,18 @@
 1. Download the repo.
 1. Run `npm install` in the root of the project.
 1. If you haven't already, install the Gatsby CLI on your machine. `npm install -g gatsby-cli`.
-1. Create `.env.development` and `.env.production` files in the root directory. In each of these files, simply add: `GATSBY_KEY=<YOUR-MAPS-KEY-HERE>`. See the next section for info on the key and API usage.
+1. Create `.env.development` and `.env.production` files in the root directory. In each of these files, simply add: 
+```MAPQUEST_KEY=<YOUR_API_KEY_HERE>
+MAPQUEST_API_URL=https://www.mapquestapi.com/staticmap/v5/map
+```
+See the next section for info on the key and API usage.
 1. In the project, run `gatsby develop`, which will run a local instance of the project at http://localhost:8000.
 
 ## API Usage ##
 
-This project uses the [Google Maps Static API](https://developers.google.com/maps/documentation/maps-static/intro) to generate the images of the maps. To get the API key, you'll need to register the project with Google, including billing information. Unfortunately, there are charges associated with this API.
+This project uses the [MapQuest API](https://developer.mapquest.com/documentation/static-map-api/v5/), to generate the images of the maps. To get the API key, you'll need to register with MapQuest, which is free. MapQuest has a good, free tier for their API services.
 
-Another option is to use the [MapQuest API](https://developer.mapquest.com/documentation/static-map-api/v5/), which provides an almost identical service with a free-tier. The only downside is that calls to this API take much longer than Google's. To use this, simply change the `url_string` variable in the `index.js` file to match MapQuest's URL.
+Another option is to use the [Google Maps Static API](https://developers.google.com/maps/documentation/maps-static/intro), which provides an almost identical service. This API loads faster than MapQuest, however Google's version shows ownership on the image, which usually gives away the location. So road maps are better for this task. To use this, simply change the `MAPQUEST_API_URL` and key variables in the `.env` files to match Google's information.
 
 ## Deployment ##
 
@@ -29,9 +33,8 @@ A to do list:
   - Click on a map for your guess (à la Geoguessr)
   - Keep track of a score
   - Change unlimited play to a set of questions
-- Get rid of those default Gatsby styles!!
+- More styles? Colors?
 - Allow users to change settings they play with:
   - Zoom level
   - Details included (Can't really add too many)
-  - Sat vs Roadmap (Need Mapquest for sat, since Google's version shows ownership on the image, which usually gives away the location)
   - Which datasets to include (Two in the project, but easy to add more with list of coordinates)
