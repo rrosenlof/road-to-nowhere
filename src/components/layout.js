@@ -8,6 +8,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
+import Byrne from "../static/byrne.gif"
 
 import Header from "./header"
 import "../static/layout.css"
@@ -34,7 +35,9 @@ const Layout = ({ children }) => {
         }}
       >
         <main>{children}</main>
-        <footer></footer>
+        <br />
+        <hr />
+        <footer className='footer'><img style={{ width: `50px`, marginBottom: 0}} src={Byrne} alt="talking heads gif" /> <a style={{ margin: `0 0 20px 10px` }} href="https://github.com/rrosenlof/road-to-nowhere">@rrosenlof</a>, 2020</footer>
       </div>
     </>
   )

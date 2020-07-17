@@ -5,6 +5,7 @@ import Layout from "../components/layout"
 
 const Settings = () => (
   <Layout>
+    <h1>Settings</h1>
     <p>update settings here...</p>
   </Layout>
 )

@@ -1,6 +1,5 @@
 import { Link } from "gatsby"
 import React from "react"
-import Byrne from "../static/byrne.gif"
 
 const Header = ({ siteTitle }) => (
   <header
@@ -8,34 +7,25 @@ const Header = ({ siteTitle }) => (
       marginBottom: `1.45rem`,
     }}
   >
-    <div
+    <div className="header"
       style={{
         margin: `0 auto`,
         maxWidth: 900,
-        padding: `1.45rem 1.0875rem`,
-        alignItems: `center`
+        paddingTop: `1rem`,
       }}
     >
-      <div style={{ 
-        margin: 0, 
-        display: `inline-block`,
-        float: `left`}}>
-        <h1>
-          <img style={{ width: `50px`}} src={Byrne} alt="talking heads gif" />
-          <Link style={{ textDecoration: `none` }} to="/">
-            Road to Nowhere
-          </Link>
-        </h1>
+      <div className="header-left">
+        <Link style={{ textDecoration: `none`}} to="/">
+          <h2 style={{ fontSize: `2rem` }}>Road to Nowhere</h2>
+        </Link>
       </div>
-      <div style={{ 
-        margin: 0,
-        display: `inline-block`,
-        float: "right"}}>
-        <h3>
-          <Link style={{ textDecoration: `none` }} to="/about/">
-            About
-          </Link>
-        </h3>
+      <div className="header-right">
+        <Link style={{ textDecoration: `none` }} to="/settings/">
+          <h2>Settings</h2>
+        </Link>
+        <Link style={{ textDecoration: `none` }} to="/about/">
+          <h2>About</h2>
+        </Link>
       </div>
     </div>
   </header>
