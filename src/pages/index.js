@@ -34,7 +34,7 @@ export default class IndexPage extends React.Component {
   }
   
   getUrl(address, zoom) {
-    let url_string = `https://maps.googleapis.com/maps/api/staticmap?center=${address['latitude']},${address['longitude']}&zoom=17&scale=2&size=600x600&maptype=roadmap&style=feature:poi|visibility:off&style=element:administrative:all|visibility:off&key=${process.env.GATSBY_KEY}`
+    let url_string = `https://www.mapquestapi.com/staticmap/v5/map?key=${process.env.MAPQUEST_KEY}&center=${address['latitude']},${address['longitude']}&zoom=16&scalebar=false&traffic=false&size=800,800@2x&type=sat`
     return url_string
   }
 
@@ -96,7 +96,7 @@ export default class IndexPage extends React.Component {
             </select>
           </label>
         </div>
-        <button type="submit">Submit</button>
+        <button type="submit" className="button">Submit</button>
       </form>
       { this.state.submitStatus === "answered" &&
         <div>
