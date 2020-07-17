@@ -4,16 +4,16 @@
 
 ## How to Run Locally ##
 
-1. Download the repo.
-1. Run `npm install` in the root of the project.
-1. If you haven't already, install the Gatsby CLI on your machine. `npm install -g gatsby-cli`.
-1. Create `.env.development` and `.env.production` files in the root directory. In each of these files, simply add: 
+* Download the repo.
+* Run `npm install` in the root of the project.
+* If you haven't already, install the Gatsby CLI on your machine. `npm install -g gatsby-cli`.
+* Create `.env.development` and `.env.production` files in the root directory. In each of these files, simply add:
 ```
 MAPQUEST_KEY=<YOUR_API_KEY_HERE>
 MAPQUEST_API_URL=https://www.mapquestapi.com/staticmap/v5/map
 ```
 See the next section for info on the key and API usage.
-1. In the project, run `gatsby develop`, which will run a local instance of the project at http://localhost:8000.
+* In the project, run `gatsby develop`, which will run a local instance of the project at http://localhost:8000.
 
 ## API Usage ##
 
