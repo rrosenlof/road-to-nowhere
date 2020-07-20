@@ -82,21 +82,29 @@ export default class IndexPage extends React.Component {
     return <Layout>
       <form onSubmit={this.handleSubmit}>
         <div className="input-row">
-          <label>
-            City: 
-            <input type="text" name="city" value={this.state.city} onChange={this.handleInputChange} />
-          </label>
-          <label>
-            State: 
-            <select name="province" onBlur={this.handleInputChange}>
-              <option disabled defaultValue value=""> -- select an option -- </option>
-              {STATES.map((data) => {
-                return <option key={data.abbreviation} value={data.abbreviation}>{data.name}</option>
-              })}
-            </select>
-          </label>
+          <span>
+            <label>
+              City: 
+              <input type="text" name="city" value={this.state.city} onChange={this.handleInputChange} />
+            </label>
+          </span>
+          <span>
+            <label>
+              State: 
+              <select name="province" onBlur={this.handleInputChange}>
+                <option defaultValue value=""> -- select an option -- </option>
+                {STATES.map((data) => {
+                  return <option key={data.abbreviation} value={data.abbreviation}>{data.name}</option>
+                })}
+              </select>
+            </label>
+          </span>
+          <span>
+            <button type="submit" className="button">Submit</button>
+          </span>
+          
         </div>
-        <button type="submit" className="button">Submit</button>
+        
       </form>
       { this.state.submitStatus === "answered" &&
         <div>
