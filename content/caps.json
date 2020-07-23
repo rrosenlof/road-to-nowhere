@@ -9,39 +9,12 @@
     "address": ""
   },
   {
-    "province": "South Georgia and South Sandwich Islands",
-    "city": "King Edward Point",
-    "latitude": -54.283333,
-    "longitude": -36.5,
-    "CountryCode": "GS",
-    "ContinentName": "Antarctica",
-    "address": ""
-  },
-  {
-    "province": "French Southern and Antarctic Lands",
-    "city": "Port-aux-Français",
-    "latitude": -49.35,
-    "longitude": 70.216667,
-    "CountryCode": "TF",
-    "ContinentName": "Antarctica",
-    "address": ""
-  },
-  {
     "province": "Palestine",
     "city": "Jerusalem",
     "latitude": 31.76666667,
     "longitude": 35.233333,
     "CountryCode": "PS",
     "ContinentName": "Asia",
-    "address": ""
-  },
-  {
-    "province": "Aland Islands",
-    "city": "Mariehamn",
-    "latitude": 60.116667,
-    "longitude": 19.9,
-    "CountryCode": "AX",
-    "ContinentName": "Europe",
     "address": ""
   },
   {
@@ -2142,24 +2115,6 @@
     "address": ""
   },
   {
-    "province": "US Minor Outlying Islands",
-    "city": "Washington",
-    "latitude": 38.883333,
-    "longitude": -77,
-    "CountryCode": "UM",
-    "ContinentName": "Australia",
-    "address": ""
-  },
-  {
-    "province": "Antarctica",
-    "city": "N/A",
-    "latitude": 0,
-    "longitude": 0,
-    "CountryCode": "AQ",
-    "ContinentName": "Antarctica",
-    "address": ""
-  },
-  {
     "province": "Northern Cyprus",
     "city": "North Nicosia",
     "latitude": 35.183333,
@@ -2175,15 +2130,6 @@
     "longitude": 0,
     "CountryCode": "HK",
     "ContinentName": "Asia",
-    "address": ""
-  },
-  {
-    "province": "Heard Island and McDonald Islands",
-    "city": "N/A",
-    "latitude": 0,
-    "longitude": 0,
-    "CountryCode": "HM",
-    "ContinentName": "Antarctica",
     "address": ""
   },
   {

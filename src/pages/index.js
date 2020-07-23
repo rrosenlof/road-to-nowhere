@@ -2,7 +2,7 @@ import React from "react"
 
 import Layout from "../components/layout"
 import Spinner from "../components/spinner"
-import JSONData from "../../content/taco-bells.json"
+import JSONData from "../../content/caps.json"
 import STATES from "../../content/states.json"
 import Answer from "../components/answer"
 import { Link } from "gatsby"
@@ -82,12 +82,12 @@ export default class IndexPage extends React.Component {
     return <Layout>
       <form onSubmit={this.handleSubmit}>
         <div className="input-row">
-          <span>
+          {/* <span>
             <label>
               City: 
               <input type="text" name="city" value={this.state.city} onChange={this.handleInputChange} />
             </label>
-          </span>
+          </span> */}
           <span>
             <label>
               State: 
