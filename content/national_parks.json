@@ -1,0 +1,374 @@
+[
+  {
+    "latitude": -68.21,
+    "longitude": 44.35,
+    "address": "Acadia",
+    "province": "ME"
+  },
+  {
+    "latitude": -170.68,
+    "longitude": -14.25,
+    "address": "National Park of American Samoa",
+    "province": "American Samoa"
+  },
+  {
+    "latitude": -109.57,
+    "longitude": 38.68,
+    "address": "Arches",
+    "province": "UT"
+  },
+  {
+    "latitude": -102.5,
+    "longitude": 43.75,
+    "address": "Badlands",
+    "province": "SD"
+  },
+  {
+    "latitude": -103.25,
+    "longitude": 29.25,
+    "address": "Big Bend",
+    "province": "TX"
+  },
+  {
+    "latitude": -80.08,
+    "longitude": 25.65,
+    "address": "Biscayne",
+    "province": "FL"
+  },
+  {
+    "latitude": -107.72,
+    "longitude": 38.57,
+    "address": "Black Canyon of the Gunnison",
+    "province": "CO"
+  },
+  {
+    "latitude": -112.18,
+    "longitude": 37.57,
+    "address": "Bryce Canyon",
+    "province": "UT"
+  },
+  {
+    "latitude": -109.93,
+    "longitude": 38.2,
+    "address": "Canyonlands",
+    "province": "UT"
+  },
+  {
+    "latitude": -111.17,
+    "longitude": 38.2,
+    "address": "Capitol Reef",
+    "province": "UT"
+  },
+  {
+    "latitude": -104.44,
+    "longitude": 32.17,
+    "address": "Carlsbad Caverns",
+    "province": "NM"
+  },
+  {
+    "latitude": -119.42,
+    "longitude": 34.01,
+    "address": "Channel Islands",
+    "province": "CA"
+  },
+  {
+    "latitude": -80.78,
+    "longitude": 33.78,
+    "address": "Congaree",
+    "province": "SC"
+  },
+  {
+    "latitude": -122.1,
+    "longitude": 42.94,
+    "address": "Crater Lake",
+    "province": "OR"
+  },
+  {
+    "latitude": -81.55,
+    "longitude": 41.24,
+    "address": "Cuyahoga Valley",
+    "province": "OH"
+  },
+  {
+    "latitude": -116.82,
+    "longitude": 36.24,
+    "address": "Death Valley",
+    "province": "CA"
+  },
+  {
+    "latitude": -150.5,
+    "longitude": 63.33,
+    "address": "Denali",
+    "province": "AK"
+  },
+  {
+    "latitude": -82.87,
+    "longitude": 24.63,
+    "address": "Dry Tortugas",
+    "province": "FL"
+  },
+  {
+    "latitude": -80.93,
+    "longitude": 25.32,
+    "address": "Everglades",
+    "province": "FL"
+  },
+  {
+    "latitude": -153.3,
+    "longitude": 67.78,
+    "address": "Gates of the Arctic",
+    "province": "AK"
+  },
+  {
+    "latitude": -90.19,
+    "longitude": 38.63,
+    "address": "Gateway Arch",
+    "province": "MO"
+  },
+  {
+    "latitude": -114,
+    "longitude": 48.8,
+    "address": "Glacier",
+    "province": "MT"
+  },
+  {
+    "latitude": -137,
+    "longitude": 58.5,
+    "address": "Glacier Bay",
+    "province": "AK"
+  },
+  {
+    "latitude": -112.14,
+    "longitude": 36.06,
+    "address": "Grand Canyon",
+    "province": "AZ"
+  },
+  {
+    "latitude": -110.8,
+    "longitude": 43.73,
+    "address": "Grand Teton",
+    "province": "WY"
+  },
+  {
+    "latitude": -114.3,
+    "longitude": 38.98,
+    "address": "Great Basin",
+    "province": "NV"
+  },
+  {
+    "latitude": -105.51,
+    "longitude": 37.73,
+    "address": "Great Sand Dunes",
+    "province": "CO"
+  },
+  {
+    "latitude": -83.53,
+    "longitude": 35.68,
+    "address": "Great Smoky Mountains",
+    "province": "TN"
+  },
+  {
+    "latitude": -104.87,
+    "longitude": 31.92,
+    "address": "Guadalupe Mountains",
+    "province": "TX"
+  },
+  {
+    "latitude": -156.17,
+    "longitude": 20.72,
+    "address": "HaleakalA",
+    "province": "HI"
+  },
+  {
+    "latitude": -155.2,
+    "longitude": 19.38,
+    "address": "Hawai'i Volcanoes",
+    "province": "HI"
+  },
+  {
+    "latitude": -93.05,
+    "longitude": 34.51,
+    "address": "Hot Springs",
+    "province": "AR"
+  },
+  {
+    "latitude": -87.0524,
+    "longitude": 41.6533,
+    "address": "Indiana Dunes",
+    "province": "IN"
+  },
+  {
+    "latitude": -88.55,
+    "longitude": 48.1,
+    "address": "Isle Royale",
+    "province": "MI"
+  },
+  {
+    "latitude": -115.9,
+    "longitude": 33.79,
+    "address": "Joshua Tree",
+    "province": "CA"
+  },
+  {
+    "latitude": -155,
+    "longitude": 58.5,
+    "address": "Katmai",
+    "province": "AK"
+  },
+  {
+    "latitude": -149.65,
+    "longitude": 59.92,
+    "address": "Kenai Fjords",
+    "province": "AK"
+  },
+  {
+    "latitude": -118.55,
+    "longitude": 36.8,
+    "address": "Kings Canyon",
+    "province": "CA"
+  },
+  {
+    "latitude": -159.28,
+    "longitude": 67.55,
+    "address": "Kobuk Valley",
+    "province": "AK"
+  },
+  {
+    "latitude": -153.42,
+    "longitude": 60.97,
+    "address": "Lake Clark",
+    "province": "AK"
+  },
+  {
+    "latitude": -121.51,
+    "longitude": 40.49,
+    "address": "Lassen Volcanic",
+    "province": "CA"
+  },
+  {
+    "latitude": -86.1,
+    "longitude": 37.18,
+    "address": "Mammoth Cave",
+    "province": "KY"
+  },
+  {
+    "latitude": -108.49,
+    "longitude": 37.18,
+    "address": "Mesa Verde",
+    "province": "CO"
+  },
+  {
+    "latitude": -121.75,
+    "longitude": 46.85,
+    "address": "Mount Rainier",
+    "province": "WA"
+  },
+  {
+    "latitude": -121.2,
+    "longitude": 48.7,
+    "address": "North Cascades",
+    "province": "WA"
+  },
+  {
+    "latitude": -123.5,
+    "longitude": 47.97,
+    "address": "Olympic",
+    "province": "WA"
+  },
+  {
+    "latitude": -109.78,
+    "longitude": 35.07,
+    "address": "Petrified Forest",
+    "province": "AZ"
+  },
+  {
+    "latitude": -121.16,
+    "longitude": 36.48,
+    "address": "Pinnacles",
+    "province": "CA"
+  },
+  {
+    "latitude": -124,
+    "longitude": 41.3,
+    "address": "Redwood",
+    "province": "CA"
+  },
+  {
+    "latitude": -105.58,
+    "longitude": 40.4,
+    "address": "Rocky Mountain",
+    "province": "CO"
+  },
+  {
+    "latitude": -110.5,
+    "longitude": 32.25,
+    "address": "Saguaro",
+    "province": "AZ"
+  },
+  {
+    "latitude": -118.68,
+    "longitude": 36.43,
+    "address": "Sequoia",
+    "province": "CA"
+  },
+  {
+    "latitude": -78.35,
+    "longitude": 38.53,
+    "address": "Shenandoah",
+    "province": "VA"
+  },
+  {
+    "latitude": -103.45,
+    "longitude": 46.97,
+    "address": "Theodore Roosevelt",
+    "province": "ND"
+  },
+  {
+    "latitude": -64.73,
+    "longitude": 18.33,
+    "address": "Virgin Islands",
+    "province": "US VIRGIN ISLANDS"
+  },
+  {
+    "latitude": -92.88,
+    "longitude": 48.5,
+    "address": "Voyageurs",
+    "province": "MN"
+  },
+  {
+    "latitude": -106.17,
+    "longitude": 32.78,
+    "address": "White Sands",
+    "province": "NM"
+  },
+  {
+    "latitude": -103.48,
+    "longitude": 43.57,
+    "address": "Wind Cave",
+    "province": "SD"
+  },
+  {
+    "latitude": -142,
+    "longitude": 61,
+    "address": "Wrangell-St. Elias",
+    "province": "AK"
+  },
+  {
+    "latitude": -110.5,
+    "longitude": 44.6,
+    "address": "Yellowstone",
+    "province": "WY"
+  },
+  {
+    "latitude": -119.5,
+    "longitude": 37.83,
+    "address": "Yosemite",
+    "province": "CA"
+  },
+  {
+    "latitude": -113.05,
+    "longitude": 37.3,
+    "address": "Zion",
+    "province": "UT"
+  }
+]
