@@ -1,0 +1,2305 @@
+﻿STATE_1,STATE_1_ABBR,STATE_2,STATE_2_ABBR,PATH,DISTANCE
+Alabama,AL,Alabama,AL,AL,0
+Alabama,AL,Arizona,AZ,ALMSLATXNMAZ,5
+Arizona,AZ,Alabama,AL,AZNMTXLAMSAL,5
+Alabama,AL,Arkansas,AR,ALMSAR,2
+Arkansas,AR,Alabama,AL,ARMSAL,2
+Alabama,AL,California,CA,ALMSLATXNMAZCA,6
+California,CA,Alabama,AL,CAAZNMTXLAMSAL,6
+Alabama,AL,Colorado,CO,ALTNMOKSCO,4
+Colorado,CO,Alabama,AL,COKSMOTNAL,4
+Alabama,AL,Connecticut,CT,ALTNKYWVPANYCT,6
+Connecticut,CT,Alabama,AL,CTNYPAWVKYTNAL,6
+Alabama,AL,Delaware,DE,ALTNVAMDDE,4
+Delaware,DE,Alabama,AL,DEMDVATNAL,4
+Alabama,AL,Florida,FL,ALFL,1
+Florida,FL,Alabama,AL,FLAL,1
+Alabama,AL,Georgia,GA,ALGA,1
+Georgia,GA,Alabama,AL,GAAL,1
+Alabama,AL,Idaho,ID,ALTNMONEWYID,5
+Idaho,ID,Alabama,AL,IDWYNEMOTNAL,5
+Alabama,AL,Illinois,IL,ALTNKYIL,3
+Illinois,IL,Alabama,AL,ILKYTNAL,3
+Alabama,AL,Indiana,IN,ALTNKYIN,3
+Indiana,IN,Alabama,AL,INKYTNAL,3
+Alabama,AL,Iowa,IA,ALTNMOIA,3
+Iowa,IA,Alabama,AL,IAMOTNAL,3
+Alabama,AL,Kansas,KS,ALTNMOKS,3
+Kansas,KS,Alabama,AL,KSMOTNAL,3
+Alabama,AL,Kentucky,KY,ALTNKY,2
+Kentucky,KY,Alabama,AL,KYTNAL,2
+Alabama,AL,Louisiana,LA,ALMSLA,2
+Louisiana,LA,Alabama,AL,LAMSAL,2
+Alabama,AL,Maine,ME,ALTNKYWVPANYVTNHME,8
+Maine,ME,Alabama,AL,MENHVTNYPAWVKYTNAL,8
+Alabama,AL,Maryland,MD,ALTNVAMD,3
+Maryland,MD,Alabama,AL,MDVATNAL,3
+Alabama,AL,Massachusetts,MA,ALTNKYWVPANYMA,6
+Massachusetts,MA,Alabama,AL,MANYPAWVKYTNAL,6
+Alabama,AL,Michigan,MI,ALTNKYINMI,4
+Michigan,MI,Alabama,AL,MIINKYTNAL,4
+Alabama,AL,Minnesota,MN,ALTNMOIAMN,4
+Minnesota,MN,Alabama,AL,MNIAMOTNAL,4
+Alabama,AL,Mississippi,MS,ALMS,1
+Mississippi,MS,Alabama,AL,MSAL,1
+Alabama,AL,Missouri,MO,ALTNMO,2
+Missouri,MO,Alabama,AL,MOTNAL,2
+Alabama,AL,Montana,MT,ALTNMONEWYMT,5
+Montana,MT,Alabama,AL,MTWYNEMOTNAL,5
+Alabama,AL,Nebraska,NE,ALTNMONE,3
+Nebraska,NE,Alabama,AL,NEMOTNAL,3
+Alabama,AL,Nevada,NV,ALMSLATXNMAZNV,6
+Nevada,NV,Alabama,AL,NVAZNMTXLAMSAL,6
+Alabama,AL,New Hampshire,NH,ALTNKYWVPANYVTNH,7
+New Hampshire,NH,Alabama,AL,NHVTNYPAWVKYTNAL,7
+Alabama,AL,New Jersey,NJ,ALTNVAMDPANJ,5
+New Jersey,NJ,Alabama,AL,NJPAMDVATNAL,5
+Alabama,AL,New Mexico,NM,ALMSLATXNM,4
+New Mexico,NM,Alabama,AL,NMTXLAMSAL,4
+Alabama,AL,New York,NY,ALTNKYWVPANY,5
+New York,NY,Alabama,AL,NYPAWVKYTNAL,5
+Alabama,AL,North Carolina,NC,ALGANC,2
+North Carolina,NC,Alabama,AL,NCGAAL,2
+Alabama,AL,North Dakota,ND,ALTNMOIAMNND,5
+North Dakota,ND,Alabama,AL,NDMNIAMOTNAL,5
+Alabama,AL,Ohio,OH,ALTNKYOH,3
+Ohio,OH,Alabama,AL,OHKYTNAL,3
+Alabama,AL,Oklahoma,OK,ALTNMOOK,3
+Oklahoma,OK,Alabama,AL,OKMOTNAL,3
+Alabama,AL,Oregon,OR,ALTNMONEWYIDOR,6
+Oregon,OR,Alabama,AL,ORIDWYNEMOTNAL,6
+Alabama,AL,Pennsylvania,PA,ALTNKYWVPA,4
+Pennsylvania,PA,Alabama,AL,PAWVKYTNAL,4
+Alabama,AL,Rhode Island,RI,ALTNKYWVPANYCTRI,7
+Rhode Island,RI,Alabama,AL,RICTNYPAWVKYTNAL,7
+Alabama,AL,South Carolina,SC,ALGASC,2
+South Carolina,SC,Alabama,AL,SCGAAL,2
+Alabama,AL,South Dakota,SD,ALTNMOIASD,4
+South Dakota,SD,Alabama,AL,SDIAMOTNAL,4
+Alabama,AL,Tennessee,TN,ALTN,1
+Tennessee,TN,Alabama,AL,TNAL,1
+Alabama,AL,Texas,TX,ALMSLATX,3
+Texas,TX,Alabama,AL,TXLAMSAL,3
+Alabama,AL,Utah,UT,ALMSAROKCOUT,5
+Utah,UT,Alabama,AL,UTCOOKARMSAL,5
+Alabama,AL,Vermont,VT,ALTNKYWVPANYVT,6
+Vermont,VT,Alabama,AL,VTNYPAWVKYTNAL,6
+Alabama,AL,Virginia,VA,ALTNVA,2
+Virginia,VA,Alabama,AL,VATNAL,2
+Alabama,AL,Washington,WA,ALTNMONEWYIDWA,6
+Washington,WA,Alabama,AL,WAIDWYNEMOTNAL,6
+Alabama,AL,West Virginia,WV,ALTNKYWV,3
+West Virginia,WV,Alabama,AL,WVKYTNAL,3
+Alabama,AL,Wisconsin,WI,ALTNMOILWI,4
+Wisconsin,WI,Alabama,AL,WIILMOTNAL,4
+Alabama,AL,Wyoming,WY,ALTNMONEWY,4
+Wyoming,WY,Alabama,AL,WYNEMOTNAL,4
+Arizona,AZ,Arizona,AZ,AZ,0
+Arizona,AZ,Arkansas,AR,AZNMTXAR,3
+Arkansas,AR,Arizona,AZ,ARTXNMAZ,3
+Arizona,AZ,California,CA,AZCA,1
+California,CA,Arizona,AZ,CAAZ,1
+Arizona,AZ,Colorado,CO,AZUTCO,2
+Colorado,CO,Arizona,AZ,COUTAZ,2
+Arizona,AZ,Connecticut,CT,AZNMOKMOKYWVPANYCT,8
+Connecticut,CT,Arizona,AZ,CTNYPAWVKYMOOKNMAZ,8
+Arizona,AZ,Delaware,DE,AZNMOKMOKYWVMDDE,7
+Delaware,DE,Arizona,AZ,DEMDWVKYMOOKNMAZ,7
+Arizona,AZ,Florida,FL,AZNMTXLAMSALFL,6
+Florida,FL,Arizona,AZ,FLALMSLATXNMAZ,6
+Arizona,AZ,Georgia,GA,AZNMOKARTNGA,5
+Georgia,GA,Arizona,AZ,GATNAROKNMAZ,5
+Arizona,AZ,Idaho,ID,AZUTID,2
+Idaho,ID,Arizona,AZ,IDUTAZ,2
+Arizona,AZ,Illinois,IL,AZNMOKMOIL,4
+Illinois,IL,Arizona,AZ,ILMOOKNMAZ,4
+Arizona,AZ,Indiana,IN,AZNMOKMOILIN,5
+Indiana,IN,Arizona,AZ,INILMOOKNMAZ,5
+Arizona,AZ,Iowa,IA,AZNMCONEIA,4
+Iowa,IA,Arizona,AZ,IANECONMAZ,4
+Arizona,AZ,Kansas,KS,AZNMCOKS,3
+Kansas,KS,Arizona,AZ,KSCONMAZ,3
+Arizona,AZ,Kentucky,KY,AZNMOKMOKY,4
+Kentucky,KY,Arizona,AZ,KYMOOKNMAZ,4
+Arizona,AZ,Louisiana,LA,AZNMTXLA,3
+Louisiana,LA,Arizona,AZ,LATXNMAZ,3
+Arizona,AZ,Maine,ME,AZNMOKMOKYWVPANYVTNHME,10
+Maine,ME,Arizona,AZ,MENHVTNYPAWVKYMOOKNMAZ,10
+Arizona,AZ,Maryland,MD,AZNMOKMOKYWVMD,6
+Maryland,MD,Arizona,AZ,MDWVKYMOOKNMAZ,6
+Arizona,AZ,Massachusetts,MA,AZNMOKMOKYWVPANYMA,8
+Massachusetts,MA,Arizona,AZ,MANYPAWVKYMOOKNMAZ,8
+Arizona,AZ,Michigan,MI,AZNMOKMOILINMI,6
+Michigan,MI,Arizona,AZ,MIINILMOOKNMAZ,6
+Arizona,AZ,Minnesota,MN,AZNMCONEIAMN,5
+Minnesota,MN,Arizona,AZ,MNIANECONMAZ,5
+Arizona,AZ,Mississippi,MS,AZNMTXLAMS,4
+Mississippi,MS,Arizona,AZ,MSLATXNMAZ,4
+Arizona,AZ,Missouri,MO,AZNMOKMO,3
+Missouri,MO,Arizona,AZ,MOOKNMAZ,3
+Arizona,AZ,Montana,MT,AZUTIDMT,3
+Montana,MT,Arizona,AZ,MTIDUTAZ,3
+Arizona,AZ,Nebraska,NE,AZNMCONE,3
+Nebraska,NE,Arizona,AZ,NECONMAZ,3
+Arizona,AZ,Nevada,NV,AZNV,1
+Nevada,NV,Arizona,AZ,NVAZ,1
+Arizona,AZ,New Hampshire,NH,AZNMOKMOKYWVPANYVTNH,9
+New Hampshire,NH,Arizona,AZ,NHVTNYPAWVKYMOOKNMAZ,9
+Arizona,AZ,New Jersey,NJ,AZNMOKMOKYWVPANJ,7
+New Jersey,NJ,Arizona,AZ,NJPAWVKYMOOKNMAZ,7
+Arizona,AZ,New Mexico,NM,AZNM,1
+New Mexico,NM,Arizona,AZ,NMAZ,1
+Arizona,AZ,New York,NY,AZNMOKMOKYWVPANY,7
+New York,NY,Arizona,AZ,NYPAWVKYMOOKNMAZ,7
+Arizona,AZ,North Carolina,NC,AZNMOKARTNNC,5
+North Carolina,NC,Arizona,AZ,NCTNAROKNMAZ,5
+Arizona,AZ,North Dakota,ND,AZUTIDMTND,4
+North Dakota,ND,Arizona,AZ,NDMTIDUTAZ,4
+Arizona,AZ,Ohio,OH,AZNMOKMOKYOH,5
+Ohio,OH,Arizona,AZ,OHKYMOOKNMAZ,5
+Arizona,AZ,Oklahoma,OK,AZNMOK,2
+Oklahoma,OK,Arizona,AZ,OKNMAZ,2
+Arizona,AZ,Oregon,OR,AZNVOR,2
+Oregon,OR,Arizona,AZ,ORNVAZ,2
+Arizona,AZ,Pennsylvania,PA,AZNMOKMOKYWVPA,6
+Pennsylvania,PA,Arizona,AZ,PAWVKYMOOKNMAZ,6
+Arizona,AZ,Rhode Island,RI,AZNMOKMOKYWVPANYMARI,9
+Rhode Island,RI,Arizona,AZ,RIMANYPAWVKYMOOKNMAZ,9
+Arizona,AZ,South Carolina,SC,AZNMOKARTNNCSC,6
+South Carolina,SC,Arizona,AZ,SCNCTNAROKNMAZ,6
+Arizona,AZ,South Dakota,SD,AZUTWYSD,3
+South Dakota,SD,Arizona,AZ,SDWYUTAZ,3
+Arizona,AZ,Tennessee,TN,AZNMTXARTN,4
+Tennessee,TN,Arizona,AZ,TNARTXNMAZ,4
+Arizona,AZ,Texas,TX,AZNMTX,2
+Texas,TX,Arizona,AZ,TXNMAZ,2
+Arizona,AZ,Utah,UT,AZUT,1
+Utah,UT,Arizona,AZ,UTAZ,1
+Arizona,AZ,Vermont,VT,AZNMOKMOKYWVPANYVT,8
+Vermont,VT,Arizona,AZ,VTNYPAWVKYMOOKNMAZ,8
+Arizona,AZ,Virginia,VA,AZNMOKARTNVA,5
+Virginia,VA,Arizona,AZ,VATNAROKNMAZ,5
+Arizona,AZ,Washington,WA,AZUTIDWA,3
+Washington,WA,Arizona,AZ,WAIDUTAZ,3
+Arizona,AZ,West Virginia,WV,AZNMOKMOKYWV,5
+West Virginia,WV,Arizona,AZ,WVKYMOOKNMAZ,5
+Arizona,AZ,Wisconsin,WI,AZUTWYSDMNWI,5
+Wisconsin,WI,Arizona,AZ,WIMNSDWYUTAZ,5
+Arizona,AZ,Wyoming,WY,AZUTWY,2
+Wyoming,WY,Arizona,AZ,WYUTAZ,2
+Arkansas,AR,Arkansas,AR,AR,0
+Arkansas,AR,California,CA,AROKNMAZCA,4
+California,CA,Arkansas,AR,CAAZNMOKAR,4
+Arkansas,AR,Colorado,CO,AROKCO,2
+Colorado,CO,Arkansas,AR,COOKAR,2
+Arkansas,AR,Connecticut,CT,ARTNKYWVPANYCT,6
+Connecticut,CT,Arkansas,AR,CTNYPAWVKYTNAR,6
+Arkansas,AR,Delaware,DE,ARTNKYWVMDDE,5
+Delaware,DE,Arkansas,AR,DEMDWVKYTNAR,5
+Arkansas,AR,Florida,FL,ARMSALFL,3
+Florida,FL,Arkansas,AR,FLALMSAR,3
+Arkansas,AR,Georgia,GA,ARTNGA,2
+Georgia,GA,Arkansas,AR,GATNAR,2
+Arkansas,AR,Idaho,ID,ARMONEWYID,4
+Idaho,ID,Arkansas,AR,IDWYNEMOAR,4
+Arkansas,AR,Illinois,IL,ARMOIL,2
+Illinois,IL,Arkansas,AR,ILMOAR,2
+Arkansas,AR,Indiana,IN,ARTNKYIN,3
+Indiana,IN,Arkansas,AR,INKYTNAR,3
+Arkansas,AR,Iowa,IA,ARMOIA,2
+Iowa,IA,Arkansas,AR,IAMOAR,2
+Arkansas,AR,Kansas,KS,ARMOKS,2
+Kansas,KS,Arkansas,AR,KSMOAR,2
+Arkansas,AR,Kentucky,KY,ARTNKY,2
+Kentucky,KY,Arkansas,AR,KYTNAR,2
+Arkansas,AR,Louisiana,LA,ARLA,1
+Louisiana,LA,Arkansas,AR,LAAR,1
+Arkansas,AR,Maine,ME,ARTNKYWVPANYVTNHME,8
+Maine,ME,Arkansas,AR,MENHVTNYPAWVKYTNAR,8
+Arkansas,AR,Maryland,MD,ARTNKYWVMD,4
+Maryland,MD,Arkansas,AR,MDWVKYTNAR,4
+Arkansas,AR,Massachusetts,MA,ARTNKYWVPANYMA,6
+Massachusetts,MA,Arkansas,AR,MANYPAWVKYTNAR,6
+Arkansas,AR,Michigan,MI,ARMOILINMI,4
+Michigan,MI,Arkansas,AR,MIINILMOAR,4
+Arkansas,AR,Minnesota,MN,ARMOIAMN,3
+Minnesota,MN,Arkansas,AR,MNIAMOAR,3
+Arkansas,AR,Mississippi,MS,ARMS,1
+Mississippi,MS,Arkansas,AR,MSAR,1
+Arkansas,AR,Missouri,MO,ARMO,1
+Missouri,MO,Arkansas,AR,MOAR,1
+Arkansas,AR,Montana,MT,ARMOIASDMT,4
+Montana,MT,Arkansas,AR,MTSDIAMOAR,4
+Arkansas,AR,Nebraska,NE,ARMONE,2
+Nebraska,NE,Arkansas,AR,NEMOAR,2
+Arkansas,AR,Nevada,NV,AROKNMAZNV,4
+Nevada,NV,Arkansas,AR,NVAZNMOKAR,4
+Arkansas,AR,New Hampshire,NH,ARTNKYWVPANYNH,6
+New Hampshire,NH,Arkansas,AR,NHNYPAWVKYTNAR,6
+Arkansas,AR,New Jersey,NJ,ARTNKYWVPANJ,5
+New Jersey,NJ,Arkansas,AR,NJPAWVKYTNAR,5
+Arkansas,AR,New Mexico,NM,ARTXNM,2
+New Mexico,NM,Arkansas,AR,NMTXAR,2
+Arkansas,AR,New York,NY,ARTNKYWVPANY,5
+New York,NY,Arkansas,AR,NYPAWVKYTNAR,5
+Arkansas,AR,North Carolina,NC,ARTNNC,2
+North Carolina,NC,Arkansas,AR,NCTNAR,2
+Arkansas,AR,North Dakota,ND,ARMOIAMNND,4
+North Dakota,ND,Arkansas,AR,NDMNIAMOAR,4
+Arkansas,AR,Ohio,OH,ARTNKYOH,3
+Ohio,OH,Arkansas,AR,OHKYTNAR,3
+Arkansas,AR,Oklahoma,OK,AROK,1
+Oklahoma,OK,Arkansas,AR,OKAR,1
+Arkansas,AR,Oregon,OR,ARMONEWYIDOR,5
+Oregon,OR,Arkansas,AR,ORIDWYNEMOAR,5
+Arkansas,AR,Pennsylvania,PA,ARTNKYOHPA,4
+Pennsylvania,PA,Arkansas,AR,PAOHKYTNAR,4
+Arkansas,AR,Rhode Island,RI,ARTNKYWVPANYMARI,7
+Rhode Island,RI,Arkansas,AR,RIMANYPAWVKYTNAR,7
+Arkansas,AR,South Carolina,SC,ARTNNCSC,3
+South Carolina,SC,Arkansas,AR,SCNCTNAR,3
+Arkansas,AR,South Dakota,SD,ARMOIASD,3
+South Dakota,SD,Arkansas,AR,SDIAMOAR,3
+Arkansas,AR,Tennessee,TN,ARTN,1
+Tennessee,TN,Arkansas,AR,TNAR,1
+Arkansas,AR,Texas,TX,ARTX,1
+Texas,TX,Arkansas,AR,TXAR,1
+Arkansas,AR,Utah,UT,ARMOKSCOUT,4
+Utah,UT,Arkansas,AR,UTCOKSMOAR,4
+Arkansas,AR,Vermont,VT,ARTNKYWVPANYVT,6
+Vermont,VT,Arkansas,AR,VTNYPAWVKYTNAR,6
+Arkansas,AR,Virginia,VA,ARTNVA,2
+Virginia,VA,Arkansas,AR,VATNAR,2
+Arkansas,AR,Washington,WA,ARMONEWYIDWA,5
+Washington,WA,Arkansas,AR,WAIDWYNEMOAR,5
+Arkansas,AR,West Virginia,WV,ARTNKYWV,3
+West Virginia,WV,Arkansas,AR,WVKYTNAR,3
+Arkansas,AR,Wisconsin,WI,ARMOILWI,3
+Wisconsin,WI,Arkansas,AR,WIILMOAR,3
+Arkansas,AR,Wyoming,WY,ARMONEWY,3
+Wyoming,WY,Arkansas,AR,WYNEMOAR,3
+California,CA,California,CA,CA,0
+California,CA,Colorado,CO,CANVUTCO,3
+Colorado,CO,California,CA,COUTNVCA,3
+California,CA,Connecticut,CT,CAAZNMOKMOKYWVPANYCT,9
+Connecticut,CT,California,CA,CTNYPAWVKYMOOKNMAZCA,9
+California,CA,Delaware,DE,CAAZNMOKMOKYWVMDDE,8
+Delaware,DE,California,CA,DEMDWVKYMOOKNMAZCA,8
+California,CA,Florida,FL,CAAZNMOKMOTNGAFL,7
+Florida,FL,California,CA,FLGATNMOOKNMAZCA,7
+California,CA,Georgia,GA,CAAZNMOKMOTNGA,6
+Georgia,GA,California,CA,GATNMOOKNMAZCA,6
+California,CA,Idaho,ID,CANVID,2
+Idaho,ID,California,CA,IDNVCA,2
+California,CA,Illinois,IL,CAAZNMOKMOIL,5
+Illinois,IL,California,CA,ILMOOKNMAZCA,5
+California,CA,Indiana,IN,CAAZNMOKMOILIN,6
+Indiana,IN,California,CA,INILMOOKNMAZCA,6
+California,CA,Iowa,IA,CANVUTCONEIA,5
+Iowa,IA,California,CA,IANECOUTNVCA,5
+California,CA,Kansas,KS,CANVUTCOKS,4
+Kansas,KS,California,CA,KSCOUTNVCA,4
+California,CA,Kentucky,KY,CAAZNMOKMOKY,5
+Kentucky,KY,California,CA,KYMOOKNMAZCA,5
+California,CA,Louisiana,LA,CAAZNMTXLA,4
+Louisiana,LA,California,CA,LATXNMAZCA,4
+California,CA,Maine,ME,CAAZNMOKMOKYWVPANYVTNHME,11
+Maine,ME,California,CA,MENHVTNYPAWVKYMOOKNMAZCA,11
+California,CA,Maryland,MD,CAAZNMOKMOKYWVMD,7
+Maryland,MD,California,CA,MDWVKYMOOKNMAZCA,7
+California,CA,Massachusetts,MA,CAAZNMOKMOKYWVPANYMA,9
+Massachusetts,MA,California,CA,MANYPAWVKYMOOKNMAZCA,9
+California,CA,Michigan,MI,CAAZNMOKMOILINMI,7
+Michigan,MI,California,CA,MIINILMOOKNMAZCA,7
+California,CA,Minnesota,MN,CANVUTWYSDMN,5
+Minnesota,MN,California,CA,MNSDWYUTNVCA,5
+California,CA,Mississippi,MS,CAAZNMTXLAMS,5
+Mississippi,MS,California,CA,MSLATXNMAZCA,5
+California,CA,Missouri,MO,CAAZNMOKMO,4
+Missouri,MO,California,CA,MOOKNMAZCA,4
+California,CA,Montana,MT,CANVIDMT,3
+Montana,MT,California,CA,MTIDNVCA,3
+California,CA,Nebraska,NE,CANVUTCONE,4
+Nebraska,NE,California,CA,NECOUTNVCA,4
+California,CA,Nevada,NV,CANV,1
+Nevada,NV,California,CA,NVCA,1
+California,CA,New Hampshire,NH,CAAZNMOKMOKYWVPANYVTNH,10
+New Hampshire,NH,California,CA,NHVTNYPAWVKYMOOKNMAZCA,10
+California,CA,New Jersey,NJ,CAAZNMOKMOKYWVPANJ,8
+New Jersey,NJ,California,CA,NJPAWVKYMOOKNMAZCA,8
+California,CA,New Mexico,NM,CAAZNM,2
+New Mexico,NM,California,CA,NMAZCA,2
+California,CA,New York,NY,CAAZNMOKMOKYWVPANY,8
+New York,NY,California,CA,NYPAWVKYMOOKNMAZCA,8
+California,CA,North Carolina,NC,CAAZNMOKMOTNNC,6
+North Carolina,NC,California,CA,NCTNMOOKNMAZCA,6
+California,CA,North Dakota,ND,CAORIDMTND,4
+North Dakota,ND,California,CA,NDMTIDORCA,4
+California,CA,Ohio,OH,CAAZNMOKMOKYOH,6
+Ohio,OH,California,CA,OHKYMOOKNMAZCA,6
+California,CA,Oklahoma,OK,CAAZNMOK,3
+Oklahoma,OK,California,CA,OKNMAZCA,3
+California,CA,Oregon,OR,CAOR,1
+Oregon,OR,California,CA,ORCA,1
+California,CA,Pennsylvania,PA,CAAZNMOKMOKYWVPA,7
+Pennsylvania,PA,California,CA,PAWVKYMOOKNMAZCA,7
+California,CA,Rhode Island,RI,CAAZNMOKMOKYWVPANYMARI,10
+Rhode Island,RI,California,CA,RIMANYPAWVKYMOOKNMAZCA,10
+California,CA,South Carolina,SC,CAAZNMOKMOTNNCSC,7
+South Carolina,SC,California,CA,SCNCTNMOOKNMAZCA,7
+California,CA,South Dakota,SD,CANVUTWYSD,4
+South Dakota,SD,California,CA,SDWYUTNVCA,4
+California,CA,Tennessee,TN,CAAZNMOKARTN,5
+Tennessee,TN,California,CA,TNAROKNMAZCA,5
+California,CA,Texas,TX,CAAZNMTX,3
+Texas,TX,California,CA,TXNMAZCA,3
+California,CA,Utah,UT,CANVUT,2
+Utah,UT,California,CA,UTNVCA,2
+California,CA,Vermont,VT,CAAZNMOKMOKYWVPANYVT,9
+Vermont,VT,California,CA,VTNYPAWVKYMOOKNMAZCA,9
+California,CA,Virginia,VA,CAAZNMOKMOKYVA,6
+Virginia,VA,California,CA,VAKYMOOKNMAZCA,6
+California,CA,Washington,WA,CAORWA,2
+Washington,WA,California,CA,WAORCA,2
+California,CA,West Virginia,WV,CAAZNMOKMOKYWV,6
+West Virginia,WV,California,CA,WVKYMOOKNMAZCA,6
+California,CA,Wisconsin,WI,CANVUTCONEIAWI,6
+Wisconsin,WI,California,CA,WIIANECOUTNVCA,6
+California,CA,Wyoming,WY,CANVUTWY,3
+Wyoming,WY,California,CA,WYUTNVCA,3
+Colorado,CO,Colorado,CO,CO,0
+Colorado,CO,Connecticut,CT,COKSMOKYWVPANYCT,7
+Connecticut,CT,Colorado,CO,CTNYPAWVKYMOKSCO,7
+Colorado,CO,Delaware,DE,COKSMOKYWVMDDE,6
+Delaware,DE,Colorado,CO,DEMDWVKYMOKSCO,6
+Colorado,CO,Florida,FL,COKSMOTNGAFL,5
+Florida,FL,Colorado,CO,FLGATNMOKSCO,5
+Colorado,CO,Georgia,GA,COKSMOTNGA,4
+Georgia,GA,Colorado,CO,GATNMOKSCO,4
+Colorado,CO,Idaho,ID,COUTID,2
+Idaho,ID,Colorado,CO,IDUTCO,2
+Colorado,CO,Illinois,IL,COKSMOIL,3
+Illinois,IL,Colorado,CO,ILMOKSCO,3
+Colorado,CO,Indiana,IN,COKSMOILIN,4
+Indiana,IN,Colorado,CO,INILMOKSCO,4
+Colorado,CO,Iowa,IA,CONEIA,2
+Iowa,IA,Colorado,CO,IANECO,2
+Colorado,CO,Kansas,KS,COKS,1
+Kansas,KS,Colorado,CO,KSCO,1
+Colorado,CO,Kentucky,KY,COKSMOKY,3
+Kentucky,KY,Colorado,CO,KYMOKSCO,3
+Colorado,CO,Louisiana,LA,CONMTXLA,3
+Louisiana,LA,Colorado,CO,LATXNMCO,3
+Colorado,CO,Maine,ME,COKSMOKYWVPANYVTNHME,9
+Maine,ME,Colorado,CO,MENHVTNYPAWVKYMOKSCO,9
+Colorado,CO,Maryland,MD,COKSMOKYWVMD,5
+Maryland,MD,Colorado,CO,MDWVKYMOKSCO,5
+Colorado,CO,Massachusetts,MA,COKSMOKYWVPANYMA,7
+Massachusetts,MA,Colorado,CO,MANYPAWVKYMOKSCO,7
+Colorado,CO,Michigan,MI,CONEIAWIMI,4
+Michigan,MI,Colorado,CO,MIWIIANECO,4
+Colorado,CO,Minnesota,MN,CONEIAMN,3
+Minnesota,MN,Colorado,CO,MNIANECO,3
+Colorado,CO,Mississippi,MS,COOKARMS,3
+Mississippi,MS,Colorado,CO,MSAROKCO,3
+Colorado,CO,Missouri,MO,COKSMO,2
+Missouri,MO,Colorado,CO,MOKSCO,2
+Colorado,CO,Montana,MT,COWYMT,2
+Montana,MT,Colorado,CO,MTWYCO,2
+Colorado,CO,Nebraska,NE,CONE,1
+Nebraska,NE,Colorado,CO,NECO,1
+Colorado,CO,Nevada,NV,COUTNV,2
+Nevada,NV,Colorado,CO,NVUTCO,2
+Colorado,CO,New Hampshire,NH,COKSMOKYWVPANYVTNH,8
+New Hampshire,NH,Colorado,CO,NHVTNYPAWVKYMOKSCO,8
+Colorado,CO,New Jersey,NJ,COKSMOKYWVPANJ,6
+New Jersey,NJ,Colorado,CO,NJPAWVKYMOKSCO,6
+Colorado,CO,New Mexico,NM,CONM,1
+New Mexico,NM,Colorado,CO,NMCO,1
+Colorado,CO,New York,NY,COKSMOKYWVPANY,6
+New York,NY,Colorado,CO,NYPAWVKYMOKSCO,6
+Colorado,CO,North Carolina,NC,COKSMOTNNC,4
+North Carolina,NC,Colorado,CO,NCTNMOKSCO,4
+Colorado,CO,North Dakota,ND,COWYMTND,3
+North Dakota,ND,Colorado,CO,NDMTWYCO,3
+Colorado,CO,Ohio,OH,COKSMOKYOH,4
+Ohio,OH,Colorado,CO,OHKYMOKSCO,4
+Colorado,CO,Oklahoma,OK,COOK,1
+Oklahoma,OK,Colorado,CO,OKCO,1
+Colorado,CO,Oregon,OR,COWYIDOR,3
+Oregon,OR,Colorado,CO,ORIDWYCO,3
+Colorado,CO,Pennsylvania,PA,COKSMOKYWVPA,5
+Pennsylvania,PA,Colorado,CO,PAWVKYMOKSCO,5
+Colorado,CO,Rhode Island,RI,COKSMOKYWVPANYMARI,8
+Rhode Island,RI,Colorado,CO,RIMANYPAWVKYMOKSCO,8
+Colorado,CO,South Carolina,SC,COKSMOTNGASC,5
+South Carolina,SC,Colorado,CO,SCGATNMOKSCO,5
+Colorado,CO,South Dakota,SD,CONESD,2
+South Dakota,SD,Colorado,CO,SDNECO,2
+Colorado,CO,Tennessee,TN,COKSMOTN,3
+Tennessee,TN,Colorado,CO,TNMOKSCO,3
+Colorado,CO,Texas,TX,CONMTX,2
+Texas,TX,Colorado,CO,TXNMCO,2
+Colorado,CO,Utah,UT,COUT,1
+Utah,UT,Colorado,CO,UTCO,1
+Colorado,CO,Vermont,VT,COKSMOKYWVPANYVT,7
+Vermont,VT,Colorado,CO,VTNYPAWVKYMOKSCO,7
+Colorado,CO,Virginia,VA,COKSMOKYVA,4
+Virginia,VA,Colorado,CO,VAKYMOKSCO,4
+Colorado,CO,Washington,WA,COWYIDWA,3
+Washington,WA,Colorado,CO,WAIDWYCO,3
+Colorado,CO,West Virginia,WV,COKSMOKYWV,4
+West Virginia,WV,Colorado,CO,WVKYMOKSCO,4
+Colorado,CO,Wisconsin,WI,CONEIAWI,3
+Wisconsin,WI,Colorado,CO,WIIANECO,3
+Colorado,CO,Wyoming,WY,COWY,1
+Wyoming,WY,Colorado,CO,WYCO,1
+Connecticut,CT,Connecticut,CT,CT,0
+Connecticut,CT,Delaware,DE,CTNYPADE,3
+Delaware,DE,Connecticut,CT,DEPANYCT,3
+Connecticut,CT,Florida,FL,CTNYPAMDVANCGAFL,7
+Florida,FL,Connecticut,CT,FLGANCVAMDPANYCT,7
+Connecticut,CT,Georgia,GA,CTNYPAMDVANCGA,6
+Georgia,GA,Connecticut,CT,GANCVAMDPANYCT,6
+Connecticut,CT,Idaho,ID,CTNYPAWVKYMONEWYID,8
+Idaho,ID,Connecticut,CT,IDWYNEMOKYWVPANYCT,8
+Connecticut,CT,Illinois,IL,CTNYPAWVKYIL,5
+Illinois,IL,Connecticut,CT,ILKYWVPANYCT,5
+Connecticut,CT,Indiana,IN,CTNYPAOHIN,4
+Indiana,IN,Connecticut,CT,INOHPANYCT,4
+Connecticut,CT,Iowa,IA,CTNYPAWVKYMOIA,6
+Iowa,IA,Connecticut,CT,IAMOKYWVPANYCT,6
+Connecticut,CT,Kansas,KS,CTNYPAWVKYMOKS,6
+Kansas,KS,Connecticut,CT,KSMOKYWVPANYCT,6
+Connecticut,CT,Kentucky,KY,CTNYPAMDVAKY,5
+Kentucky,KY,Connecticut,CT,KYVAMDPANYCT,5
+Connecticut,CT,Louisiana,LA,CTNYPAWVKYMOARLA,7
+Louisiana,LA,Connecticut,CT,LAARMOKYWVPANYCT,7
+Connecticut,CT,Maine,ME,CTMANHME,3
+Maine,ME,Connecticut,CT,MENHMACT,3
+Connecticut,CT,Maryland,MD,CTNYPAMD,3
+Maryland,MD,Connecticut,CT,MDPANYCT,3
+Connecticut,CT,Massachusetts,MA,CTMA,1
+Massachusetts,MA,Connecticut,CT,MACT,1
+Connecticut,CT,Michigan,MI,CTNYPAOHMI,4
+Michigan,MI,Connecticut,CT,MIOHPANYCT,4
+Connecticut,CT,Minnesota,MN,CTNYPAOHMIWIMN,6
+Minnesota,MN,Connecticut,CT,MNWIMIOHPANYCT,6
+Connecticut,CT,Mississippi,MS,CTNYPAMDVATNMS,6
+Mississippi,MS,Connecticut,CT,MSTNVAMDPANYCT,6
+Connecticut,CT,Missouri,MO,CTNYPAWVKYMO,5
+Missouri,MO,Connecticut,CT,MOKYWVPANYCT,5
+Connecticut,CT,Montana,MT,CTNYPAOHMIWIMNNDMT,8
+Montana,MT,Connecticut,CT,MTNDMNWIMIOHPANYCT,8
+Connecticut,CT,Nebraska,NE,CTNYPAWVKYMONE,6
+Nebraska,NE,Connecticut,CT,NEMOKYWVPANYCT,6
+Connecticut,CT,Nevada,NV,CTNYPAWVKYMOKSCOUTNV,9
+Nevada,NV,Connecticut,CT,NVUTCOKSMOKYWVPANYCT,9
+Connecticut,CT,New Hampshire,NH,CTMANH,2
+New Hampshire,NH,Connecticut,CT,NHMACT,2
+Connecticut,CT,New Jersey,NJ,CTNYNJ,2
+New Jersey,NJ,Connecticut,CT,NJNYCT,2
+Connecticut,CT,New Mexico,NM,CTNYPAWVKYMOOKNM,7
+New Mexico,NM,Connecticut,CT,NMOKMOKYWVPANYCT,7
+Connecticut,CT,New York,NY,CTNY,1
+New York,NY,Connecticut,CT,NYCT,1
+Connecticut,CT,North Carolina,NC,CTNYPAMDVANC,5
+North Carolina,NC,Connecticut,CT,NCVAMDPANYCT,5
+Connecticut,CT,North Dakota,ND,CTNYPAOHMIWIMNND,7
+North Dakota,ND,Connecticut,CT,NDMNWIMIOHPANYCT,7
+Connecticut,CT,Ohio,OH,CTNYPAOH,3
+Ohio,OH,Connecticut,CT,OHPANYCT,3
+Connecticut,CT,Oklahoma,OK,CTNYPAWVKYMOOK,6
+Oklahoma,OK,Connecticut,CT,OKMOKYWVPANYCT,6
+Connecticut,CT,Oregon,OR,CTNYPAWVKYMONEWYIDOR,9
+Oregon,OR,Connecticut,CT,ORIDWYNEMOKYWVPANYCT,9
+Connecticut,CT,Pennsylvania,PA,CTNYPA,2
+Pennsylvania,PA,Connecticut,CT,PANYCT,2
+Connecticut,CT,Rhode Island,RI,CTRI,1
+Rhode Island,RI,Connecticut,CT,RICT,1
+Connecticut,CT,South Carolina,SC,CTNYPAMDVANCSC,6
+South Carolina,SC,Connecticut,CT,SCNCVAMDPANYCT,6
+Connecticut,CT,South Dakota,SD,CTNYPAOHMIWIMNSD,7
+South Dakota,SD,Connecticut,CT,SDMNWIMIOHPANYCT,7
+Connecticut,CT,Tennessee,TN,CTNYPAMDVATN,5
+Tennessee,TN,Connecticut,CT,TNVAMDPANYCT,5
+Connecticut,CT,Texas,TX,CTNYPAWVKYMOOKTX,7
+Texas,TX,Connecticut,CT,TXOKMOKYWVPANYCT,7
+Connecticut,CT,Utah,UT,CTNYPAWVKYMOKSCOUT,8
+Utah,UT,Connecticut,CT,UTCOKSMOKYWVPANYCT,8
+Connecticut,CT,Vermont,VT,CTMAVT,2
+Vermont,VT,Connecticut,CT,VTMACT,2
+Connecticut,CT,Virginia,VA,CTNYPAMDVA,4
+Virginia,VA,Connecticut,CT,VAMDPANYCT,4
+Connecticut,CT,Washington,WA,CTNYPAWVKYMONEWYIDWA,9
+Washington,WA,Connecticut,CT,WAIDWYNEMOKYWVPANYCT,9
+Connecticut,CT,West Virginia,WV,CTNYPAWV,3
+West Virginia,WV,Connecticut,CT,WVPANYCT,3
+Connecticut,CT,Wisconsin,WI,CTNYPAOHMIWI,5
+Wisconsin,WI,Connecticut,CT,WIMIOHPANYCT,5
+Connecticut,CT,Wyoming,WY,CTNYPAWVKYMONEWY,7
+Wyoming,WY,Connecticut,CT,WYNEMOKYWVPANYCT,7
+Delaware,DE,Delaware,DE,DE,0
+Delaware,DE,Florida,FL,DEMDVATNGAFL,5
+Florida,FL,Delaware,DE,FLGATNVAMDDE,5
+Delaware,DE,Georgia,GA,DEMDVANCGA,4
+Georgia,GA,Delaware,DE,GANCVAMDDE,4
+Delaware,DE,Idaho,ID,DEMDVAKYMONEWYID,7
+Idaho,ID,Delaware,DE,IDWYNEMOKYVAMDDE,7
+Delaware,DE,Illinois,IL,DEPAOHINIL,4
+Illinois,IL,Delaware,DE,ILINOHPADE,4
+Delaware,DE,Indiana,IN,DEPAOHIN,3
+Indiana,IN,Delaware,DE,INOHPADE,3
+Delaware,DE,Iowa,IA,DEMDVAKYMOIA,5
+Iowa,IA,Delaware,DE,IAMOKYVAMDDE,5
+Delaware,DE,Kansas,KS,DEMDVAKYMOKS,5
+Kansas,KS,Delaware,DE,KSMOKYVAMDDE,5
+Delaware,DE,Kentucky,KY,DEMDVAKY,3
+Kentucky,KY,Delaware,DE,KYVAMDDE,3
+Delaware,DE,Louisiana,LA,DEMDVATNMSLA,5
+Louisiana,LA,Delaware,DE,LAMSTNVAMDDE,5
+Delaware,DE,Maine,ME,DEPANYVTNHME,5
+Maine,ME,Delaware,DE,MENHVTNYPADE,5
+Delaware,DE,Maryland,MD,DEMD,1
+Maryland,MD,Delaware,DE,MDDE,1
+Delaware,DE,Massachusetts,MA,DEPANYMA,3
+Massachusetts,MA,Delaware,DE,MANYPADE,3
+Delaware,DE,Michigan,MI,DEPAOHMI,3
+Michigan,MI,Delaware,DE,MIOHPADE,3
+Delaware,DE,Minnesota,MN,DEPAOHMIWIMN,5
+Minnesota,MN,Delaware,DE,MNWIMIOHPADE,5
+Delaware,DE,Mississippi,MS,DEMDVATNMS,4
+Mississippi,MS,Delaware,DE,MSTNVAMDDE,4
+Delaware,DE,Missouri,MO,DEMDVAKYMO,4
+Missouri,MO,Delaware,DE,MOKYVAMDDE,4
+Delaware,DE,Montana,MT,DEPAOHMIWIMNNDMT,7
+Montana,MT,Delaware,DE,MTNDMNWIMIOHPADE,7
+Delaware,DE,Nebraska,NE,DEMDVAKYMONE,5
+Nebraska,NE,Delaware,DE,NEMOKYVAMDDE,5
+Delaware,DE,Nevada,NV,DEMDVAKYMOKSCOUTNV,8
+Nevada,NV,Delaware,DE,NVUTCOKSMOKYVAMDDE,8
+Delaware,DE,New Hampshire,NH,DEPANYMANH,4
+New Hampshire,NH,Delaware,DE,NHMANYPADE,4
+Delaware,DE,New Jersey,NJ,DENJ,1
+New Jersey,NJ,Delaware,DE,NJDE,1
+Delaware,DE,New Mexico,NM,DEMDVAKYMOOKNM,6
+New Mexico,NM,Delaware,DE,NMOKMOKYVAMDDE,6
+Delaware,DE,New York,NY,DEPANY,2
+New York,NY,Delaware,DE,NYPADE,2
+Delaware,DE,North Carolina,NC,DEMDVANC,3
+North Carolina,NC,Delaware,DE,NCVAMDDE,3
+Delaware,DE,North Dakota,ND,DEPAOHMIWIMNND,6
+North Dakota,ND,Delaware,DE,NDMNWIMIOHPADE,6
+Delaware,DE,Ohio,OH,DEPAOH,2
+Ohio,OH,Delaware,DE,OHPADE,2
+Delaware,DE,Oklahoma,OK,DEMDVATNAROK,5
+Oklahoma,OK,Delaware,DE,OKARTNVAMDDE,5
+Delaware,DE,Oregon,OR,DEMDVAKYMONEWYIDOR,8
+Oregon,OR,Delaware,DE,ORIDWYNEMOKYVAMDDE,8
+Delaware,DE,Pennsylvania,PA,DEPA,1
+Pennsylvania,PA,Delaware,DE,PADE,1
+Delaware,DE,Rhode Island,RI,DEPANYCTRI,4
+Rhode Island,RI,Delaware,DE,RICTNYPADE,4
+Delaware,DE,South Carolina,SC,DEMDVANCSC,4
+South Carolina,SC,Delaware,DE,SCNCVAMDDE,4
+Delaware,DE,South Dakota,SD,DEMDVAKYMONESD,6
+South Dakota,SD,Delaware,DE,SDNEMOKYVAMDDE,6
+Delaware,DE,Tennessee,TN,DEMDVATN,3
+Tennessee,TN,Delaware,DE,TNVAMDDE,3
+Delaware,DE,Texas,TX,DEMDVATNARTX,5
+Texas,TX,Delaware,DE,TXARTNVAMDDE,5
+Delaware,DE,Utah,UT,DEMDVAKYMOKSCOUT,7
+Utah,UT,Delaware,DE,UTCOKSMOKYVAMDDE,7
+Delaware,DE,Vermont,VT,DEPANYVT,3
+Vermont,VT,Delaware,DE,VTNYPADE,3
+Delaware,DE,Virginia,VA,DEMDVA,2
+Virginia,VA,Delaware,DE,VAMDDE,2
+Delaware,DE,Washington,WA,DEMDVAKYMONEWYIDWA,8
+Washington,WA,Delaware,DE,WAIDWYNEMOKYVAMDDE,8
+Delaware,DE,West Virginia,WV,DEMDWV,2
+West Virginia,WV,Delaware,DE,WVMDDE,2
+Delaware,DE,Wisconsin,WI,DEPAOHMIWI,4
+Wisconsin,WI,Delaware,DE,WIMIOHPADE,4
+Delaware,DE,Wyoming,WY,DEMDVAKYMONEWY,6
+Wyoming,WY,Delaware,DE,WYNEMOKYVAMDDE,6
+Florida,FL,Florida,FL,FL,0
+Florida,FL,Georgia,GA,FLGA,1
+Georgia,GA,Florida,FL,GAFL,1
+Florida,FL,Idaho,ID,FLGATNMONEWYID,6
+Idaho,ID,Florida,FL,IDWYNEMOTNGAFL,6
+Florida,FL,Illinois,IL,FLGATNMOIL,4
+Illinois,IL,Florida,FL,ILMOTNGAFL,4
+Florida,FL,Indiana,IN,FLGATNKYIN,4
+Indiana,IN,Florida,FL,INKYTNGAFL,4
+Florida,FL,Iowa,IA,FLGATNMOIA,4
+Iowa,IA,Florida,FL,IAMOTNGAFL,4
+Florida,FL,Kansas,KS,FLGATNMOKS,4
+Kansas,KS,Florida,FL,KSMOTNGAFL,4
+Florida,FL,Kentucky,KY,FLGATNKY,3
+Kentucky,KY,Florida,FL,KYTNGAFL,3
+Florida,FL,Louisiana,LA,FLALMSLA,3
+Louisiana,LA,Florida,FL,LAMSALFL,3
+Florida,FL,Maine,ME,FLGANCVAWVPANYVTNHME,9
+Maine,ME,Florida,FL,MENHVTNYPAWVVANCGAFL,9
+Florida,FL,Maryland,MD,FLGANCVAMD,4
+Maryland,MD,Florida,FL,MDVANCGAFL,4
+Florida,FL,Massachusetts,MA,FLGANCVAWVPANYMA,7
+Massachusetts,MA,Florida,FL,MANYPAWVVANCGAFL,7
+Florida,FL,Michigan,MI,FLGATNKYOHMI,5
+Michigan,MI,Florida,FL,MIOHKYTNGAFL,5
+Florida,FL,Minnesota,MN,FLGATNMOIAMN,5
+Minnesota,MN,Florida,FL,MNIAMOTNGAFL,5
+Florida,FL,Mississippi,MS,FLALMS,2
+Mississippi,MS,Florida,FL,MSALFL,2
+Florida,FL,Missouri,MO,FLGATNMO,3
+Missouri,MO,Florida,FL,MOTNGAFL,3
+Florida,FL,Montana,MT,FLGATNMONEWYMT,6
+Montana,MT,Florida,FL,MTWYNEMOTNGAFL,6
+Florida,FL,Nebraska,NE,FLGATNMONE,4
+Nebraska,NE,Florida,FL,NEMOTNGAFL,4
+Florida,FL,Nevada,NV,FLGATNMOKSCOUTNV,7
+Nevada,NV,Florida,FL,NVUTCOKSMOTNGAFL,7
+Florida,FL,New Hampshire,NH,FLGANCVAWVPANYVTNH,8
+New Hampshire,NH,Florida,FL,NHVTNYPAWVVANCGAFL,8
+Florida,FL,New Jersey,NJ,FLGANCVAMDPANJ,6
+New Jersey,NJ,Florida,FL,NJPAMDVANCGAFL,6
+Florida,FL,New Mexico,NM,FLGATNAROKNM,5
+New Mexico,NM,Florida,FL,NMOKARTNGAFL,5
+Florida,FL,New York,NY,FLGANCVAWVPANY,6
+New York,NY,Florida,FL,NYPAWVVANCGAFL,6
+Florida,FL,North Carolina,NC,FLGANC,2
+North Carolina,NC,Florida,FL,NCGAFL,2
+Florida,FL,North Dakota,ND,FLGATNMOIAMNND,6
+North Dakota,ND,Florida,FL,NDMNIAMOTNGAFL,6
+Florida,FL,Ohio,OH,FLGATNKYOH,4
+Ohio,OH,Florida,FL,OHKYTNGAFL,4
+Florida,FL,Oklahoma,OK,FLGATNAROK,4
+Oklahoma,OK,Florida,FL,OKARTNGAFL,4
+Florida,FL,Oregon,OR,FLGATNMONEWYIDOR,7
+Oregon,OR,Florida,FL,ORIDWYNEMOTNGAFL,7
+Florida,FL,Pennsylvania,PA,FLGATNKYOHPA,5
+Pennsylvania,PA,Florida,FL,PAOHKYTNGAFL,5
+Florida,FL,Rhode Island,RI,FLGANCVAWVPANYMARI,8
+Rhode Island,RI,Florida,FL,RIMANYPAWVVANCGAFL,8
+Florida,FL,South Carolina,SC,FLGASC,2
+South Carolina,SC,Florida,FL,SCGAFL,2
+Florida,FL,South Dakota,SD,FLGATNMONESD,5
+South Dakota,SD,Florida,FL,SDNEMOTNGAFL,5
+Florida,FL,Tennessee,TN,FLGATN,2
+Tennessee,TN,Florida,FL,TNGAFL,2
+Florida,FL,Texas,TX,FLALMSLATX,4
+Texas,TX,Florida,FL,TXLAMSALFL,4
+Florida,FL,Utah,UT,FLGATNMOKSCOUT,6
+Utah,UT,Florida,FL,UTCOKSMOTNGAFL,6
+Florida,FL,Vermont,VT,FLGANCVAWVPANYVT,7
+Vermont,VT,Florida,FL,VTNYPAWVVANCGAFL,7
+Florida,FL,Virginia,VA,FLGATNVA,3
+Virginia,VA,Florida,FL,VATNGAFL,3
+Florida,FL,Washington,WA,FLGATNMONEWYIDWA,7
+Washington,WA,Florida,FL,WAIDWYNEMOTNGAFL,7
+Florida,FL,West Virginia,WV,FLGATNVAWV,4
+West Virginia,WV,Florida,FL,WVVATNGAFL,4
+Florida,FL,Wisconsin,WI,FLGATNMOIAWI,5
+Wisconsin,WI,Florida,FL,WIIAMOTNGAFL,5
+Florida,FL,Wyoming,WY,FLGATNMOKSCOWY,6
+Wyoming,WY,Florida,FL,WYCOKSMOTNGAFL,6
+Georgia,GA,Georgia,GA,GA,0
+Georgia,GA,Idaho,ID,GATNMONEWYID,5
+Idaho,ID,Georgia,GA,IDWYNEMOTNGA,5
+Georgia,GA,Illinois,IL,GATNKYIL,3
+Illinois,IL,Georgia,GA,ILKYTNGA,3
+Georgia,GA,Indiana,IN,GATNKYIN,3
+Indiana,IN,Georgia,GA,INKYTNGA,3
+Georgia,GA,Iowa,IA,GATNKYILIA,4
+Iowa,IA,Georgia,GA,IAILKYTNGA,4
+Georgia,GA,Kansas,KS,GATNMOKS,3
+Kansas,KS,Georgia,GA,KSMOTNGA,3
+Georgia,GA,Kentucky,KY,GATNKY,2
+Kentucky,KY,Georgia,GA,KYTNGA,2
+Georgia,GA,Louisiana,LA,GAALMSLA,3
+Louisiana,LA,Georgia,GA,LAMSALGA,3
+Georgia,GA,Maine,ME,GANCVAMDPANYVTNHME,8
+Maine,ME,Georgia,GA,MENHVTNYPAMDVANCGA,8
+Georgia,GA,Maryland,MD,GANCVAMD,3
+Maryland,MD,Georgia,GA,MDVANCGA,3
+Georgia,GA,Massachusetts,MA,GANCVAMDPANYMA,6
+Massachusetts,MA,Georgia,GA,MANYPAMDVANCGA,6
+Georgia,GA,Michigan,MI,GATNKYOHMI,4
+Michigan,MI,Georgia,GA,MIOHKYTNGA,4
+Georgia,GA,Minnesota,MN,GATNMOIAMN,4
+Minnesota,MN,Georgia,GA,MNIAMOTNGA,4
+Georgia,GA,Mississippi,MS,GAALMS,2
+Mississippi,MS,Georgia,GA,MSALGA,2
+Georgia,GA,Missouri,MO,GATNMO,2
+Missouri,MO,Georgia,GA,MOTNGA,2
+Georgia,GA,Montana,MT,GATNMONEWYMT,5
+Montana,MT,Georgia,GA,MTWYNEMOTNGA,5
+Georgia,GA,Nebraska,NE,GATNMONE,3
+Nebraska,NE,Georgia,GA,NEMOTNGA,3
+Georgia,GA,Nevada,NV,GATNAROKNMAZNV,6
+Nevada,NV,Georgia,GA,NVAZNMOKARTNGA,6
+Georgia,GA,New Hampshire,NH,GANCVAMDPANYVTNH,7
+New Hampshire,NH,Georgia,GA,NHVTNYPAMDVANCGA,7
+Georgia,GA,New Jersey,NJ,GATNKYWVPANJ,5
+New Jersey,NJ,Georgia,GA,NJPAWVKYTNGA,5
+Georgia,GA,New Mexico,NM,GATNAROKNM,4
+New Mexico,NM,Georgia,GA,NMOKARTNGA,4
+Georgia,GA,New York,NY,GATNKYWVPANY,5
+New York,NY,Georgia,GA,NYPAWVKYTNGA,5
+Georgia,GA,North Carolina,NC,GANC,1
+North Carolina,NC,Georgia,GA,NCGA,1
+Georgia,GA,North Dakota,ND,GATNMOIAMNND,5
+North Dakota,ND,Georgia,GA,NDMNIAMOTNGA,5
+Georgia,GA,Ohio,OH,GATNKYOH,3
+Ohio,OH,Georgia,GA,OHKYTNGA,3
+Georgia,GA,Oklahoma,OK,GATNAROK,3
+Oklahoma,OK,Georgia,GA,OKARTNGA,3
+Georgia,GA,Oregon,OR,GATNMONEWYIDOR,6
+Oregon,OR,Georgia,GA,ORIDWYNEMOTNGA,6
+Georgia,GA,Pennsylvania,PA,GATNKYOHPA,4
+Pennsylvania,PA,Georgia,GA,PAOHKYTNGA,4
+Georgia,GA,Rhode Island,RI,GANCVAMDPANYMARI,7
+Rhode Island,RI,Georgia,GA,RIMANYPAMDVANCGA,7
+Georgia,GA,South Carolina,SC,GASC,1
+South Carolina,SC,Georgia,GA,SCGA,1
+Georgia,GA,South Dakota,SD,GATNMONESD,4
+South Dakota,SD,Georgia,GA,SDNEMOTNGA,4
+Georgia,GA,Tennessee,TN,GATN,1
+Tennessee,TN,Georgia,GA,TNGA,1
+Georgia,GA,Texas,TX,GATNARTX,3
+Texas,TX,Georgia,GA,TXARTNGA,3
+Georgia,GA,Utah,UT,GATNMOKSCOUT,5
+Utah,UT,Georgia,GA,UTCOKSMOTNGA,5
+Georgia,GA,Vermont,VT,GATNKYWVPANYVT,6
+Vermont,VT,Georgia,GA,VTNYPAWVKYTNGA,6
+Georgia,GA,Virginia,VA,GATNVA,2
+Virginia,VA,Georgia,GA,VATNGA,2
+Georgia,GA,Washington,WA,GATNMONEWYIDWA,6
+Washington,WA,Georgia,GA,WAIDWYNEMOTNGA,6
+Georgia,GA,West Virginia,WV,GATNKYWV,3
+West Virginia,WV,Georgia,GA,WVKYTNGA,3
+Georgia,GA,Wisconsin,WI,GATNMOIAWI,4
+Wisconsin,WI,Georgia,GA,WIIAMOTNGA,4
+Georgia,GA,Wyoming,WY,GATNMONEWY,4
+Wyoming,WY,Georgia,GA,WYNEMOTNGA,4
+Idaho,ID,Idaho,ID,ID,0
+Idaho,ID,Illinois,IL,IDWYNEIAIL,4
+Illinois,IL,Idaho,ID,ILIANEWYID,4
+Idaho,ID,Indiana,IN,IDWYNEIAILIN,5
+Indiana,IN,Idaho,ID,INILIANEWYID,5
+Idaho,ID,Iowa,IA,IDWYNEIA,3
+Iowa,IA,Idaho,ID,IANEWYID,3
+Idaho,ID,Kansas,KS,IDWYNEKS,3
+Kansas,KS,Idaho,ID,KSNEWYID,3
+Idaho,ID,Kentucky,KY,IDWYNEMOKY,4
+Kentucky,KY,Idaho,ID,KYMONEWYID,4
+Idaho,ID,Louisiana,LA,IDWYNEMOARLA,5
+Louisiana,LA,Idaho,ID,LAARMONEWYID,5
+Idaho,ID,Maine,ME,IDWYNEIAILINOHPANYVTNHME,11
+Maine,ME,Idaho,ID,MENHVTNYPAOHINILIANEWYID,11
+Idaho,ID,Maryland,MD,IDWYNEMOKYWVMD,6
+Maryland,MD,Idaho,ID,MDWVKYMONEWYID,6
+Idaho,ID,Massachusetts,MA,IDWYNEIAILINOHPANYMA,9
+Massachusetts,MA,Idaho,ID,MANYPAOHINILIANEWYID,9
+Idaho,ID,Michigan,MI,IDWYSDMNWIMI,5
+Michigan,MI,Idaho,ID,MIWIMNSDWYID,5
+Idaho,ID,Minnesota,MN,IDWYSDMN,3
+Minnesota,MN,Idaho,ID,MNSDWYID,3
+Idaho,ID,Mississippi,MS,IDWYNEMOARMS,5
+Mississippi,MS,Idaho,ID,MSARMONEWYID,5
+Idaho,ID,Missouri,MO,IDWYNEMO,3
+Missouri,MO,Idaho,ID,MONEWYID,3
+Idaho,ID,Montana,MT,IDMT,1
+Montana,MT,Idaho,ID,MTID,1
+Idaho,ID,Nebraska,NE,IDWYNE,2
+Nebraska,NE,Idaho,ID,NEWYID,2
+Idaho,ID,Nevada,NV,IDNV,1
+Nevada,NV,Idaho,ID,NVID,1
+Idaho,ID,New Hampshire,NH,IDWYNEIAILINOHPANYVTNH,10
+New Hampshire,NH,Idaho,ID,NHVTNYPAOHINILIANEWYID,10
+Idaho,ID,New Jersey,NJ,IDWYNEIAILINOHPANJ,8
+New Jersey,NJ,Idaho,ID,NJPAOHINILIANEWYID,8
+Idaho,ID,New Mexico,NM,IDUTCONM,3
+New Mexico,NM,Idaho,ID,NMCOUTID,3
+Idaho,ID,New York,NY,IDWYNEIAILINOHPANY,8
+New York,NY,Idaho,ID,NYPAOHINILIANEWYID,8
+Idaho,ID,North Carolina,NC,IDWYNEMOTNNC,5
+North Carolina,NC,Idaho,ID,NCTNMONEWYID,5
+Idaho,ID,North Dakota,ND,IDMTND,2
+North Dakota,ND,Idaho,ID,NDMTID,2
+Idaho,ID,Ohio,OH,IDWYNEMOKYOH,5
+Ohio,OH,Idaho,ID,OHKYMONEWYID,5
+Idaho,ID,Oklahoma,OK,IDUTCOOK,3
+Oklahoma,OK,Idaho,ID,OKCOUTID,3
+Idaho,ID,Oregon,OR,IDOR,1
+Oregon,OR,Idaho,ID,ORID,1
+Idaho,ID,Pennsylvania,PA,IDWYNEMOKYWVPA,6
+Pennsylvania,PA,Idaho,ID,PAWVKYMONEWYID,6
+Idaho,ID,Rhode Island,RI,IDWYNEIAILINOHPANYMARI,10
+Rhode Island,RI,Idaho,ID,RIMANYPAOHINILIANEWYID,10
+Idaho,ID,South Carolina,SC,IDWYNEMOTNNCSC,6
+South Carolina,SC,Idaho,ID,SCNCTNMONEWYID,6
+Idaho,ID,South Dakota,SD,IDWYSD,2
+South Dakota,SD,Idaho,ID,SDWYID,2
+Idaho,ID,Tennessee,TN,IDWYNEMOTN,4
+Tennessee,TN,Idaho,ID,TNMONEWYID,4
+Idaho,ID,Texas,TX,IDWYCONMTX,4
+Texas,TX,Idaho,ID,TXNMCOWYID,4
+Idaho,ID,Utah,UT,IDUT,1
+Utah,UT,Idaho,ID,UTID,1
+Idaho,ID,Vermont,VT,IDWYNEIAILINOHPANYVT,9
+Vermont,VT,Idaho,ID,VTNYPAOHINILIANEWYID,9
+Idaho,ID,Virginia,VA,IDWYNEMOKYVA,5
+Virginia,VA,Idaho,ID,VAKYMONEWYID,5
+Idaho,ID,Washington,WA,IDWA,1
+Washington,WA,Idaho,ID,WAID,1
+Idaho,ID,West Virginia,WV,IDWYNEMOKYWV,5
+West Virginia,WV,Idaho,ID,WVKYMONEWYID,5
+Idaho,ID,Wisconsin,WI,IDWYSDMNWI,4
+Wisconsin,WI,Idaho,ID,WIMNSDWYID,4
+Idaho,ID,Wyoming,WY,IDWY,1
+Wyoming,WY,Idaho,ID,WYID,1
+Illinois,IL,Illinois,IL,IL,0
+Illinois,IL,Indiana,IN,ILIN,1
+Indiana,IN,Illinois,IL,INIL,1
+Illinois,IL,Iowa,IA,ILIA,1
+Iowa,IA,Illinois,IL,IAIL,1
+Illinois,IL,Kansas,KS,ILMOKS,2
+Kansas,KS,Illinois,IL,KSMOIL,2
+Illinois,IL,Kentucky,KY,ILKY,1
+Kentucky,KY,Illinois,IL,KYIL,1
+Illinois,IL,Louisiana,LA,ILMOARLA,3
+Louisiana,LA,Illinois,IL,LAARMOIL,3
+Illinois,IL,Maine,ME,ILINOHPANYVTNHME,7
+Maine,ME,Illinois,IL,MENHVTNYPAOHINIL,7
+Illinois,IL,Maryland,MD,ILKYVAMD,3
+Maryland,MD,Illinois,IL,MDVAKYIL,3
+Illinois,IL,Massachusetts,MA,ILINOHPANYMA,5
+Massachusetts,MA,Illinois,IL,MANYPAOHINIL,5
+Illinois,IL,Michigan,MI,ILINMI,2
+Michigan,MI,Illinois,IL,MIINIL,2
+Illinois,IL,Minnesota,MN,ILWIMN,2
+Minnesota,MN,Illinois,IL,MNWIIL,2
+Illinois,IL,Mississippi,MS,ILMOARMS,3
+Mississippi,MS,Illinois,IL,MSARMOIL,3
+Illinois,IL,Missouri,MO,ILMO,1
+Missouri,MO,Illinois,IL,MOIL,1
+Illinois,IL,Montana,MT,ILIASDMT,3
+Montana,MT,Illinois,IL,MTSDIAIL,3
+Illinois,IL,Nebraska,NE,ILIANE,2
+Nebraska,NE,Illinois,IL,NEIAIL,2
+Illinois,IL,Nevada,NV,ILMOKSCOUTNV,5
+Nevada,NV,Illinois,IL,NVUTCOKSMOIL,5
+Illinois,IL,New Hampshire,NH,ILINOHPANYVTNH,6
+New Hampshire,NH,Illinois,IL,NHVTNYPAOHINIL,6
+Illinois,IL,New Jersey,NJ,ILINOHPANJ,4
+New Jersey,NJ,Illinois,IL,NJPAOHINIL,4
+Illinois,IL,New Mexico,NM,ILMOOKNM,3
+New Mexico,NM,Illinois,IL,NMOKMOIL,3
+Illinois,IL,New York,NY,ILINOHPANY,4
+New York,NY,Illinois,IL,NYPAOHINIL,4
+Illinois,IL,North Carolina,NC,ILKYTNNC,3
+North Carolina,NC,Illinois,IL,NCTNKYIL,3
+Illinois,IL,North Dakota,ND,ILWIMNND,3
+North Dakota,ND,Illinois,IL,NDMNWIIL,3
+Illinois,IL,Ohio,OH,ILINOH,2
+Ohio,OH,Illinois,IL,OHINIL,2
+Illinois,IL,Oklahoma,OK,ILMOOK,2
+Oklahoma,OK,Illinois,IL,OKMOIL,2
+Illinois,IL,Oregon,OR,ILMONEWYIDOR,5
+Oregon,OR,Illinois,IL,ORIDWYNEMOIL,5
+Illinois,IL,Pennsylvania,PA,ILINOHPA,3
+Pennsylvania,PA,Illinois,IL,PAOHINIL,3
+Illinois,IL,Rhode Island,RI,ILINOHPANYMARI,6
+Rhode Island,RI,Illinois,IL,RIMANYPAOHINIL,6
+Illinois,IL,South Carolina,SC,ILKYTNNCSC,4
+South Carolina,SC,Illinois,IL,SCNCTNKYIL,4
+Illinois,IL,South Dakota,SD,ILIASD,2
+South Dakota,SD,Illinois,IL,SDIAIL,2
+Illinois,IL,Tennessee,TN,ILKYTN,2
+Tennessee,TN,Illinois,IL,TNKYIL,2
+Illinois,IL,Texas,TX,ILMOOKTX,3
+Texas,TX,Illinois,IL,TXOKMOIL,3
+Illinois,IL,Utah,UT,ILMOKSCOUT,4
+Utah,UT,Illinois,IL,UTCOKSMOIL,4
+Illinois,IL,Vermont,VT,ILINOHPANYVT,5
+Vermont,VT,Illinois,IL,VTNYPAOHINIL,5
+Illinois,IL,Virginia,VA,ILKYVA,2
+Virginia,VA,Illinois,IL,VAKYIL,2
+Illinois,IL,Washington,WA,ILMONEWYIDWA,5
+Washington,WA,Illinois,IL,WAIDWYNEMOIL,5
+Illinois,IL,West Virginia,WV,ILKYWV,2
+West Virginia,WV,Illinois,IL,WVKYIL,2
+Illinois,IL,Wisconsin,WI,ILWI,1
+Wisconsin,WI,Illinois,IL,WIIL,1
+Illinois,IL,Wyoming,WY,ILIANEWY,3
+Wyoming,WY,Illinois,IL,WYNEIAIL,3
+Indiana,IN,Indiana,IN,IN,0
+Indiana,IN,Iowa,IA,INILIA,2
+Iowa,IA,Indiana,IN,IAILIN,2
+Indiana,IN,Kansas,KS,INILMOKS,3
+Kansas,KS,Indiana,IN,KSMOILIN,3
+Indiana,IN,Kentucky,KY,INKY,1
+Kentucky,KY,Indiana,IN,KYIN,1
+Indiana,IN,Louisiana,LA,INKYTNMSLA,4
+Louisiana,LA,Indiana,IN,LAMSTNKYIN,4
+Indiana,IN,Maine,ME,INOHPANYVTNHME,6
+Maine,ME,Indiana,IN,MENHVTNYPAOHIN,6
+Indiana,IN,Maryland,MD,INKYVAMD,3
+Maryland,MD,Indiana,IN,MDVAKYIN,3
+Indiana,IN,Massachusetts,MA,INOHPANYMA,4
+Massachusetts,MA,Indiana,IN,MANYPAOHIN,4
+Indiana,IN,Michigan,MI,INMI,1
+Michigan,MI,Indiana,IN,MIIN,1
+Indiana,IN,Minnesota,MN,INILWIMN,3
+Minnesota,MN,Indiana,IN,MNWIILIN,3
+Indiana,IN,Mississippi,MS,INKYTNMS,3
+Mississippi,MS,Indiana,IN,MSTNKYIN,3
+Indiana,IN,Missouri,MO,INILMO,2
+Missouri,MO,Indiana,IN,MOILIN,2
+Indiana,IN,Montana,MT,INILIASDMT,4
+Montana,MT,Indiana,IN,MTSDIAILIN,4
+Indiana,IN,Nebraska,NE,INILIANE,3
+Nebraska,NE,Indiana,IN,NEIAILIN,3
+Indiana,IN,Nevada,NV,INILMOKSCOUTNV,6
+Nevada,NV,Indiana,IN,NVUTCOKSMOILIN,6
+Indiana,IN,New Hampshire,NH,INOHPANYNH,4
+New Hampshire,NH,Indiana,IN,NHNYPAOHIN,4
+Indiana,IN,New Jersey,NJ,INOHPANJ,3
+New Jersey,NJ,Indiana,IN,NJPAOHIN,3
+Indiana,IN,New Mexico,NM,INILMOKSCONM,5
+New Mexico,NM,Indiana,IN,NMCOKSMOILIN,5
+Indiana,IN,New York,NY,INOHPANY,3
+New York,NY,Indiana,IN,NYPAOHIN,3
+Indiana,IN,North Carolina,NC,INKYTNNC,3
+North Carolina,NC,Indiana,IN,NCTNKYIN,3
+Indiana,IN,North Dakota,ND,INILIASDND,4
+North Dakota,ND,Indiana,IN,NDSDIAILIN,4
+Indiana,IN,Ohio,OH,INOH,1
+Ohio,OH,Indiana,IN,OHIN,1
+Indiana,IN,Oklahoma,OK,INILMOOK,3
+Oklahoma,OK,Indiana,IN,OKMOILIN,3
+Indiana,IN,Oregon,OR,INILMONEWYIDOR,6
+Oregon,OR,Indiana,IN,ORIDWYNEMOILIN,6
+Indiana,IN,Pennsylvania,PA,INOHPA,2
+Pennsylvania,PA,Indiana,IN,PAOHIN,2
+Indiana,IN,Rhode Island,RI,INOHPANYMARI,5
+Rhode Island,RI,Indiana,IN,RIMANYPAOHIN,5
+Indiana,IN,South Carolina,SC,INKYTNNCSC,4
+South Carolina,SC,Indiana,IN,SCNCTNKYIN,4
+Indiana,IN,South Dakota,SD,INILIASD,3
+South Dakota,SD,Indiana,IN,SDIAILIN,3
+Indiana,IN,Tennessee,TN,INKYTN,2
+Tennessee,TN,Indiana,IN,TNKYIN,2
+Indiana,IN,Texas,TX,INKYTNARTX,4
+Texas,TX,Indiana,IN,TXARTNKYIN,4
+Indiana,IN,Utah,UT,INILMOKSCOUT,5
+Utah,UT,Indiana,IN,UTCOKSMOILIN,5
+Indiana,IN,Vermont,VT,INOHPANYVT,4
+Vermont,VT,Indiana,IN,VTNYPAOHIN,4
+Indiana,IN,Virginia,VA,INKYVA,2
+Virginia,VA,Indiana,IN,VAKYIN,2
+Indiana,IN,Washington,WA,INILMONEWYIDWA,6
+Washington,WA,Indiana,IN,WAIDWYNEMOILIN,6
+Indiana,IN,West Virginia,WV,INKYWV,2
+West Virginia,WV,Indiana,IN,WVKYIN,2
+Indiana,IN,Wisconsin,WI,INILWI,2
+Wisconsin,WI,Indiana,IN,WIILIN,2
+Indiana,IN,Wyoming,WY,INILMONEWY,4
+Wyoming,WY,Indiana,IN,WYNEMOILIN,4
+Iowa,IA,Iowa,IA,IA,0
+Iowa,IA,Kansas,KS,IAMOKS,2
+Kansas,KS,Iowa,IA,KSMOIA,2
+Iowa,IA,Kentucky,KY,IAMOKY,2
+Kentucky,KY,Iowa,IA,KYMOIA,2
+Iowa,IA,Louisiana,LA,IAMOARLA,3
+Louisiana,LA,Iowa,IA,LAARMOIA,3
+Iowa,IA,Maine,ME,IAWIMIOHPANYVTNHME,8
+Maine,ME,Iowa,IA,MENHVTNYPAOHMIWIIA,8
+Iowa,IA,Maryland,MD,IAMOKYVAMD,4
+Maryland,MD,Iowa,IA,MDVAKYMOIA,4
+Iowa,IA,Massachusetts,MA,IAWIMIOHPANYMA,6
+Massachusetts,MA,Iowa,IA,MANYPAOHMIWIIA,6
+Iowa,IA,Michigan,MI,IAWIMI,2
+Michigan,MI,Iowa,IA,MIWIIA,2
+Iowa,IA,Minnesota,MN,IAMN,1
+Minnesota,MN,Iowa,IA,MNIA,1
+Iowa,IA,Mississippi,MS,IAMOARMS,3
+Mississippi,MS,Iowa,IA,MSARMOIA,3
+Iowa,IA,Missouri,MO,IAMO,1
+Missouri,MO,Iowa,IA,MOIA,1
+Iowa,IA,Montana,MT,IASDMT,2
+Montana,MT,Iowa,IA,MTSDIA,2
+Iowa,IA,Nebraska,NE,IANE,1
+Nebraska,NE,Iowa,IA,NEIA,1
+Iowa,IA,Nevada,NV,IANECOUTNV,4
+Nevada,NV,Iowa,IA,NVUTCONEIA,4
+Iowa,IA,New Hampshire,NH,IAWIMIOHPANYVTNH,7
+New Hampshire,NH,Iowa,IA,NHVTNYPAOHMIWIIA,7
+Iowa,IA,New Jersey,NJ,IAWIMIOHPANJ,5
+New Jersey,NJ,Iowa,IA,NJPAOHMIWIIA,5
+Iowa,IA,New Mexico,NM,IANECONM,3
+New Mexico,NM,Iowa,IA,NMCONEIA,3
+Iowa,IA,New York,NY,IAWIMIOHPANY,5
+New York,NY,Iowa,IA,NYPAOHMIWIIA,5
+Iowa,IA,North Carolina,NC,IAMOTNNC,3
+North Carolina,NC,Iowa,IA,NCTNMOIA,3
+Iowa,IA,North Dakota,ND,IASDND,2
+North Dakota,ND,Iowa,IA,NDSDIA,2
+Iowa,IA,Ohio,OH,IAWIMIOH,3
+Ohio,OH,Iowa,IA,OHMIWIIA,3
+Iowa,IA,Oklahoma,OK,IAMOOK,2
+Oklahoma,OK,Iowa,IA,OKMOIA,2
+Iowa,IA,Oregon,OR,IANEWYIDOR,4
+Oregon,OR,Iowa,IA,ORIDWYNEIA,4
+Iowa,IA,Pennsylvania,PA,IAWIMIOHPA,4
+Pennsylvania,PA,Iowa,IA,PAOHMIWIIA,4
+Iowa,IA,Rhode Island,RI,IAWIMIOHPANYMARI,7
+Rhode Island,RI,Iowa,IA,RIMANYPAOHMIWIIA,7
+Iowa,IA,South Carolina,SC,IAMOTNNCSC,4
+South Carolina,SC,Iowa,IA,SCNCTNMOIA,4
+Iowa,IA,South Dakota,SD,IASD,1
+South Dakota,SD,Iowa,IA,SDIA,1
+Iowa,IA,Tennessee,TN,IAMOTN,2
+Tennessee,TN,Iowa,IA,TNMOIA,2
+Iowa,IA,Texas,TX,IAMOOKTX,3
+Texas,TX,Iowa,IA,TXOKMOIA,3
+Iowa,IA,Utah,UT,IANECOUT,3
+Utah,UT,Iowa,IA,UTCONEIA,3
+Iowa,IA,Vermont,VT,IAWIMIOHPANYVT,6
+Vermont,VT,Iowa,IA,VTNYPAOHMIWIIA,6
+Iowa,IA,Virginia,VA,IAMOKYVA,3
+Virginia,VA,Iowa,IA,VAKYMOIA,3
+Iowa,IA,Washington,WA,IANEWYIDWA,4
+Washington,WA,Iowa,IA,WAIDWYNEIA,4
+Iowa,IA,West Virginia,WV,IAMOKYWV,3
+West Virginia,WV,Iowa,IA,WVKYMOIA,3
+Iowa,IA,Wisconsin,WI,IAWI,1
+Wisconsin,WI,Iowa,IA,WIIA,1
+Iowa,IA,Wyoming,WY,IANEWY,2
+Wyoming,WY,Iowa,IA,WYNEIA,2
+Kansas,KS,Kansas,KS,KS,0
+Kansas,KS,Kentucky,KY,KSMOKY,2
+Kentucky,KY,Kansas,KS,KYMOKS,2
+Kansas,KS,Louisiana,LA,KSOKTXLA,3
+Louisiana,LA,Kansas,KS,LATXOKKS,3
+Kansas,KS,Maine,ME,KSMOKYWVPANYVTNHME,8
+Maine,ME,Kansas,KS,MENHVTNYPAWVKYMOKS,8
+Kansas,KS,Maryland,MD,KSMOKYWVMD,4
+Maryland,MD,Kansas,KS,MDWVKYMOKS,4
+Kansas,KS,Massachusetts,MA,KSMOKYWVPANYMA,6
+Massachusetts,MA,Kansas,KS,MANYPAWVKYMOKS,6
+Kansas,KS,Michigan,MI,KSMOKYINMI,4
+Michigan,MI,Kansas,KS,MIINKYMOKS,4
+Kansas,KS,Minnesota,MN,KSNESDMN,3
+Minnesota,MN,Kansas,KS,MNSDNEKS,3
+Kansas,KS,Mississippi,MS,KSOKARMS,3
+Mississippi,MS,Kansas,KS,MSAROKKS,3
+Kansas,KS,Missouri,MO,KSMO,1
+Missouri,MO,Kansas,KS,MOKS,1
+Kansas,KS,Montana,MT,KSCOWYMT,3
+Montana,MT,Kansas,KS,MTWYCOKS,3
+Kansas,KS,Nebraska,NE,KSNE,1
+Nebraska,NE,Kansas,KS,NEKS,1
+Kansas,KS,Nevada,NV,KSCOUTNV,3
+Nevada,NV,Kansas,KS,NVUTCOKS,3
+Kansas,KS,New Hampshire,NH,KSMOKYWVPANYVTNH,7
+New Hampshire,NH,Kansas,KS,NHVTNYPAWVKYMOKS,7
+Kansas,KS,New Jersey,NJ,KSMOKYWVPANJ,5
+New Jersey,NJ,Kansas,KS,NJPAWVKYMOKS,5
+Kansas,KS,New Mexico,NM,KSCONM,2
+New Mexico,NM,Kansas,KS,NMCOKS,2
+Kansas,KS,New York,NY,KSMOKYWVPANY,5
+New York,NY,Kansas,KS,NYPAWVKYMOKS,5
+Kansas,KS,North Carolina,NC,KSMOTNNC,3
+North Carolina,NC,Kansas,KS,NCTNMOKS,3
+Kansas,KS,North Dakota,ND,KSNESDND,3
+North Dakota,ND,Kansas,KS,NDSDNEKS,3
+Kansas,KS,Ohio,OH,KSMOKYOH,3
+Ohio,OH,Kansas,KS,OHKYMOKS,3
+Kansas,KS,Oklahoma,OK,KSOK,1
+Oklahoma,OK,Kansas,KS,OKKS,1
+Kansas,KS,Oregon,OR,KSCOUTNVOR,4
+Oregon,OR,Kansas,KS,ORNVUTCOKS,4
+Kansas,KS,Pennsylvania,PA,KSMOKYWVPA,4
+Pennsylvania,PA,Kansas,KS,PAWVKYMOKS,4
+Kansas,KS,Rhode Island,RI,KSMOKYWVPANYMARI,7
+Rhode Island,RI,Kansas,KS,RIMANYPAWVKYMOKS,7
+Kansas,KS,South Carolina,SC,KSMOTNNCSC,4
+South Carolina,SC,Kansas,KS,SCNCTNMOKS,4
+Kansas,KS,South Dakota,SD,KSNESD,2
+South Dakota,SD,Kansas,KS,SDNEKS,2
+Kansas,KS,Tennessee,TN,KSMOTN,2
+Tennessee,TN,Kansas,KS,TNMOKS,2
+Kansas,KS,Texas,TX,KSOKTX,2
+Texas,TX,Kansas,KS,TXOKKS,2
+Kansas,KS,Utah,UT,KSCOUT,2
+Utah,UT,Kansas,KS,UTCOKS,2
+Kansas,KS,Vermont,VT,KSMOKYWVPANYVT,6
+Vermont,VT,Kansas,KS,VTNYPAWVKYMOKS,6
+Kansas,KS,Virginia,VA,KSMOKYVA,3
+Virginia,VA,Kansas,KS,VAKYMOKS,3
+Kansas,KS,Washington,WA,KSNEWYIDWA,4
+Washington,WA,Kansas,KS,WAIDWYNEKS,4
+Kansas,KS,West Virginia,WV,KSMOKYWV,3
+West Virginia,WV,Kansas,KS,WVKYMOKS,3
+Kansas,KS,Wisconsin,WI,KSMOILWI,3
+Wisconsin,WI,Kansas,KS,WIILMOKS,3
+Kansas,KS,Wyoming,WY,KSCOWY,2
+Wyoming,WY,Kansas,KS,WYCOKS,2
+Kentucky,KY,Kentucky,KY,KY,0
+Kentucky,KY,Louisiana,LA,KYTNMSLA,3
+Louisiana,LA,Kentucky,KY,LAMSTNKY,3
+Kentucky,KY,Maine,ME,KYWVPANYVTNHME,6
+Maine,ME,Kentucky,KY,MENHVTNYPAWVKY,6
+Kentucky,KY,Maryland,MD,KYWVMD,2
+Maryland,MD,Kentucky,KY,MDWVKY,2
+Kentucky,KY,Massachusetts,MA,KYWVPANYMA,4
+Massachusetts,MA,Kentucky,KY,MANYPAWVKY,4
+Kentucky,KY,Michigan,MI,KYOHMI,2
+Michigan,MI,Kentucky,KY,MIOHKY,2
+Kentucky,KY,Minnesota,MN,KYMOIAMN,3
+Minnesota,MN,Kentucky,KY,MNIAMOKY,3
+Kentucky,KY,Mississippi,MS,KYTNMS,2
+Mississippi,MS,Kentucky,KY,MSTNKY,2
+Kentucky,KY,Missouri,MO,KYMO,1
+Missouri,MO,Kentucky,KY,MOKY,1
+Kentucky,KY,Montana,MT,KYMONEWYMT,4
+Montana,MT,Kentucky,KY,MTWYNEMOKY,4
+Kentucky,KY,Nebraska,NE,KYMONE,2
+Nebraska,NE,Kentucky,KY,NEMOKY,2
+Kentucky,KY,Nevada,NV,KYMOKSCOUTNV,5
+Nevada,NV,Kentucky,KY,NVUTCOKSMOKY,5
+Kentucky,KY,New Hampshire,NH,KYWVPANYVTNH,5
+New Hampshire,NH,Kentucky,KY,NHVTNYPAWVKY,5
+Kentucky,KY,New Jersey,NJ,KYWVPANJ,3
+New Jersey,NJ,Kentucky,KY,NJPAWVKY,3
+Kentucky,KY,New Mexico,NM,KYMOOKNM,3
+New Mexico,NM,Kentucky,KY,NMOKMOKY,3
+Kentucky,KY,New York,NY,KYWVPANY,3
+New York,NY,Kentucky,KY,NYPAWVKY,3
+Kentucky,KY,North Carolina,NC,KYVANC,2
+North Carolina,NC,Kentucky,KY,NCVAKY,2
+Kentucky,KY,North Dakota,ND,KYMOIAMNND,4
+North Dakota,ND,Kentucky,KY,NDMNIAMOKY,4
+Kentucky,KY,Ohio,OH,KYOH,1
+Ohio,OH,Kentucky,KY,OHKY,1
+Kentucky,KY,Oklahoma,OK,KYMOOK,2
+Oklahoma,OK,Kentucky,KY,OKMOKY,2
+Kentucky,KY,Oregon,OR,KYMONEWYIDOR,5
+Oregon,OR,Kentucky,KY,ORIDWYNEMOKY,5
+Kentucky,KY,Pennsylvania,PA,KYWVPA,2
+Pennsylvania,PA,Kentucky,KY,PAWVKY,2
+Kentucky,KY,Rhode Island,RI,KYWVPANYMARI,5
+Rhode Island,RI,Kentucky,KY,RIMANYPAWVKY,5
+Kentucky,KY,South Carolina,SC,KYTNGASC,3
+South Carolina,SC,Kentucky,KY,SCGATNKY,3
+Kentucky,KY,South Dakota,SD,KYMOIASD,3
+South Dakota,SD,Kentucky,KY,SDIAMOKY,3
+Kentucky,KY,Tennessee,TN,KYTN,1
+Tennessee,TN,Kentucky,KY,TNKY,1
+Kentucky,KY,Texas,TX,KYMOOKTX,3
+Texas,TX,Kentucky,KY,TXOKMOKY,3
+Kentucky,KY,Utah,UT,KYMOKSCOUT,4
+Utah,UT,Kentucky,KY,UTCOKSMOKY,4
+Kentucky,KY,Vermont,VT,KYWVPANYVT,4
+Vermont,VT,Kentucky,KY,VTNYPAWVKY,4
+Kentucky,KY,Virginia,VA,KYVA,1
+Virginia,VA,Kentucky,KY,VAKY,1
+Kentucky,KY,Washington,WA,KYMONEWYIDWA,5
+Washington,WA,Kentucky,KY,WAIDWYNEMOKY,5
+Kentucky,KY,West Virginia,WV,KYWV,1
+West Virginia,WV,Kentucky,KY,WVKY,1
+Kentucky,KY,Wisconsin,WI,KYILWI,2
+Wisconsin,WI,Kentucky,KY,WIILKY,2
+Kentucky,KY,Wyoming,WY,KYMONEWY,3
+Wyoming,WY,Kentucky,KY,WYNEMOKY,3
+Louisiana,LA,Louisiana,LA,LA,0
+Louisiana,LA,Maine,ME,LAMSTNVAMDPANYVTNHME,9
+Maine,ME,Louisiana,LA,MENHVTNYPAMDVATNMSLA,9
+Louisiana,LA,Maryland,MD,LAMSTNVAMD,4
+Maryland,MD,Louisiana,LA,MDVATNMSLA,4
+Louisiana,LA,Massachusetts,MA,LAMSTNVAMDPANYMA,7
+Massachusetts,MA,Louisiana,LA,MANYPAMDVATNMSLA,7
+Louisiana,LA,Michigan,MI,LAARMOKYINMI,5
+Michigan,MI,Louisiana,LA,MIINKYMOARLA,5
+Louisiana,LA,Minnesota,MN,LAARMOIAMN,4
+Minnesota,MN,Louisiana,LA,MNIAMOARLA,4
+Louisiana,LA,Mississippi,MS,LAMS,1
+Mississippi,MS,Louisiana,LA,MSLA,1
+Louisiana,LA,Missouri,MO,LAARMO,2
+Missouri,MO,Louisiana,LA,MOARLA,2
+Louisiana,LA,Montana,MT,LATXNMCOWYMT,5
+Montana,MT,Louisiana,LA,MTWYCONMTXLA,5
+Louisiana,LA,Nebraska,NE,LAARMONE,3
+Nebraska,NE,Louisiana,LA,NEMOARLA,3
+Louisiana,LA,Nevada,NV,LATXNMAZNV,4
+Nevada,NV,Louisiana,LA,NVAZNMTXLA,4
+Louisiana,LA,New Hampshire,NH,LAMSTNVAMDPANYVTNH,8
+New Hampshire,NH,Louisiana,LA,NHVTNYPAMDVATNMSLA,8
+Louisiana,LA,New Jersey,NJ,LAMSTNVAMDPANJ,6
+New Jersey,NJ,Louisiana,LA,NJPAMDVATNMSLA,6
+Louisiana,LA,New Mexico,NM,LATXNM,2
+New Mexico,NM,Louisiana,LA,NMTXLA,2
+Louisiana,LA,New York,NY,LAMSTNVAMDPANY,6
+New York,NY,Louisiana,LA,NYPAMDVATNMSLA,6
+Louisiana,LA,North Carolina,NC,LAARTNNC,3
+North Carolina,NC,Louisiana,LA,NCTNARLA,3
+Louisiana,LA,North Dakota,ND,LAARMOIAMNND,5
+North Dakota,ND,Louisiana,LA,NDMNIAMOARLA,5
+Louisiana,LA,Ohio,OH,LAARTNKYOH,4
+Ohio,OH,Louisiana,LA,OHKYTNARLA,4
+Louisiana,LA,Oklahoma,OK,LATXOK,2
+Oklahoma,OK,Louisiana,LA,OKTXLA,2
+Louisiana,LA,Oregon,OR,LATXNMAZNVOR,5
+Oregon,OR,Louisiana,LA,ORNVAZNMTXLA,5
+Louisiana,LA,Pennsylvania,PA,LAMSTNVAMDPA,5
+Pennsylvania,PA,Louisiana,LA,PAMDVATNMSLA,5
+Louisiana,LA,Rhode Island,RI,LAMSTNVAMDPANYMARI,8
+Rhode Island,RI,Louisiana,LA,RIMANYPAMDVATNMSLA,8
+Louisiana,LA,South Carolina,SC,LAMSALGASC,4
+South Carolina,SC,Louisiana,LA,SCGAALMSLA,4
+Louisiana,LA,South Dakota,SD,LAARMOIASD,4
+South Dakota,SD,Louisiana,LA,SDIAMOARLA,4
+Louisiana,LA,Tennessee,TN,LAARTN,2
+Tennessee,TN,Louisiana,LA,TNARLA,2
+Louisiana,LA,Texas,TX,LATX,1
+Texas,TX,Louisiana,LA,TXLA,1
+Louisiana,LA,Utah,UT,LAAROKCOUT,4
+Utah,UT,Louisiana,LA,UTCOOKARLA,4
+Louisiana,LA,Vermont,VT,LAMSTNVAMDPANYVT,7
+Vermont,VT,Louisiana,LA,VTNYPAMDVATNMSLA,7
+Louisiana,LA,Virginia,VA,LAARTNVA,3
+Virginia,VA,Louisiana,LA,VATNARLA,3
+Louisiana,LA,Washington,WA,LAARMONEWYIDWA,6
+Washington,WA,Louisiana,LA,WAIDWYNEMOARLA,6
+Louisiana,LA,West Virginia,WV,LAMSTNVAWV,4
+West Virginia,WV,Louisiana,LA,WVVATNMSLA,4
+Louisiana,LA,Wisconsin,WI,LAARMOILWI,4
+Wisconsin,WI,Louisiana,LA,WIILMOARLA,4
+Louisiana,LA,Wyoming,WY,LAARMONEWY,4
+Wyoming,WY,Louisiana,LA,WYNEMOARLA,4
+Maine,ME,Maine,ME,ME,0
+Maine,ME,Maryland,MD,MENHVTNYPAMD,5
+Maryland,MD,Maine,ME,MDPANYVTNHME,5
+Maine,ME,Massachusetts,MA,MENHMA,2
+Massachusetts,MA,Maine,ME,MANHME,2
+Maine,ME,Michigan,MI,MENHVTNYPAOHMI,6
+Michigan,MI,Maine,ME,MIOHPANYVTNHME,6
+Maine,ME,Minnesota,MN,MENHVTNYPAOHMIWIMN,8
+Minnesota,MN,Maine,ME,MNWIMIOHPANYVTNHME,8
+Maine,ME,Mississippi,MS,MENHVTNYPAWVKYTNMS,8
+Mississippi,MS,Maine,ME,MSTNKYWVPANYVTNHME,8
+Maine,ME,Missouri,MO,MENHVTNYPAWVKYMO,7
+Missouri,MO,Maine,ME,MOKYWVPANYVTNHME,7
+Maine,ME,Montana,MT,MENHVTNYPAWVKYMONEWYMT,10
+Montana,MT,Maine,ME,MTWYNEMOKYWVPANYVTNHME,10
+Maine,ME,Nebraska,NE,MENHVTNYPAWVKYMONE,8
+Nebraska,NE,Maine,ME,NEMOKYWVPANYVTNHME,8
+Maine,ME,Nevada,NV,MENHVTNYPAWVKYMOKSCOUTNV,11
+Nevada,NV,Maine,ME,NVUTCOKSMOKYWVPANYVTNHME,11
+Maine,ME,New Hampshire,NH,MENH,1
+New Hampshire,NH,Maine,ME,NHME,1
+Maine,ME,New Jersey,NJ,MENHVTNYNJ,4
+New Jersey,NJ,Maine,ME,NJNYVTNHME,4
+Maine,ME,New Mexico,NM,MENHVTNYPAWVKYMOOKNM,9
+New Mexico,NM,Maine,ME,NMOKMOKYWVPANYVTNHME,9
+Maine,ME,New York,NY,MENHVTNY,3
+New York,NY,Maine,ME,NYVTNHME,3
+Maine,ME,North Carolina,NC,MENHVTNYPAMDVANC,7
+North Carolina,NC,Maine,ME,NCVAMDPANYVTNHME,7
+Maine,ME,North Dakota,ND,MENHVTNYPAOHMIWIMNND,9
+North Dakota,ND,Maine,ME,NDMNWIMIOHPANYVTNHME,9
+Maine,ME,Ohio,OH,MENHVTNYPAOH,5
+Ohio,OH,Maine,ME,OHPANYVTNHME,5
+Maine,ME,Oklahoma,OK,MENHVTNYPAWVKYMOOK,8
+Oklahoma,OK,Maine,ME,OKMOKYWVPANYVTNHME,8
+Maine,ME,Oregon,OR,MENHVTNYPAWVKYMONEWYIDOR,11
+Oregon,OR,Maine,ME,ORIDWYNEMOKYWVPANYVTNHME,11
+Maine,ME,Pennsylvania,PA,MENHVTNYPA,4
+Pennsylvania,PA,Maine,ME,PANYVTNHME,4
+Maine,ME,Rhode Island,RI,MENHMARI,3
+Rhode Island,RI,Maine,ME,RIMANHME,3
+Maine,ME,South Carolina,SC,MENHVTNYPAMDVANCSC,8
+South Carolina,SC,Maine,ME,SCNCVAMDPANYVTNHME,8
+Maine,ME,South Dakota,SD,MENHVTNYPAWVKYMOIASD,9
+South Dakota,SD,Maine,ME,SDIAMOKYWVPANYVTNHME,9
+Maine,ME,Tennessee,TN,MENHVTNYPAWVKYTN,7
+Tennessee,TN,Maine,ME,TNKYWVPANYVTNHME,7
+Maine,ME,Texas,TX,MENHVTNYPAWVKYMOOKTX,9
+Texas,TX,Maine,ME,TXOKMOKYWVPANYVTNHME,9
+Maine,ME,Utah,UT,MENHVTNYPAWVKYMOKSCOUT,10
+Utah,UT,Maine,ME,UTCOKSMOKYWVPANYVTNHME,10
+Maine,ME,Vermont,VT,MENHVT,2
+Vermont,VT,Maine,ME,VTNHME,2
+Maine,ME,Virginia,VA,MENHVTNYPAWVVA,6
+Virginia,VA,Maine,ME,VAWVPANYVTNHME,6
+Maine,ME,Washington,WA,MENHVTNYPAWVKYMONEWYIDWA,11
+Washington,WA,Maine,ME,WAIDWYNEMOKYWVPANYVTNHME,11
+Maine,ME,West Virginia,WV,MENHVTNYPAWV,5
+West Virginia,WV,Maine,ME,WVPANYVTNHME,5
+Maine,ME,Wisconsin,WI,MENHVTNYPAOHMIWI,7
+Wisconsin,WI,Maine,ME,WIMIOHPANYVTNHME,7
+Maine,ME,Wyoming,WY,MENHVTNYPAWVKYMONEWY,9
+Wyoming,WY,Maine,ME,WYNEMOKYWVPANYVTNHME,9
+Maryland,MD,Maryland,MD,MD,0
+Maryland,MD,Massachusetts,MA,MDPANYMA,3
+Massachusetts,MA,Maryland,MD,MANYPAMD,3
+Maryland,MD,Michigan,MI,MDWVOHMI,3
+Michigan,MI,Maryland,MD,MIOHWVMD,3
+Maryland,MD,Minnesota,MN,MDWVOHMIWIMN,5
+Minnesota,MN,Maryland,MD,MNWIMIOHWVMD,5
+Maryland,MD,Mississippi,MS,MDVATNMS,3
+Mississippi,MS,Maryland,MD,MSTNVAMD,3
+Maryland,MD,Missouri,MO,MDWVKYMO,3
+Missouri,MO,Maryland,MD,MOKYWVMD,3
+Maryland,MD,Montana,MT,MDWVKYMONEWYMT,6
+Montana,MT,Maryland,MD,MTWYNEMOKYWVMD,6
+Maryland,MD,Nebraska,NE,MDVAKYMONE,4
+Nebraska,NE,Maryland,MD,NEMOKYVAMD,4
+Maryland,MD,Nevada,NV,MDWVKYMOKSCOUTNV,7
+Nevada,NV,Maryland,MD,NVUTCOKSMOKYWVMD,7
+Maryland,MD,New Hampshire,NH,MDPANYVTNH,4
+New Hampshire,NH,Maryland,MD,NHVTNYPAMD,4
+Maryland,MD,New Jersey,NJ,MDPANJ,2
+New Jersey,NJ,Maryland,MD,NJPAMD,2
+Maryland,MD,New Mexico,NM,MDWVKYMOOKNM,5
+New Mexico,NM,Maryland,MD,NMOKMOKYWVMD,5
+Maryland,MD,New York,NY,MDPANY,2
+New York,NY,Maryland,MD,NYPAMD,2
+Maryland,MD,North Carolina,NC,MDVANC,2
+North Carolina,NC,Maryland,MD,NCVAMD,2
+Maryland,MD,North Dakota,ND,MDWVKYMOIASDND,6
+North Dakota,ND,Maryland,MD,NDSDIAMOKYWVMD,6
+Maryland,MD,Ohio,OH,MDWVOH,2
+Ohio,OH,Maryland,MD,OHWVMD,2
+Maryland,MD,Oklahoma,OK,MDVAKYMOOK,4
+Oklahoma,OK,Maryland,MD,OKMOKYVAMD,4
+Maryland,MD,Oregon,OR,MDWVKYMONEWYIDOR,7
+Oregon,OR,Maryland,MD,ORIDWYNEMOKYWVMD,7
+Maryland,MD,Pennsylvania,PA,MDPA,1
+Pennsylvania,PA,Maryland,MD,PAMD,1
+Maryland,MD,Rhode Island,RI,MDPANYMARI,4
+Rhode Island,RI,Maryland,MD,RIMANYPAMD,4
+Maryland,MD,South Carolina,SC,MDVANCSC,3
+South Carolina,SC,Maryland,MD,SCNCVAMD,3
+Maryland,MD,South Dakota,SD,MDWVKYMONESD,5
+South Dakota,SD,Maryland,MD,SDNEMOKYWVMD,5
+Maryland,MD,Tennessee,TN,MDVATN,2
+Tennessee,TN,Maryland,MD,TNVAMD,2
+Maryland,MD,Texas,TX,MDVATNARTX,4
+Texas,TX,Maryland,MD,TXARTNVAMD,4
+Maryland,MD,Utah,UT,MDWVKYMOKSCOUT,6
+Utah,UT,Maryland,MD,UTCOKSMOKYWVMD,6
+Maryland,MD,Vermont,VT,MDPANYVT,3
+Vermont,VT,Maryland,MD,VTNYPAMD,3
+Maryland,MD,Virginia,VA,MDVA,1
+Virginia,VA,Maryland,MD,VAMD,1
+Maryland,MD,Washington,WA,MDWVKYMONEWYIDWA,7
+Washington,WA,Maryland,MD,WAIDWYNEMOKYWVMD,7
+Maryland,MD,West Virginia,WV,MDWV,1
+West Virginia,WV,Maryland,MD,WVMD,1
+Maryland,MD,Wisconsin,WI,MDPAOHMIWI,4
+Wisconsin,WI,Maryland,MD,WIMIOHPAMD,4
+Maryland,MD,Wyoming,WY,MDWVKYMONEWY,5
+Wyoming,WY,Maryland,MD,WYNEMOKYWVMD,5
+Massachusetts,MA,Massachusetts,MA,MA,0
+Massachusetts,MA,Michigan,MI,MANYPAOHMI,4
+Michigan,MI,Massachusetts,MA,MIOHPANYMA,4
+Massachusetts,MA,Minnesota,MN,MANYPAOHMIWIMN,6
+Minnesota,MN,Massachusetts,MA,MNWIMIOHPANYMA,6
+Massachusetts,MA,Mississippi,MS,MANYPAWVVATNMS,6
+Mississippi,MS,Massachusetts,MA,MSTNVAWVPANYMA,6
+Massachusetts,MA,Missouri,MO,MANYPAWVKYMO,5
+Missouri,MO,Massachusetts,MA,MOKYWVPANYMA,5
+Massachusetts,MA,Montana,MT,MANYPAWVKYMONEWYMT,8
+Montana,MT,Massachusetts,MA,MTWYNEMOKYWVPANYMA,8
+Massachusetts,MA,Nebraska,NE,MANYPAWVKYMONE,6
+Nebraska,NE,Massachusetts,MA,NEMOKYWVPANYMA,6
+Massachusetts,MA,Nevada,NV,MANYPAWVKYMOKSCOUTNV,9
+Nevada,NV,Massachusetts,MA,NVUTCOKSMOKYWVPANYMA,9
+Massachusetts,MA,New Hampshire,NH,MANH,1
+New Hampshire,NH,Massachusetts,MA,NHMA,1
+Massachusetts,MA,New Jersey,NJ,MANYNJ,2
+New Jersey,NJ,Massachusetts,MA,NJNYMA,2
+Massachusetts,MA,New Mexico,NM,MANYPAWVKYMOOKNM,7
+New Mexico,NM,Massachusetts,MA,NMOKMOKYWVPANYMA,7
+Massachusetts,MA,New York,NY,MANY,1
+New York,NY,Massachusetts,MA,NYMA,1
+Massachusetts,MA,North Carolina,NC,MANYPAMDVANC,5
+North Carolina,NC,Massachusetts,MA,NCVAMDPANYMA,5
+Massachusetts,MA,North Dakota,ND,MANYPAWVKYMOIASDND,8
+North Dakota,ND,Massachusetts,MA,NDSDIAMOKYWVPANYMA,8
+Massachusetts,MA,Ohio,OH,MANYPAOH,3
+Ohio,OH,Massachusetts,MA,OHPANYMA,3
+Massachusetts,MA,Oklahoma,OK,MANYPAWVKYMOOK,6
+Oklahoma,OK,Massachusetts,MA,OKMOKYWVPANYMA,6
+Massachusetts,MA,Oregon,OR,MANYPAWVKYMONEWYIDOR,9
+Oregon,OR,Massachusetts,MA,ORIDWYNEMOKYWVPANYMA,9
+Massachusetts,MA,Pennsylvania,PA,MANYPA,2
+Pennsylvania,PA,Massachusetts,MA,PANYMA,2
+Massachusetts,MA,Rhode Island,RI,MARI,1
+Rhode Island,RI,Massachusetts,MA,RIMA,1
+Massachusetts,MA,South Carolina,SC,MANYPAMDVANCSC,6
+South Carolina,SC,Massachusetts,MA,SCNCVAMDPANYMA,6
+Massachusetts,MA,South Dakota,SD,MANYPAWVKYMONESD,7
+South Dakota,SD,Massachusetts,MA,SDNEMOKYWVPANYMA,7
+Massachusetts,MA,Tennessee,TN,MANYPAWVKYTN,5
+Tennessee,TN,Massachusetts,MA,TNKYWVPANYMA,5
+Massachusetts,MA,Texas,TX,MANYPAWVKYMOOKTX,7
+Texas,TX,Massachusetts,MA,TXOKMOKYWVPANYMA,7
+Massachusetts,MA,Utah,UT,MANYPAWVKYMOKSCOUT,8
+Utah,UT,Massachusetts,MA,UTCOKSMOKYWVPANYMA,8
+Massachusetts,MA,Vermont,VT,MAVT,1
+Vermont,VT,Massachusetts,MA,VTMA,1
+Massachusetts,MA,Virginia,VA,MANYPAMDVA,4
+Virginia,VA,Massachusetts,MA,VAMDPANYMA,4
+Massachusetts,MA,Washington,WA,MANYPAWVKYMONEWYIDWA,9
+Washington,WA,Massachusetts,MA,WAIDWYNEMOKYWVPANYMA,9
+Massachusetts,MA,West Virginia,WV,MANYPAWV,3
+West Virginia,WV,Massachusetts,MA,WVPANYMA,3
+Massachusetts,MA,Wisconsin,WI,MANYPAOHMIWI,5
+Wisconsin,WI,Massachusetts,MA,WIMIOHPANYMA,5
+Massachusetts,MA,Wyoming,WY,MANYPAWVKYMONEWY,7
+Wyoming,WY,Massachusetts,MA,WYNEMOKYWVPANYMA,7
+Michigan,MI,Michigan,MI,MI,0
+Michigan,MI,Minnesota,MN,MIWIMN,2
+Minnesota,MN,Michigan,MI,MNWIMI,2
+Michigan,MI,Mississippi,MS,MIINKYTNMS,4
+Mississippi,MS,Michigan,MI,MSTNKYINMI,4
+Michigan,MI,Missouri,MO,MIINILMO,3
+Missouri,MO,Michigan,MI,MOILINMI,3
+Michigan,MI,Montana,MT,MIWIMNNDMT,4
+Montana,MT,Michigan,MI,MTNDMNWIMI,4
+Michigan,MI,Nebraska,NE,MIWIIANE,3
+Nebraska,NE,Michigan,MI,NEIAWIMI,3
+Michigan,MI,Nevada,NV,MIINKYMOKSCOUTNV,7
+Nevada,NV,Michigan,MI,NVUTCOKSMOKYINMI,7
+Michigan,MI,New Hampshire,NH,MIOHPANYVTNH,5
+New Hampshire,NH,Michigan,MI,NHVTNYPAOHMI,5
+Michigan,MI,New Jersey,NJ,MIOHPANJ,3
+New Jersey,NJ,Michigan,MI,NJPAOHMI,3
+Michigan,MI,New Mexico,NM,MIINKYMOOKNM,5
+New Mexico,NM,Michigan,MI,NMOKMOKYINMI,5
+Michigan,MI,New York,NY,MIOHPANY,3
+New York,NY,Michigan,MI,NYPAOHMI,3
+Michigan,MI,North Carolina,NC,MIOHWVVANC,4
+North Carolina,NC,Michigan,MI,NCVAWVOHMI,4
+Michigan,MI,North Dakota,ND,MIWIMNND,3
+North Dakota,ND,Michigan,MI,NDMNWIMI,3
+Michigan,MI,Ohio,OH,MIOH,1
+Ohio,OH,Michigan,MI,OHMI,1
+Michigan,MI,Oklahoma,OK,MIINKYMOOK,4
+Oklahoma,OK,Michigan,MI,OKMOKYINMI,4
+Michigan,MI,Oregon,OR,MIINKYMONEWYIDOR,7
+Oregon,OR,Michigan,MI,ORIDWYNEMOKYINMI,7
+Michigan,MI,Pennsylvania,PA,MIOHPA,2
+Pennsylvania,PA,Michigan,MI,PAOHMI,2
+Michigan,MI,Rhode Island,RI,MIOHPANYMARI,5
+Rhode Island,RI,Michigan,MI,RIMANYPAOHMI,5
+Michigan,MI,South Carolina,SC,MIOHWVVANCSC,5
+South Carolina,SC,Michigan,MI,SCNCVAWVOHMI,5
+Michigan,MI,South Dakota,SD,MIWIMNSD,3
+South Dakota,SD,Michigan,MI,SDMNWIMI,3
+Michigan,MI,Tennessee,TN,MIOHKYTN,3
+Tennessee,TN,Michigan,MI,TNKYOHMI,3
+Michigan,MI,Texas,TX,MIINKYMOARTX,5
+Texas,TX,Michigan,MI,TXARMOKYINMI,5
+Michigan,MI,Utah,UT,MIWIIANECOUT,5
+Utah,UT,Michigan,MI,UTCONEIAWIMI,5
+Michigan,MI,Vermont,VT,MIOHPANYVT,4
+Vermont,VT,Michigan,MI,VTNYPAOHMI,4
+Michigan,MI,Virginia,VA,MIOHWVVA,3
+Virginia,VA,Michigan,MI,VAWVOHMI,3
+Michigan,MI,Washington,WA,MIWIMNNDMTIDWA,6
+Washington,WA,Michigan,MI,WAIDMTNDMNWIMI,6
+Michigan,MI,West Virginia,WV,MIOHWV,2
+West Virginia,WV,Michigan,MI,WVOHMI,2
+Michigan,MI,Wisconsin,WI,MIWI,1
+Wisconsin,WI,Michigan,MI,WIMI,1
+Michigan,MI,Wyoming,WY,MIWIMNSDWY,4
+Wyoming,WY,Michigan,MI,WYSDMNWIMI,4
+Minnesota,MN,Minnesota,MN,MN,0
+Minnesota,MN,Mississippi,MS,MNIAMOARMS,4
+Mississippi,MS,Minnesota,MN,MSARMOIAMN,4
+Minnesota,MN,Missouri,MO,MNIAMO,2
+Missouri,MO,Minnesota,MN,MOIAMN,2
+Minnesota,MN,Montana,MT,MNNDMT,2
+Montana,MT,Minnesota,MN,MTNDMN,2
+Minnesota,MN,Nebraska,NE,MNSDNE,2
+Nebraska,NE,Minnesota,MN,NESDMN,2
+Minnesota,MN,Nevada,NV,MNSDWYUTNV,4
+Nevada,NV,Minnesota,MN,NVUTWYSDMN,4
+Minnesota,MN,New Hampshire,NH,MNWIMIOHPANYVTNH,7
+New Hampshire,NH,Minnesota,MN,NHVTNYPAOHMIWIMN,7
+Minnesota,MN,New Jersey,NJ,MNWIMIOHPANJ,5
+New Jersey,NJ,Minnesota,MN,NJPAOHMIWIMN,5
+Minnesota,MN,New Mexico,NM,MNSDNECONM,4
+New Mexico,NM,Minnesota,MN,NMCONESDMN,4
+Minnesota,MN,New York,NY,MNWIMIOHPANY,5
+New York,NY,Minnesota,MN,NYPAOHMIWIMN,5
+Minnesota,MN,North Carolina,NC,MNIAMOTNNC,4
+North Carolina,NC,Minnesota,MN,NCTNMOIAMN,4
+Minnesota,MN,North Dakota,ND,MNND,1
+North Dakota,ND,Minnesota,MN,NDMN,1
+Minnesota,MN,Ohio,OH,MNWIMIOH,3
+Ohio,OH,Minnesota,MN,OHMIWIMN,3
+Minnesota,MN,Oklahoma,OK,MNIAMOOK,3
+Oklahoma,OK,Minnesota,MN,OKMOIAMN,3
+Minnesota,MN,Oregon,OR,MNSDWYIDOR,4
+Oregon,OR,Minnesota,MN,ORIDWYSDMN,4
+Minnesota,MN,Pennsylvania,PA,MNWIMIOHPA,4
+Pennsylvania,PA,Minnesota,MN,PAOHMIWIMN,4
+Minnesota,MN,Rhode Island,RI,MNWIMIOHPANYMARI,7
+Rhode Island,RI,Minnesota,MN,RIMANYPAOHMIWIMN,7
+Minnesota,MN,South Carolina,SC,MNIAMOTNNCSC,5
+South Carolina,SC,Minnesota,MN,SCNCTNMOIAMN,5
+Minnesota,MN,South Dakota,SD,MNSD,1
+South Dakota,SD,Minnesota,MN,SDMN,1
+Minnesota,MN,Tennessee,TN,MNIAMOTN,3
+Tennessee,TN,Minnesota,MN,TNMOIAMN,3
+Minnesota,MN,Texas,TX,MNIAMOARTX,4
+Texas,TX,Minnesota,MN,TXARMOIAMN,4
+Minnesota,MN,Utah,UT,MNSDWYUT,3
+Utah,UT,Minnesota,MN,UTWYSDMN,3
+Minnesota,MN,Vermont,VT,MNWIMIOHPANYVT,6
+Vermont,VT,Minnesota,MN,VTNYPAOHMIWIMN,6
+Minnesota,MN,Virginia,VA,MNIAILKYVA,4
+Virginia,VA,Minnesota,MN,VAKYILIAMN,4
+Minnesota,MN,Washington,WA,MNNDMTIDWA,4
+Washington,WA,Minnesota,MN,WAIDMTNDMN,4
+Minnesota,MN,West Virginia,WV,MNIAMOKYWV,4
+West Virginia,WV,Minnesota,MN,WVKYMOIAMN,4
+Minnesota,MN,Wisconsin,WI,MNWI,1
+Wisconsin,WI,Minnesota,MN,WIMN,1
+Minnesota,MN,Wyoming,WY,MNSDWY,2
+Wyoming,WY,Minnesota,MN,WYSDMN,2
+Mississippi,MS,Mississippi,MS,MS,0
+Mississippi,MS,Missouri,MO,MSARMO,2
+Missouri,MO,Mississippi,MS,MOARMS,2
+Mississippi,MS,Montana,MT,MSARMONEWYMT,5
+Montana,MT,Mississippi,MS,MTWYNEMOARMS,5
+Mississippi,MS,Nebraska,NE,MSARMONE,3
+Nebraska,NE,Mississippi,MS,NEMOARMS,3
+Mississippi,MS,Nevada,NV,MSAROKCOUTNV,5
+Nevada,NV,Mississippi,MS,NVUTCOOKARMS,5
+Mississippi,MS,New Hampshire,NH,MSTNVAMDPANYVTNH,7
+New Hampshire,NH,Mississippi,MS,NHVTNYPAMDVATNMS,7
+Mississippi,MS,New Jersey,NJ,MSTNVAMDPANJ,5
+New Jersey,NJ,Mississippi,MS,NJPAMDVATNMS,5
+Mississippi,MS,New Mexico,NM,MSLATXNM,3
+New Mexico,NM,Mississippi,MS,NMTXLAMS,3
+Mississippi,MS,New York,NY,MSTNVAMDPANY,5
+New York,NY,Mississippi,MS,NYPAMDVATNMS,5
+Mississippi,MS,North Carolina,NC,MSTNNC,2
+North Carolina,NC,Mississippi,MS,NCTNMS,2
+Mississippi,MS,North Dakota,ND,MSARMOIAMNND,5
+North Dakota,ND,Mississippi,MS,NDMNIAMOARMS,5
+Mississippi,MS,Ohio,OH,MSTNKYOH,3
+Ohio,OH,Mississippi,MS,OHKYTNMS,3
+Mississippi,MS,Oklahoma,OK,MSAROK,2
+Oklahoma,OK,Mississippi,MS,OKARMS,2
+Mississippi,MS,Oregon,OR,MSAROKCOUTNVOR,6
+Oregon,OR,Mississippi,MS,ORNVUTCOOKARMS,6
+Mississippi,MS,Pennsylvania,PA,MSTNVAMDPA,4
+Pennsylvania,PA,Mississippi,MS,PAMDVATNMS,4
+Mississippi,MS,Rhode Island,RI,MSTNVAMDPANYMARI,7
+Rhode Island,RI,Mississippi,MS,RIMANYPAMDVATNMS,7
+Mississippi,MS,South Carolina,SC,MSALGASC,3
+South Carolina,SC,Mississippi,MS,SCGAALMS,3
+Mississippi,MS,South Dakota,SD,MSARMOIASD,4
+South Dakota,SD,Mississippi,MS,SDIAMOARMS,4
+Mississippi,MS,Tennessee,TN,MSTN,1
+Tennessee,TN,Mississippi,MS,TNMS,1
+Mississippi,MS,Texas,TX,MSLATX,2
+Texas,TX,Mississippi,MS,TXLAMS,2
+Mississippi,MS,Utah,UT,MSAROKCOUT,4
+Utah,UT,Mississippi,MS,UTCOOKARMS,4
+Mississippi,MS,Vermont,VT,MSTNVAMDPANYVT,6
+Vermont,VT,Mississippi,MS,VTNYPAMDVATNMS,6
+Mississippi,MS,Virginia,VA,MSTNVA,2
+Virginia,VA,Mississippi,MS,VATNMS,2
+Mississippi,MS,Washington,WA,MSTNMONEWYIDWA,6
+Washington,WA,Mississippi,MS,WAIDWYNEMOTNMS,6
+Mississippi,MS,West Virginia,WV,MSTNVAWV,3
+West Virginia,WV,Mississippi,MS,WVVATNMS,3
+Mississippi,MS,Wisconsin,WI,MSARMOILWI,4
+Wisconsin,WI,Mississippi,MS,WIILMOARMS,4
+Mississippi,MS,Wyoming,WY,MSAROKCOWY,4
+Wyoming,WY,Mississippi,MS,WYCOOKARMS,4
+Missouri,MO,Missouri,MO,MO,0
+Missouri,MO,Montana,MT,MONEWYMT,3
+Montana,MT,Missouri,MO,MTWYNEMO,3
+Missouri,MO,Nebraska,NE,MONE,1
+Nebraska,NE,Missouri,MO,NEMO,1
+Missouri,MO,Nevada,NV,MOKSCOUTNV,4
+Nevada,NV,Missouri,MO,NVUTCOKSMO,4
+Missouri,MO,New Hampshire,NH,MOKYWVPANYVTNH,6
+New Hampshire,NH,Missouri,MO,NHVTNYPAWVKYMO,6
+Missouri,MO,New Jersey,NJ,MOKYWVPANJ,4
+New Jersey,NJ,Missouri,MO,NJPAWVKYMO,4
+Missouri,MO,New Mexico,NM,MOOKNM,2
+New Mexico,NM,Missouri,MO,NMOKMO,2
+Missouri,MO,New York,NY,MOKYWVPANY,4
+New York,NY,Missouri,MO,NYPAWVKYMO,4
+Missouri,MO,North Carolina,NC,MOTNNC,2
+North Carolina,NC,Missouri,MO,NCTNMO,2
+Missouri,MO,North Dakota,ND,MOIAMNND,3
+North Dakota,ND,Missouri,MO,NDMNIAMO,3
+Missouri,MO,Ohio,OH,MOKYOH,2
+Ohio,OH,Missouri,MO,OHKYMO,2
+Missouri,MO,Oklahoma,OK,MOOK,1
+Oklahoma,OK,Missouri,MO,OKMO,1
+Missouri,MO,Oregon,OR,MONEWYIDOR,4
+Oregon,OR,Missouri,MO,ORIDWYNEMO,4
+Missouri,MO,Pennsylvania,PA,MOKYWVPA,3
+Pennsylvania,PA,Missouri,MO,PAWVKYMO,3
+Missouri,MO,Rhode Island,RI,MOKYWVPANYMARI,6
+Rhode Island,RI,Missouri,MO,RIMANYPAWVKYMO,6
+Missouri,MO,South Carolina,SC,MOTNNCSC,3
+South Carolina,SC,Missouri,MO,SCNCTNMO,3
+Missouri,MO,South Dakota,SD,MONESD,2
+South Dakota,SD,Missouri,MO,SDNEMO,2
+Missouri,MO,Tennessee,TN,MOTN,1
+Tennessee,TN,Missouri,MO,TNMO,1
+Missouri,MO,Texas,TX,MOOKTX,2
+Texas,TX,Missouri,MO,TXOKMO,2
+Missouri,MO,Utah,UT,MOKSCOUT,3
+Utah,UT,Missouri,MO,UTCOKSMO,3
+Missouri,MO,Vermont,VT,MOKYWVPANYVT,5
+Vermont,VT,Missouri,MO,VTNYPAWVKYMO,5
+Missouri,MO,Virginia,VA,MOKYVA,2
+Virginia,VA,Missouri,MO,VAKYMO,2
+Missouri,MO,Washington,WA,MONEWYIDWA,4
+Washington,WA,Missouri,MO,WAIDWYNEMO,4
+Missouri,MO,West Virginia,WV,MOKYWV,2
+West Virginia,WV,Missouri,MO,WVKYMO,2
+Missouri,MO,Wisconsin,WI,MOILWI,2
+Wisconsin,WI,Missouri,MO,WIILMO,2
+Missouri,MO,Wyoming,WY,MONEWY,2
+Wyoming,WY,Missouri,MO,WYNEMO,2
+Montana,MT,Montana,MT,MT,0
+Montana,MT,Nebraska,NE,MTWYNE,2
+Nebraska,NE,Montana,MT,NEWYMT,2
+Montana,MT,Nevada,NV,MTIDNV,2
+Nevada,NV,Montana,MT,NVIDMT,2
+Montana,MT,New Hampshire,NH,MTWYNEMOKYWVPANYVTNH,9
+New Hampshire,NH,Montana,MT,NHVTNYPAWVKYMONEWYMT,9
+Montana,MT,New Jersey,NJ,MTWYNEMOKYWVPANJ,7
+New Jersey,NJ,Montana,MT,NJPAWVKYMONEWYMT,7
+Montana,MT,New Mexico,NM,MTWYCONM,3
+New Mexico,NM,Montana,MT,NMCOWYMT,3
+Montana,MT,New York,NY,MTWYNEMOKYWVPANY,7
+New York,NY,Montana,MT,NYPAWVKYMONEWYMT,7
+Montana,MT,North Carolina,NC,MTWYNEMOTNNC,5
+North Carolina,NC,Montana,MT,NCTNMONEWYMT,5
+Montana,MT,North Dakota,ND,MTND,1
+North Dakota,ND,Montana,MT,NDMT,1
+Montana,MT,Ohio,OH,MTNDMNWIMIOH,5
+Ohio,OH,Montana,MT,OHMIWIMNNDMT,5
+Montana,MT,Oklahoma,OK,MTWYCOOK,3
+Oklahoma,OK,Montana,MT,OKCOWYMT,3
+Montana,MT,Oregon,OR,MTIDOR,2
+Oregon,OR,Montana,MT,ORIDMT,2
+Montana,MT,Pennsylvania,PA,MTWYNEMOKYWVPA,6
+Pennsylvania,PA,Montana,MT,PAWVKYMONEWYMT,6
+Montana,MT,Rhode Island,RI,MTWYNEMOKYWVPANYMARI,9
+Rhode Island,RI,Montana,MT,RIMANYPAWVKYMONEWYMT,9
+Montana,MT,South Carolina,SC,MTWYNEMOTNNCSC,6
+South Carolina,SC,Montana,MT,SCNCTNMONEWYMT,6
+Montana,MT,South Dakota,SD,MTSD,1
+South Dakota,SD,Montana,MT,SDMT,1
+Montana,MT,Tennessee,TN,MTWYNEMOTN,4
+Tennessee,TN,Montana,MT,TNMONEWYMT,4
+Montana,MT,Texas,TX,MTWYCONMTX,4
+Texas,TX,Montana,MT,TXNMCOWYMT,4
+Montana,MT,Utah,UT,MTIDUT,2
+Utah,UT,Montana,MT,UTIDMT,2
+Montana,MT,Vermont,VT,MTWYNEMOKYWVPANYVT,8
+Vermont,VT,Montana,MT,VTNYPAWVKYMONEWYMT,8
+Montana,MT,Virginia,VA,MTWYNEMOKYVA,5
+Virginia,VA,Montana,MT,VAKYMONEWYMT,5
+Montana,MT,Washington,WA,MTIDWA,2
+Washington,WA,Montana,MT,WAIDMT,2
+Montana,MT,West Virginia,WV,MTWYNEMOKYWV,5
+West Virginia,WV,Montana,MT,WVKYMONEWYMT,5
+Montana,MT,Wisconsin,WI,MTNDMNWI,3
+Wisconsin,WI,Montana,MT,WIMNNDMT,3
+Montana,MT,Wyoming,WY,MTWY,1
+Wyoming,WY,Montana,MT,WYMT,1
+Nebraska,NE,Nebraska,NE,NE,0
+Nebraska,NE,Nevada,NV,NECOUTNV,3
+Nevada,NV,Nebraska,NE,NVUTCONE,3
+Nebraska,NE,New Hampshire,NH,NEMOKYWVPANYVTNH,7
+New Hampshire,NH,Nebraska,NE,NHVTNYPAWVKYMONE,7
+Nebraska,NE,New Jersey,NJ,NEMOKYWVPANJ,5
+New Jersey,NJ,Nebraska,NE,NJPAWVKYMONE,5
+Nebraska,NE,New Mexico,NM,NECONM,2
+New Mexico,NM,Nebraska,NE,NMCONE,2
+Nebraska,NE,New York,NY,NEMOKYWVPANY,5
+New York,NY,Nebraska,NE,NYPAWVKYMONE,5
+Nebraska,NE,North Carolina,NC,NEMOTNNC,3
+North Carolina,NC,Nebraska,NE,NCTNMONE,3
+Nebraska,NE,North Dakota,ND,NESDND,2
+North Dakota,ND,Nebraska,NE,NDSDNE,2
+Nebraska,NE,Ohio,OH,NEMOKYOH,3
+Ohio,OH,Nebraska,NE,OHKYMONE,3
+Nebraska,NE,Oklahoma,OK,NEKSOK,2
+Oklahoma,OK,Nebraska,NE,OKKSNE,2
+Nebraska,NE,Oregon,OR,NEWYIDOR,3
+Oregon,OR,Nebraska,NE,ORIDWYNE,3
+Nebraska,NE,Pennsylvania,PA,NEMOKYWVPA,4
+Pennsylvania,PA,Nebraska,NE,PAWVKYMONE,4
+Nebraska,NE,Rhode Island,RI,NEMOKYWVPANYMARI,7
+Rhode Island,RI,Nebraska,NE,RIMANYPAWVKYMONE,7
+Nebraska,NE,South Carolina,SC,NEMOTNNCSC,4
+South Carolina,SC,Nebraska,NE,SCNCTNMONE,4
+Nebraska,NE,South Dakota,SD,NESD,1
+South Dakota,SD,Nebraska,NE,SDNE,1
+Nebraska,NE,Tennessee,TN,NEMOTN,2
+Tennessee,TN,Nebraska,NE,TNMONE,2
+Nebraska,NE,Texas,TX,NEKSOKTX,3
+Texas,TX,Nebraska,NE,TXOKKSNE,3
+Nebraska,NE,Utah,UT,NECOUT,2
+Utah,UT,Nebraska,NE,UTCONE,2
+Nebraska,NE,Vermont,VT,NEMOKYWVPANYVT,6
+Vermont,VT,Nebraska,NE,VTNYPAWVKYMONE,6
+Nebraska,NE,Virginia,VA,NEMOKYVA,3
+Virginia,VA,Nebraska,NE,VAKYMONE,3
+Nebraska,NE,Washington,WA,NEWYIDWA,3
+Washington,WA,Nebraska,NE,WAIDWYNE,3
+Nebraska,NE,West Virginia,WV,NEMOKYWV,3
+West Virginia,WV,Nebraska,NE,WVKYMONE,3
+Nebraska,NE,Wisconsin,WI,NEIAWI,2
+Wisconsin,WI,Nebraska,NE,WIIANE,2
+Nebraska,NE,Wyoming,WY,NEWY,1
+Wyoming,WY,Nebraska,NE,WYNE,1
+Nevada,NV,Nevada,NV,NV,0
+Nevada,NV,New Hampshire,NH,NVUTCOKSMOKYWVPANYVTNH,10
+New Hampshire,NH,Nevada,NV,NHVTNYPAWVKYMOKSCOUTNV,10
+Nevada,NV,New Jersey,NJ,NVUTCOKSMOKYWVPANJ,8
+New Jersey,NJ,Nevada,NV,NJPAWVKYMOKSCOUTNV,8
+Nevada,NV,New Mexico,NM,NVAZNM,2
+New Mexico,NM,Nevada,NV,NMAZNV,2
+Nevada,NV,New York,NY,NVUTCOKSMOKYWVPANY,8
+New York,NY,Nevada,NV,NYPAWVKYMOKSCOUTNV,8
+Nevada,NV,North Carolina,NC,NVUTCOKSMOTNNC,6
+North Carolina,NC,Nevada,NV,NCTNMOKSCOUTNV,6
+Nevada,NV,North Dakota,ND,NVIDMTND,3
+North Dakota,ND,Nevada,NV,NDMTIDNV,3
+Nevada,NV,Ohio,OH,NVUTCOKSMOKYOH,6
+Ohio,OH,Nevada,NV,OHKYMOKSCOUTNV,6
+Nevada,NV,Oklahoma,OK,NVUTCOOK,3
+Oklahoma,OK,Nevada,NV,OKCOUTNV,3
+Nevada,NV,Oregon,OR,NVOR,1
+Oregon,OR,Nevada,NV,ORNV,1
+Nevada,NV,Pennsylvania,PA,NVUTCOKSMOKYWVPA,7
+Pennsylvania,PA,Nevada,NV,PAWVKYMOKSCOUTNV,7
+Nevada,NV,Rhode Island,RI,NVUTCOKSMOKYWVPANYMARI,10
+Rhode Island,RI,Nevada,NV,RIMANYPAWVKYMOKSCOUTNV,10
+Nevada,NV,South Carolina,SC,NVUTCOKSMOTNNCSC,7
+South Carolina,SC,Nevada,NV,SCNCTNMOKSCOUTNV,7
+Nevada,NV,South Dakota,SD,NVUTWYSD,3
+South Dakota,SD,Nevada,NV,SDWYUTNV,3
+Nevada,NV,Tennessee,TN,NVUTCOKSMOTN,5
+Tennessee,TN,Nevada,NV,TNMOKSCOUTNV,5
+Nevada,NV,Texas,TX,NVAZNMTX,3
+Texas,TX,Nevada,NV,TXNMAZNV,3
+Nevada,NV,Utah,UT,NVUT,1
+Utah,UT,Nevada,NV,UTNV,1
+Nevada,NV,Vermont,VT,NVUTCOKSMOKYWVPANYVT,9
+Vermont,VT,Nevada,NV,VTNYPAWVKYMOKSCOUTNV,9
+Nevada,NV,Virginia,VA,NVUTCOKSMOKYVA,6
+Virginia,VA,Nevada,NV,VAKYMOKSCOUTNV,6
+Nevada,NV,Washington,WA,NVORWA,2
+Washington,WA,Nevada,NV,WAORNV,2
+Nevada,NV,West Virginia,WV,NVUTCOKSMOKYWV,6
+West Virginia,WV,Nevada,NV,WVKYMOKSCOUTNV,6
+Nevada,NV,Wisconsin,WI,NVUTCONEIAWI,5
+Wisconsin,WI,Nevada,NV,WIIANECOUTNV,5
+Nevada,NV,Wyoming,WY,NVUTWY,2
+Wyoming,WY,Nevada,NV,WYUTNV,2
+New Hampshire,NH,New Hampshire,NH,NH,0
+New Hampshire,NH,New Jersey,NJ,NHVTNYNJ,3
+New Jersey,NJ,New Hampshire,NH,NJNYVTNH,3
+New Hampshire,NH,New Mexico,NM,NHVTNYPAWVKYMOOKNM,8
+New Mexico,NM,New Hampshire,NH,NMOKMOKYWVPANYVTNH,8
+New Hampshire,NH,New York,NY,NHNY,1
+New York,NY,New Hampshire,NH,NYNH,1
+New Hampshire,NH,North Carolina,NC,NHVTNYPAMDVANC,6
+North Carolina,NC,New Hampshire,NH,NCVAMDPANYVTNH,6
+New Hampshire,NH,North Dakota,ND,NHVTNYPAWVKYMOIASDND,9
+North Dakota,ND,New Hampshire,NH,NDSDIAMOKYWVPANYVTNH,9
+New Hampshire,NH,Ohio,OH,NHVTNYPAOH,4
+Ohio,OH,New Hampshire,NH,OHPANYVTNH,4
+New Hampshire,NH,Oklahoma,OK,NHVTNYPAWVKYMOOK,7
+Oklahoma,OK,New Hampshire,NH,OKMOKYWVPANYVTNH,7
+New Hampshire,NH,Oregon,OR,NHVTNYPAWVKYMONEWYIDOR,10
+Oregon,OR,New Hampshire,NH,ORIDWYNEMOKYWVPANYVTNH,10
+New Hampshire,NH,Pennsylvania,PA,NHVTNYPA,3
+Pennsylvania,PA,New Hampshire,NH,PANYVTNH,3
+New Hampshire,NH,Rhode Island,RI,NHMARI,2
+Rhode Island,RI,New Hampshire,NH,RIMANH,2
+New Hampshire,NH,South Carolina,SC,NHVTNYPAMDVANCSC,7
+South Carolina,SC,New Hampshire,NH,SCNCVAMDPANYVTNH,7
+New Hampshire,NH,South Dakota,SD,NHVTNYPAWVKYMONESD,8
+South Dakota,SD,New Hampshire,NH,SDNEMOKYWVPANYVTNH,8
+New Hampshire,NH,Tennessee,TN,NHVTNYPAWVKYTN,6
+Tennessee,TN,New Hampshire,NH,TNKYWVPANYVTNH,6
+New Hampshire,NH,Texas,TX,NHVTNYPAWVKYMOOKTX,8
+Texas,TX,New Hampshire,NH,TXOKMOKYWVPANYVTNH,8
+New Hampshire,NH,Utah,UT,NHVTNYPAWVKYMOKSCOUT,9
+Utah,UT,New Hampshire,NH,UTCOKSMOKYWVPANYVTNH,9
+New Hampshire,NH,Vermont,VT,NHVT,1
+Vermont,VT,New Hampshire,NH,VTNH,1
+New Hampshire,NH,Virginia,VA,NHVTNYPAMDVA,5
+Virginia,VA,New Hampshire,NH,VAMDPANYVTNH,5
+New Hampshire,NH,Washington,WA,NHNYPAWVKYMONEWYIDWA,9
+Washington,WA,New Hampshire,NH,WAIDWYNEMOKYWVPANYNH,9
+New Hampshire,NH,West Virginia,WV,NHVTNYPAWV,4
+West Virginia,WV,New Hampshire,NH,WVPANYVTNH,4
+New Hampshire,NH,Wisconsin,WI,NHVTNYPAOHMIWI,6
+Wisconsin,WI,New Hampshire,NH,WIMIOHPANYVTNH,6
+New Hampshire,NH,Wyoming,WY,NHVTNYPAWVKYMONEWY,8
+Wyoming,WY,New Hampshire,NH,WYNEMOKYWVPANYVTNH,8
+New Jersey,NJ,New Jersey,NJ,NJ,0
+New Jersey,NJ,New Mexico,NM,NJPAWVKYMOOKNM,6
+New Mexico,NM,New Jersey,NJ,NMOKMOKYWVPANJ,6
+New Jersey,NJ,New York,NY,NJNY,1
+New York,NY,New Jersey,NJ,NYNJ,1
+New Jersey,NJ,North Carolina,NC,NJPAMDVANC,4
+North Carolina,NC,New Jersey,NJ,NCVAMDPANJ,4
+New Jersey,NJ,North Dakota,ND,NJPAWVKYMOIASDND,7
+North Dakota,ND,New Jersey,NJ,NDSDIAMOKYWVPANJ,7
+New Jersey,NJ,Ohio,OH,NJPAOH,2
+Ohio,OH,New Jersey,NJ,OHPANJ,2
+New Jersey,NJ,Oklahoma,OK,NJPAWVKYMOOK,5
+Oklahoma,OK,New Jersey,NJ,OKMOKYWVPANJ,5
+New Jersey,NJ,Oregon,OR,NJPAWVKYMONEWYIDOR,8
+Oregon,OR,New Jersey,NJ,ORIDWYNEMOKYWVPANJ,8
+New Jersey,NJ,Pennsylvania,PA,NJPA,1
+Pennsylvania,PA,New Jersey,NJ,PANJ,1
+New Jersey,NJ,Rhode Island,RI,NJNYCTRI,3
+Rhode Island,RI,New Jersey,NJ,RICTNYNJ,3
+New Jersey,NJ,South Carolina,SC,NJPAMDVANCSC,5
+South Carolina,SC,New Jersey,NJ,SCNCVAMDPANJ,5
+New Jersey,NJ,South Dakota,SD,NJPAWVKYMONESD,6
+South Dakota,SD,New Jersey,NJ,SDNEMOKYWVPANJ,6
+New Jersey,NJ,Tennessee,TN,NJPAWVKYTN,4
+Tennessee,TN,New Jersey,NJ,TNKYWVPANJ,4
+New Jersey,NJ,Texas,TX,NJPAWVKYMOOKTX,6
+Texas,TX,New Jersey,NJ,TXOKMOKYWVPANJ,6
+New Jersey,NJ,Utah,UT,NJPAWVKYMOKSCOUT,7
+Utah,UT,New Jersey,NJ,UTCOKSMOKYWVPANJ,7
+New Jersey,NJ,Vermont,VT,NJNYVT,2
+Vermont,VT,New Jersey,NJ,VTNYNJ,2
+New Jersey,NJ,Virginia,VA,NJPAMDVA,3
+Virginia,VA,New Jersey,NJ,VAMDPANJ,3
+New Jersey,NJ,Washington,WA,NJPAWVKYMONEWYIDWA,8
+Washington,WA,New Jersey,NJ,WAIDWYNEMOKYWVPANJ,8
+New Jersey,NJ,West Virginia,WV,NJPAWV,2
+West Virginia,WV,New Jersey,NJ,WVPANJ,2
+New Jersey,NJ,Wisconsin,WI,NJPAOHMIWI,4
+Wisconsin,WI,New Jersey,NJ,WIMIOHPANJ,4
+New Jersey,NJ,Wyoming,WY,NJPAWVKYMONEWY,6
+Wyoming,WY,New Jersey,NJ,WYNEMOKYWVPANJ,6
+New Mexico,NM,New Mexico,NM,NM,0
+New Mexico,NM,New York,NY,NMOKMOKYWVPANY,6
+New York,NY,New Mexico,NM,NYPAWVKYMOOKNM,6
+New Mexico,NM,North Carolina,NC,NMOKMOTNNC,4
+North Carolina,NC,New Mexico,NM,NCTNMOOKNM,4
+New Mexico,NM,North Dakota,ND,NMCOWYSDND,4
+North Dakota,ND,New Mexico,NM,NDSDWYCONM,4
+New Mexico,NM,Ohio,OH,NMOKMOKYOH,4
+Ohio,OH,New Mexico,NM,OHKYMOOKNM,4
+New Mexico,NM,Oklahoma,OK,NMOK,1
+Oklahoma,OK,New Mexico,NM,OKNM,1
+New Mexico,NM,Oregon,OR,NMAZNVOR,3
+Oregon,OR,New Mexico,NM,ORNVAZNM,3
+New Mexico,NM,Pennsylvania,PA,NMOKMOKYWVPA,5
+Pennsylvania,PA,New Mexico,NM,PAWVKYMOOKNM,5
+New Mexico,NM,Rhode Island,RI,NMOKMOKYWVPANYMARI,8
+Rhode Island,RI,New Mexico,NM,RIMANYPAWVKYMOOKNM,8
+New Mexico,NM,South Carolina,SC,NMOKMOTNNCSC,5
+South Carolina,SC,New Mexico,NM,SCNCTNMOOKNM,5
+New Mexico,NM,South Dakota,SD,NMCOWYSD,3
+South Dakota,SD,New Mexico,NM,SDWYCONM,3
+New Mexico,NM,Tennessee,TN,NMOKMOTN,3
+Tennessee,TN,New Mexico,NM,TNMOOKNM,3
+New Mexico,NM,Texas,TX,NMTX,1
+Texas,TX,New Mexico,NM,TXNM,1
+New Mexico,NM,Utah,UT,NMCOUT,2
+Utah,UT,New Mexico,NM,UTCONM,2
+New Mexico,NM,Vermont,VT,NMOKMOKYWVPANYVT,7
+Vermont,VT,New Mexico,NM,VTNYPAWVKYMOOKNM,7
+New Mexico,NM,Virginia,VA,NMOKMOKYVA,4
+Virginia,VA,New Mexico,NM,VAKYMOOKNM,4
+New Mexico,NM,Washington,WA,NMAZNVORWA,4
+Washington,WA,New Mexico,NM,WAORNVAZNM,4
+New Mexico,NM,West Virginia,WV,NMOKMOKYWV,4
+West Virginia,WV,New Mexico,NM,WVKYMOOKNM,4
+New Mexico,NM,Wisconsin,WI,NMCONEIAWI,4
+Wisconsin,WI,New Mexico,NM,WIIANECONM,4
+New Mexico,NM,Wyoming,WY,NMCOWY,2
+Wyoming,WY,New Mexico,NM,WYCONM,2
+New York,NY,New York,NY,NY,0
+New York,NY,North Carolina,NC,NYPAMDVANC,4
+North Carolina,NC,New York,NY,NCVAMDPANY,4
+New York,NY,North Dakota,ND,NYPAWVKYMOIASDND,7
+North Dakota,ND,New York,NY,NDSDIAMOKYWVPANY,7
+New York,NY,Ohio,OH,NYPAOH,2
+Ohio,OH,New York,NY,OHPANY,2
+New York,NY,Oklahoma,OK,NYPAWVKYMOOK,5
+Oklahoma,OK,New York,NY,OKMOKYWVPANY,5
+New York,NY,Oregon,OR,NYPAWVKYMONEWYIDOR,8
+Oregon,OR,New York,NY,ORIDWYNEMOKYWVPANY,8
+New York,NY,Pennsylvania,PA,NYPA,1
+Pennsylvania,PA,New York,NY,PANY,1
+New York,NY,Rhode Island,RI,NYMARI,2
+Rhode Island,RI,New York,NY,RIMANY,2
+New York,NY,South Carolina,SC,NYPAMDVANCSC,5
+South Carolina,SC,New York,NY,SCNCVAMDPANY,5
+New York,NY,South Dakota,SD,NYPAWVKYMONESD,6
+South Dakota,SD,New York,NY,SDNEMOKYWVPANY,6
+New York,NY,Tennessee,TN,NYPAWVKYTN,4
+Tennessee,TN,New York,NY,TNKYWVPANY,4
+New York,NY,Texas,TX,NYPAWVKYMOOKTX,6
+Texas,TX,New York,NY,TXOKMOKYWVPANY,6
+New York,NY,Utah,UT,NYPAWVKYMOKSCOUT,7
+Utah,UT,New York,NY,UTCOKSMOKYWVPANY,7
+New York,NY,Vermont,VT,NYVT,1
+Vermont,VT,New York,NY,VTNY,1
+New York,NY,Virginia,VA,NYPAMDVA,3
+Virginia,VA,New York,NY,VAMDPANY,3
+New York,NY,Washington,WA,NYPAWVKYMONEWYIDWA,8
+Washington,WA,New York,NY,WAIDWYNEMOKYWVPANY,8
+New York,NY,West Virginia,WV,NYPAWV,2
+West Virginia,WV,New York,NY,WVPANY,2
+New York,NY,Wisconsin,WI,NYPAOHMIWI,4
+Wisconsin,WI,New York,NY,WIMIOHPANY,4
+New York,NY,Wyoming,WY,NYPAWVKYMONEWY,6
+Wyoming,WY,New York,NY,WYNEMOKYWVPANY,6
+North Carolina,NC,North Carolina,NC,NC,0
+North Carolina,NC,North Dakota,ND,NCTNMOIASDND,5
+North Dakota,ND,North Carolina,NC,NDSDIAMOTNNC,5
+North Carolina,NC,Ohio,OH,NCVAWVOH,3
+Ohio,OH,North Carolina,NC,OHWVVANC,3
+North Carolina,NC,Oklahoma,OK,NCTNAROK,3
+Oklahoma,OK,North Carolina,NC,OKARTNNC,3
+North Carolina,NC,Oregon,OR,NCTNMONEWYIDOR,6
+Oregon,OR,North Carolina,NC,ORIDWYNEMOTNNC,6
+North Carolina,NC,Pennsylvania,PA,NCVAMDPA,3
+Pennsylvania,PA,North Carolina,NC,PAMDVANC,3
+North Carolina,NC,Rhode Island,RI,NCVAMDPANYMARI,6
+Rhode Island,RI,North Carolina,NC,RIMANYPAMDVANC,6
+North Carolina,NC,South Carolina,SC,NCSC,1
+South Carolina,SC,North Carolina,NC,SCNC,1
+North Carolina,NC,South Dakota,SD,NCTNMOIASD,4
+South Dakota,SD,North Carolina,NC,SDIAMOTNNC,4
+North Carolina,NC,Tennessee,TN,NCTN,1
+Tennessee,TN,North Carolina,NC,TNNC,1
+North Carolina,NC,Texas,TX,NCTNARTX,3
+Texas,TX,North Carolina,NC,TXARTNNC,3
+North Carolina,NC,Utah,UT,NCTNMOKSCOUT,5
+Utah,UT,North Carolina,NC,UTCOKSMOTNNC,5
+North Carolina,NC,Vermont,VT,NCVAMDPANYVT,5
+Vermont,VT,North Carolina,NC,VTNYPAMDVANC,5
+North Carolina,NC,Virginia,VA,NCVA,1
+Virginia,VA,North Carolina,NC,VANC,1
+North Carolina,NC,Washington,WA,NCTNMONEWYIDWA,6
+Washington,WA,North Carolina,NC,WAIDWYNEMOTNNC,6
+North Carolina,NC,West Virginia,WV,NCVAWV,2
+West Virginia,WV,North Carolina,NC,WVVANC,2
+North Carolina,NC,Wisconsin,WI,NCTNMOILWI,4
+Wisconsin,WI,North Carolina,NC,WIILMOTNNC,4
+North Carolina,NC,Wyoming,WY,NCTNMONEWY,4
+Wyoming,WY,North Carolina,NC,WYNEMOTNNC,4
+North Dakota,ND,North Dakota,ND,ND,0
+North Dakota,ND,Ohio,OH,NDMNWIMIOH,4
+Ohio,OH,North Dakota,ND,OHMIWIMNND,4
+North Dakota,ND,Oklahoma,OK,NDSDNEKSOK,4
+Oklahoma,OK,North Dakota,ND,OKKSNESDND,4
+North Dakota,ND,Oregon,OR,NDMTIDOR,3
+Oregon,OR,North Dakota,ND,ORIDMTND,3
+North Dakota,ND,Pennsylvania,PA,NDMNWIMIOHPA,5
+Pennsylvania,PA,North Dakota,ND,PAOHMIWIMNND,5
+North Dakota,ND,Rhode Island,RI,NDMNWIMIOHPANYMARI,8
+Rhode Island,RI,North Dakota,ND,RIMANYPAOHMIWIMNND,8
+North Dakota,ND,South Carolina,SC,NDMNIAMOTNNCSC,6
+South Carolina,SC,North Dakota,ND,SCNCTNMOIAMNND,6
+North Dakota,ND,South Dakota,SD,NDSD,1
+South Dakota,SD,North Dakota,ND,SDND,1
+North Dakota,ND,Tennessee,TN,NDMNIAMOTN,4
+Tennessee,TN,North Dakota,ND,TNMOIAMNND,4
+North Dakota,ND,Texas,TX,NDSDNEKSOKTX,5
+Texas,TX,North Dakota,ND,TXOKKSNESDND,5
+North Dakota,ND,Utah,UT,NDSDWYUT,3
+Utah,UT,North Dakota,ND,UTWYSDND,3
+North Dakota,ND,Vermont,VT,NDMNWIMIOHPANYVT,7
+Vermont,VT,North Dakota,ND,VTNYPAOHMIWIMNND,7
+North Dakota,ND,Virginia,VA,NDMNIAMOKYVA,5
+Virginia,VA,North Dakota,ND,VAKYMOIAMNND,5
+North Dakota,ND,Washington,WA,NDMTIDWA,3
+Washington,WA,North Dakota,ND,WAIDMTND,3
+North Dakota,ND,West Virginia,WV,NDMNIAMOKYWV,5
+West Virginia,WV,North Dakota,ND,WVKYMOIAMNND,5
+North Dakota,ND,Wisconsin,WI,NDMNWI,2
+Wisconsin,WI,North Dakota,ND,WIMNND,2
+North Dakota,ND,Wyoming,WY,NDSDWY,2
+Wyoming,WY,North Dakota,ND,WYSDND,2
+Ohio,OH,Ohio,OH,OH,0
+Ohio,OH,Oklahoma,OK,OHKYMOOK,3
+Oklahoma,OK,Ohio,OH,OKMOKYOH,3
+Ohio,OH,Oregon,OR,OHKYMONEWYIDOR,6
+Oregon,OR,Ohio,OH,ORIDWYNEMOKYOH,6
+Ohio,OH,Pennsylvania,PA,OHPA,1
+Pennsylvania,PA,Ohio,OH,PAOH,1
+Ohio,OH,Rhode Island,RI,OHPANYMARI,4
+Rhode Island,RI,Ohio,OH,RIMANYPAOH,4
+Ohio,OH,South Carolina,SC,OHWVVANCSC,4
+South Carolina,SC,Ohio,OH,SCNCVAWVOH,4
+Ohio,OH,South Dakota,SD,OHMIWIMNSD,4
+South Dakota,SD,Ohio,OH,SDMNWIMIOH,4
+Ohio,OH,Tennessee,TN,OHKYTN,2
+Tennessee,TN,Ohio,OH,TNKYOH,2
+Ohio,OH,Texas,TX,OHKYTNARTX,4
+Texas,TX,Ohio,OH,TXARTNKYOH,4
+Ohio,OH,Utah,UT,OHKYMOKSCOUT,5
+Utah,UT,Ohio,OH,UTCOKSMOKYOH,5
+Ohio,OH,Vermont,VT,OHPANYVT,3
+Vermont,VT,Ohio,OH,VTNYPAOH,3
+Ohio,OH,Virginia,VA,OHWVVA,2
+Virginia,VA,Ohio,OH,VAWVOH,2
+Ohio,OH,Washington,WA,OHKYMONEWYIDWA,6
+Washington,WA,Ohio,OH,WAIDWYNEMOKYOH,6
+Ohio,OH,West Virginia,WV,OHWV,1
+West Virginia,WV,Ohio,OH,WVOH,1
+Ohio,OH,Wisconsin,WI,OHMIWI,2
+Wisconsin,WI,Ohio,OH,WIMIOH,2
+Ohio,OH,Wyoming,WY,OHKYMONEWY,4
+Wyoming,WY,Ohio,OH,WYNEMOKYOH,4
+Oklahoma,OK,Oklahoma,OK,OK,0
+Oklahoma,OK,Oregon,OR,OKCOUTNVOR,4
+Oregon,OR,Oklahoma,OK,ORNVUTCOOK,4
+Oklahoma,OK,Pennsylvania,PA,OKMOKYWVPA,4
+Pennsylvania,PA,Oklahoma,OK,PAWVKYMOOK,4
+Oklahoma,OK,Rhode Island,RI,OKMOKYWVPANYMARI,7
+Rhode Island,RI,Oklahoma,OK,RIMANYPAWVKYMOOK,7
+Oklahoma,OK,South Carolina,SC,OKARTNNCSC,4
+South Carolina,SC,Oklahoma,OK,SCNCTNAROK,4
+Oklahoma,OK,South Dakota,SD,OKKSNESD,3
+South Dakota,SD,Oklahoma,OK,SDNEKSOK,3
+Oklahoma,OK,Tennessee,TN,OKARTN,2
+Tennessee,TN,Oklahoma,OK,TNAROK,2
+Oklahoma,OK,Texas,TX,OKTX,1
+Texas,TX,Oklahoma,OK,TXOK,1
+Oklahoma,OK,Utah,UT,OKCOUT,2
+Utah,UT,Oklahoma,OK,UTCOOK,2
+Oklahoma,OK,Vermont,VT,OKMOKYWVPANYVT,6
+Vermont,VT,Oklahoma,OK,VTNYPAWVKYMOOK,6
+Oklahoma,OK,Virginia,VA,OKMOKYVA,3
+Virginia,VA,Oklahoma,OK,VAKYMOOK,3
+Oklahoma,OK,Washington,WA,OKCOWYIDWA,4
+Washington,WA,Oklahoma,OK,WAIDWYCOOK,4
+Oklahoma,OK,West Virginia,WV,OKMOKYWV,3
+West Virginia,WV,Oklahoma,OK,WVKYMOOK,3
+Oklahoma,OK,Wisconsin,WI,OKMOILWI,3
+Wisconsin,WI,Oklahoma,OK,WIILMOOK,3
+Oklahoma,OK,Wyoming,WY,OKCOWY,2
+Wyoming,WY,Oklahoma,OK,WYCOOK,2
+Oregon,OR,Oregon,OR,OR,0
+Oregon,OR,Pennsylvania,PA,ORIDWYNEMOKYWVPA,7
+Pennsylvania,PA,Oregon,OR,PAWVKYMONEWYIDOR,7
+Oregon,OR,Rhode Island,RI,ORIDWYNEMOKYWVPANYMARI,10
+Rhode Island,RI,Oregon,OR,RIMANYPAWVKYMONEWYIDOR,10
+Oregon,OR,South Carolina,SC,ORIDWYNEMOTNNCSC,7
+South Carolina,SC,Oregon,OR,SCNCTNMONEWYIDOR,7
+Oregon,OR,South Dakota,SD,ORIDWYSD,3
+South Dakota,SD,Oregon,OR,SDWYIDOR,3
+Oregon,OR,Tennessee,TN,ORIDWYNEMOTN,5
+Tennessee,TN,Oregon,OR,TNMONEWYIDOR,5
+Oregon,OR,Texas,TX,ORNVAZNMTX,4
+Texas,TX,Oregon,OR,TXNMAZNVOR,4
+Oregon,OR,Utah,UT,ORNEUT,2
+Utah,UT,Oregon,OR,UTNEOR,2
+Oregon,OR,Vermont,VT,ORIDWYNEMOKYWVPANYVT,9
+Vermont,VT,Oregon,OR,VTNYPAWVKYMONEWYIDOR,9
+Oregon,OR,Virginia,VA,ORIDWYNEMOKYVA,6
+Virginia,VA,Oregon,OR,VAKYMONEWYIDOR,6
+Oregon,OR,Washington,WA,ORWA,1
+Washington,WA,Oregon,OR,WAOR,1
+Oregon,OR,West Virginia,WV,ORIDWYNEMOKYWV,6
+West Virginia,WV,Oregon,OR,WVKYMONEWYIDOR,6
+Oregon,OR,Wisconsin,WI,ORIDWYNEIAWI,5
+Wisconsin,WI,Oregon,OR,WIIANEWYIDOR,5
+Oregon,OR,Wyoming,WY,ORIDWY,2
+Wyoming,WY,Oregon,OR,WYIDOR,2
+Pennsylvania,PA,Pennsylvania,PA,PA,0
+Pennsylvania,PA,Rhode Island,RI,PANYMARI,3
+Rhode Island,RI,Pennsylvania,PA,RIMANYPA,3
+Pennsylvania,PA,South Carolina,SC,PAWVVANCSC,4
+South Carolina,SC,Pennsylvania,PA,SCNCVAWVPA,4
+Pennsylvania,PA,South Dakota,SD,PAWVKYMOIASD,5
+South Dakota,SD,Pennsylvania,PA,SDIAMOKYWVPA,5
+Pennsylvania,PA,Tennessee,TN,PAWVKYTN,3
+Tennessee,TN,Pennsylvania,PA,TNKYWVPA,3
+Pennsylvania,PA,Texas,TX,PAWVKYMOOKTX,5
+Texas,TX,Pennsylvania,PA,TXOKMOKYWVPA,5
+Pennsylvania,PA,Utah,UT,PAWVKYMOKSCOUT,6
+Utah,UT,Pennsylvania,PA,UTCOKSMOKYWVPA,6
+Pennsylvania,PA,Vermont,VT,PANYVT,2
+Vermont,VT,Pennsylvania,PA,VTNYPA,2
+Pennsylvania,PA,Virginia,VA,PAMDVA,2
+Virginia,VA,Pennsylvania,PA,VAMDPA,2
+Pennsylvania,PA,Washington,WA,PAWVKYMONEWYIDWA,7
+Washington,WA,Pennsylvania,PA,WAIDWYNEMOKYWVPA,7
+Pennsylvania,PA,West Virginia,WV,PAWV,1
+West Virginia,WV,Pennsylvania,PA,WVPA,1
+Pennsylvania,PA,Wisconsin,WI,PAOHMIWI,3
+Wisconsin,WI,Pennsylvania,PA,WIMIOHPA,3
+Pennsylvania,PA,Wyoming,WY,PAWVKYMONEWY,5
+Wyoming,WY,Pennsylvania,PA,WYNEMOKYWVPA,5
+Rhode Island,RI,Rhode Island,RI,RI,0
+Rhode Island,RI,South Carolina,SC,RIMANYPAWVVANCSC,7
+South Carolina,SC,Rhode Island,RI,SCNCVAWVPANYMARI,7
+Rhode Island,RI,South Dakota,SD,RIMANYPAWVKYMONESD,8
+South Dakota,SD,Rhode Island,RI,SDNEMOKYWVPANYMARI,8
+Rhode Island,RI,Tennessee,TN,RIMANYPAWVKYTN,6
+Tennessee,TN,Rhode Island,RI,TNKYWVPANYMARI,6
+Rhode Island,RI,Texas,TX,RIMANYPAWVKYMOOKTX,8
+Texas,TX,Rhode Island,RI,TXOKMOKYWVPANYMARI,8
+Rhode Island,RI,Utah,UT,RIMANYPAWVKYMOKSCOUT,9
+Utah,UT,Rhode Island,RI,UTCOKSMOKYWVPANYMARI,9
+Rhode Island,RI,Vermont,VT,RIMAVT,2
+Vermont,VT,Rhode Island,RI,VTMARI,2
+Rhode Island,RI,Virginia,VA,RIMANYPAWVVA,5
+Virginia,VA,Rhode Island,RI,VAWVPANYMARI,5
+Rhode Island,RI,Washington,WA,RIMANYPAWVKYMONEWYIDWA,10
+Washington,WA,Rhode Island,RI,WAIDWYNEMOKYWVPANYMARI,10
+Rhode Island,RI,West Virginia,WV,RIMANYPAWV,4
+West Virginia,WV,Rhode Island,RI,WVPANYMARI,4
+Rhode Island,RI,Wisconsin,WI,RIMANYPAOHMIWI,6
+Wisconsin,WI,Rhode Island,RI,WIMIOHPANYMARI,6
+Rhode Island,RI,Wyoming,WY,RIMANYPAWVKYMONEWY,8
+Wyoming,WY,Rhode Island,RI,WYNEMOKYWVPANYMARI,8
+South Carolina,SC,South Carolina,SC,SC,0
+South Carolina,SC,South Dakota,SD,SCNCTNMOIASD,5
+South Dakota,SD,South Carolina,SC,SDIAMOTNNCSC,5
+South Carolina,SC,Tennessee,TN,SCNCTN,2
+Tennessee,TN,South Carolina,SC,TNNCSC,2
+South Carolina,SC,Texas,TX,SCNCTNARTX,4
+Texas,TX,South Carolina,SC,TXARTNNCSC,4
+South Carolina,SC,Utah,UT,SCNCTNMOKSCOUT,6
+Utah,UT,South Carolina,SC,UTCOKSMOTNNCSC,6
+South Carolina,SC,Vermont,VT,SCNCVAMDPANYVT,6
+Vermont,VT,South Carolina,SC,VTNYPAMDVANCSC,6
+South Carolina,SC,Virginia,VA,SCNCVA,2
+Virginia,VA,South Carolina,SC,VANCSC,2
+South Carolina,SC,Washington,WA,SCNCTNMONEWYIDWA,7
+Washington,WA,South Carolina,SC,WAIDWYNEMOTNNCSC,7
+South Carolina,SC,West Virginia,WV,SCNCVAWV,3
+West Virginia,WV,South Carolina,SC,WVVANCSC,3
+South Carolina,SC,Wisconsin,WI,SCNCTNMOIAWI,5
+Wisconsin,WI,South Carolina,SC,WIIAMOTNNCSC,5
+South Carolina,SC,Wyoming,WY,SCNCTNMONEWY,5
+Wyoming,WY,South Carolina,SC,WYNEMOTNNCSC,5
+South Dakota,SD,South Dakota,SD,SD,0
+South Dakota,SD,Tennessee,TN,SDNEMOTN,3
+Tennessee,TN,South Dakota,SD,TNMONESD,3
+South Dakota,SD,Texas,TX,SDNEKSOKTX,4
+Texas,TX,South Dakota,SD,TXOKKSNESD,4
+South Dakota,SD,Utah,UT,SDWYUT,2
+Utah,UT,South Dakota,SD,UTWYSD,2
+South Dakota,SD,Vermont,VT,SDMNWIMIOHPANYVT,7
+Vermont,VT,South Dakota,SD,VTNYPAOHMIWIMNSD,7
+South Dakota,SD,Virginia,VA,SDNEMOKYVA,4
+Virginia,VA,South Dakota,SD,VAKYMONESD,4
+South Dakota,SD,Washington,WA,SDMTIDWA,3
+Washington,WA,South Dakota,SD,WAIDMTSD,3
+South Dakota,SD,West Virginia,WV,SDNEMOKYWV,4
+West Virginia,WV,South Dakota,SD,WVKYMONESD,4
+South Dakota,SD,Wisconsin,WI,SDMNWI,2
+Wisconsin,WI,South Dakota,SD,WIMNSD,2
+South Dakota,SD,Wyoming,WY,SDWY,1
+Wyoming,WY,South Dakota,SD,WYSD,1
+Tennessee,TN,Tennessee,TN,TN,0
+Tennessee,TN,Texas,TX,TNARTX,2
+Texas,TX,Tennessee,TN,TXARTN,2
+Tennessee,TN,Utah,UT,TNMOKSCOUT,4
+Utah,UT,Tennessee,TN,UTCOKSMOTN,4
+Tennessee,TN,Vermont,VT,TNVAWVPANYVT,5
+Vermont,VT,Tennessee,TN,VTNYPAWVVATN,5
+Tennessee,TN,Virginia,VA,TNVA,1
+Virginia,VA,Tennessee,TN,VATN,1
+Tennessee,TN,Washington,WA,TNMONEWYIDWA,5
+Washington,WA,Tennessee,TN,WAIDWYNEMOTN,5
+Tennessee,TN,West Virginia,WV,TNKYWV,2
+West Virginia,WV,Tennessee,TN,WVKYTN,2
+Tennessee,TN,Wisconsin,WI,TNMOIAWI,3
+Wisconsin,WI,Tennessee,TN,WIIAMOTN,3
+Tennessee,TN,Wyoming,WY,TNMONEWY,3
+Wyoming,WY,Tennessee,TN,WYNEMOTN,3
+Texas,TX,Texas,TX,TX,0
+Texas,TX,Utah,UT,TXNMCOUT,3
+Utah,UT,Texas,TX,UTCONMTX,3
+Texas,TX,Vermont,VT,TXOKMOKYWVPANYVT,7
+Vermont,VT,Texas,TX,VTNYPAWVKYMOOKTX,7
+Texas,TX,Virginia,VA,TXARTNVA,3
+Virginia,VA,Texas,TX,VATNARTX,3
+Texas,TX,Washington,WA,TXNMAZNVORWA,5
+Washington,WA,Texas,TX,WAORNVAZNMTX,5
+Texas,TX,West Virginia,WV,TXOKMOKYWV,4
+West Virginia,WV,Texas,TX,WVKYMOOKTX,4
+Texas,TX,Wisconsin,WI,TXARMOILWI,4
+Wisconsin,WI,Texas,TX,WIILMOARTX,4
+Texas,TX,Wyoming,WY,TXNMCOWY,3
+Wyoming,WY,Texas,TX,WYCONMTX,3
+Utah,UT,Utah,UT,UT,0
+Utah,UT,Vermont,VT,UTCOKSMOKYWVPANYVT,8
+Vermont,VT,Utah,UT,VTNYPAWVKYMOKSCOUT,8
+Utah,UT,Virginia,VA,UTCOKSMOKYVA,5
+Virginia,VA,Utah,UT,VAKYMOKSCOUT,5
+Utah,UT,Washington,WA,UTIDWA,2
+Washington,WA,Utah,UT,WAIDUT,2
+Utah,UT,West Virginia,WV,UTCOKSMOKYWV,5
+West Virginia,WV,Utah,UT,WVKYMOKSCOUT,5
+Utah,UT,Wisconsin,WI,UTCONEIAWI,4
+Wisconsin,WI,Utah,UT,WIIANECOUT,4
+Utah,UT,Wyoming,WY,UTWY,1
+Wyoming,WY,Utah,UT,WYUT,1
+Vermont,VT,Vermont,VT,VT,0
+Vermont,VT,Virginia,VA,VTNYPAMDVA,4
+Virginia,VA,Vermont,VT,VAMDPANYVT,4
+Vermont,VT,Washington,WA,VTNYPAWVKYMONEWYIDWA,9
+Washington,WA,Vermont,VT,WAIDWYNEMOKYWVPANYVT,9
+Vermont,VT,West Virginia,WV,VTNYPAWV,3
+West Virginia,WV,Vermont,VT,WVPANYVT,3
+Vermont,VT,Wisconsin,WI,VTNYPAOHMIWI,5
+Wisconsin,WI,Vermont,VT,WIMIOHPANYVT,5
+Vermont,VT,Wyoming,WY,VTNYPAWVKYMONEWY,7
+Wyoming,WY,Vermont,VT,WYNEMOKYWVPANYVT,7
+Virginia,VA,Virginia,VA,VA,0
+Virginia,VA,Washington,WA,VAKYMONEWYIDWA,6
+Washington,WA,Virginia,VA,WAIDWYNEMOKYVA,6
+Virginia,VA,West Virginia,WV,VAWV,1
+West Virginia,WV,Virginia,VA,WVVA,1
+Virginia,VA,Wisconsin,WI,VAKYILWI,3
+Wisconsin,WI,Virginia,VA,WIILKYVA,3
+Virginia,VA,Wyoming,WY,VAKYMONEWY,4
+Wyoming,WY,Virginia,VA,WYNEMOKYVA,4
+Washington,WA,Washington,WA,WA,0
+Washington,WA,West Virginia,WV,WAIDWYNEMOKYWV,6
+West Virginia,WV,Washington,WA,WVKYMONEWYIDWA,6
+Washington,WA,Wisconsin,WI,WAIDMTNDMNWI,5
+Wisconsin,WI,Washington,WA,WIMNNDMTIDWA,5
+Washington,WA,Wyoming,WY,WAIDWY,2
+Wyoming,WY,Washington,WA,WYIDWA,2
+West Virginia,WV,West Virginia,WV,WV,0
+West Virginia,WV,Wisconsin,WI,WVOHMIWI,3
+Wisconsin,WI,West Virginia,WV,WIMIOHWV,3
+West Virginia,WV,Wyoming,WY,WVKYMONEWY,4
+Wyoming,WY,West Virginia,WV,WYNEMOKYWV,4
+Wisconsin,WI,Wisconsin,WI,WI,0
+Wisconsin,WI,Wyoming,WY,WIMNSDWY,3
+Wyoming,WY,Wisconsin,WI,WYSDMNWI,3
+Wyoming,WY,Wyoming,WY,WY,0

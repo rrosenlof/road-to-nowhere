@@ -6,7 +6,7 @@ import Layout from "../components/layout"
 const About = () => (
   <Layout>
     <h1>About</h1>
-    <p>This app was made by Ross Rosenlof, July 2020. Made using Gatsby. The satellite images are rendered using the Gooles Maps Static API, using coordinates of over 2000 Taco Bell restaurants in the United States for the random locations. These coordinates come from a dataset from Kaggle. Enjoy! Send any feedback to <a href="mailto:rosenlof.ross@gmail.com">me</a>.</p>
+    <p>This app was made by Ross Rosenlof, July 2020. Made using Gatsby. The satellite images are rendered using the MapQuest Static API, using coordinates of over 2000 Taco Bell restaurants in the United States for the random locations. These coordinates come from a dataset from Kaggle. Enjoy! Send any feedback to <a href="mailto:rosenlof.ross@gmail.com">me</a>.</p>
     <p>See the GitHub <a href="https://github.com/rrosenlof/road-to-nowhere/blob/master/README.md">README</a> for more info.</p>
     <Link to="/">Keep playing!</Link>
   </Layout>

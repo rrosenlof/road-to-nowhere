@@ -2,7 +2,7 @@ import React from "react"
 
 import Layout from "../components/layout"
 import Spinner from "../components/spinner"
-import JSONData from "../../content/caps.json"
+import JSONData from "../../content/taco-bells.json"
 import STATES from "../../content/states.json"
 import Answer from "../components/answer"
 import { Link } from "gatsby"
