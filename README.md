@@ -33,7 +33,7 @@ A to do list:
   - Click on a map for your guess (à la Geoguessr)
   - Keep track of a score
   - Change unlimited play to a set of questions
-- More styles? Colors?
+- More styles? Colors? At least update the site icon!!
 - Allow users to change settings they play with:
   - Zoom level
   - Road or Sat view
