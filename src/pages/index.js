@@ -77,6 +77,10 @@ export default class IndexPage extends React.Component {
     );
   }
 
+  reloadPage(){
+    window.location.reload();
+  }
+
   render() {
     return <Layout>
       <form onSubmit={this.handleSubmit}>
@@ -108,7 +112,8 @@ export default class IndexPage extends React.Component {
       { this.state.submitStatus === "answered" &&
         <div>
           <Answer answer={this.state} />
-          <Link to="/" state={{address: this.getAddress}}>Next Map</Link>
+          {/* <Link to="/" state={{address: this.getAddress}}>Next Map</Link> */}
+          <button type="button" onClick={ this.reloadPage }>Next Map</button>
         </div>
       }
       <div>
