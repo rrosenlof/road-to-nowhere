@@ -1,7 +1,7 @@
 import React from "react"
 
 import Layout from "../components/layout"
-import Spinner from "../components/spinner"
+import Byrne from "../static/byrne.gif"
 import JSONData from "../../content/taco-bells.json"
 import STATES from "../../content/states.json"
 import Answer from "../components/answer"
@@ -29,7 +29,6 @@ export default class IndexPage extends React.Component {
   getAddress() {
     const len = Object.keys(JSONData).length;
     const rand = Math.floor(Math.random() * Math.floor(len));
-    console.log(JSONData[rand])
     return JSONData[rand]
   }
   
@@ -63,7 +62,7 @@ export default class IndexPage extends React.Component {
     if (this.state.imageStatus === "loaded") {
       return null;
     }
-    return <Spinner />
+    return <img style={{ width: `50px`, marginBottom: 0}} src={Byrne} alt="talking heads gif" />
   }
 
   renderImage(imageUrl) {

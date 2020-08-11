@@ -82,3 +82,12 @@ input, select {
   display: flex;
   flex-wrap: wrap;
 }
+
+::selection {
+  background-color: #2b2b2b;
+  color: #fff;
+}
+
+a {
+  text-shadow: none;
+}

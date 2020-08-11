@@ -1,6 +1,6 @@
 # Road to Nowhere #
 
-**Description:** This app shows a semi-random image of a map, using Google Maps Static API. The user then enters a guess for the location (city and state) and then can see the right answer. Made with [Gatsby](http://gatsbyjs.org) in July, 2020, and deployed with [Netlify](https://netlify.com) here: https://road-to-nowhere.netlify.app/
+**Description:** This app shows a semi-random overhead image of a map, using MapQuest Static API. The user then enters a guess for the location of the image and then can see the right answer. Made with [Gatsby](http://gatsbyjs.org) in July, 2020, and deployed with [Netlify](https://netlify.com) here: https://road-to-nowhere.netlify.app/
 
 ## How to Run Locally ##
 
