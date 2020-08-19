@@ -5,6 +5,7 @@ import Byrne from "../static/byrne.gif"
 import JSONData from "../../content/taco-bells.json"
 import STATES from "../../content/states.json"
 import Answer from "../components/answer"
+import Map from "../components/map"
 import { Link } from "gatsby"
 
 export default class IndexPage extends React.Component {
@@ -112,15 +113,16 @@ export default class IndexPage extends React.Component {
       { this.state.submitStatus === "answered" &&
         <div>
           <Answer answer={this.state} />
-          {/* <Link to="/" state={{address: this.getAddress}}>Next Map</Link> */}
-          <button type="button" onClick={ this.reloadPage }>Next Map</button>
+          <Link to="/" state={{address: this.getAddress}}>Next Map</Link>
+          {/* <button type="button" onClick={ this.reloadPage }>Next Map</button> */}
         </div>
       }
       <div>
-        {this.renderSpinner()}
-        <div className="images">
+        {/* {this.renderSpinner()} */}
+        {/* <div className="images">
           {this.renderImage(this.state.url)}
-        </div>
+        </div> */}
+        <Map onLoad={this.handleImageLoaded} url={this.state.url}/>
       </div>
       
     </Layout>
