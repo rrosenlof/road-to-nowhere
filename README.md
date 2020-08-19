@@ -28,10 +28,7 @@ This app is currently deployed to Netlify here: https://road-to-nowhere.netlify.
 
 A to do list:
 - Think of a better name for the project? This works though...
-- Clicking 'Next Map' shouldn't need to reload the whole page
-  - Tried using <Link> to same page, but that wouldn't work
-  - Can't call constructor again
-  - Make the image and address a child component of the page?
+- Add some sort of spinner on the image loading. How to do this when the image is in a child component?
 - Improve the gameplay UX
   - Use the Google Autocomplete for entering guesses for location
   - Click on a map for your guess (à la Geoguessr)
