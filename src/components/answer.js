@@ -15,3 +15,4 @@ const Answer = ({ answer }) => (
 )
 
 export default Answer
+

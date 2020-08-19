@@ -12,7 +12,7 @@ export default class IndexPage extends React.Component {
   constructor(props) {
     super(props);
     const add = this.getAddress();
-    const u = this.getUrl(add, 1);
+    const u = this.getUrl(add);
 
     this.state = {
       city: "",
@@ -24,7 +24,7 @@ export default class IndexPage extends React.Component {
     }
 
     this.handleImageLoaded = this.handleImageLoaded.bind(this)
-    // this.handleSubmit = this.handleSubmit.bind(this)
+    this.reloadPage = this.reloadPage.bind(this)
   }
 
   getAddress() {
@@ -32,8 +32,8 @@ export default class IndexPage extends React.Component {
     const rand = Math.floor(Math.random() * Math.floor(len));
     return JSONData[rand]
   }
-  
-  getUrl(address, zoom) {
+
+  getUrl(address) {
     let url_string = `https://www.mapquestapi.com/staticmap/v5/map?key=${process.env.GATSBY_MAPQUEST_KEY}&center=${address['latitude']},${address['longitude']}&zoom=16&scalebar=false&traffic=false&size=800,800@2x&type=sat`
     return url_string
   }
@@ -63,7 +63,7 @@ export default class IndexPage extends React.Component {
     if (this.state.imageStatus === "loaded") {
       return null;
     }
-    return <img style={{ width: `50px`, marginBottom: 0}} src={Byrne} alt="talking heads gif" />
+    return <img style={{ width: `50px`, marginBottom: 0 }} src={Byrne} alt="talking heads gif" />
   }
 
   renderImage(imageUrl) {
@@ -72,14 +72,17 @@ export default class IndexPage extends React.Component {
         <img
           src={imageUrl}
           onLoad={this.handleImageLoaded}
-          alt='Selected map area' 
+          alt='Selected map area'
         />
       </div>
     );
   }
 
-  reloadPage(){
-    window.location.reload();
+  reloadPage() {
+    this.setState({
+      address: this.getAddress(),
+      submitStatus: "unanswered"
+    })
   }
 
   render() {
@@ -94,7 +97,7 @@ export default class IndexPage extends React.Component {
           </span> */}
           <span>
             <label>
-              State: 
+              State:
               <select name="province" onBlur={this.handleInputChange}>
                 <option defaultValue value=""> -- select an option -- </option>
                 {STATES.map((data) => {
@@ -106,25 +109,19 @@ export default class IndexPage extends React.Component {
           <span>
             <button type="submit" className="button">Submit</button>
           </span>
-          
+
         </div>
-        
+
       </form>
-      { this.state.submitStatus === "answered" &&
+      {this.state.submitStatus === "answered" &&
         <div>
           <Answer answer={this.state} />
-          <Link to="/" state={{address: this.getAddress}}>Next Map</Link>
-          {/* <button type="button" onClick={ this.reloadPage }>Next Map</button> */}
+          <button type="button" className="button" onClick={this.reloadPage}>Next Map</button>
         </div>
       }
-      <div>
-        {/* {this.renderSpinner()} */}
-        {/* <div className="images">
-          {this.renderImage(this.state.url)}
-        </div> */}
-        <Map onLoad={this.handleImageLoaded} url={this.state.url}/>
-      </div>
-      
+      {/* {this.renderSpinner()} */}
+      <Map address={this.state.address} />
+
     </Layout>
   }
 }
