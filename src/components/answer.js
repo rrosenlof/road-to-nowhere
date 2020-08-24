@@ -2,7 +2,7 @@ import React from 'react';
 
 const Answer = ({ answer }) => (
     <div>
-        <h2 style={{ marginBottom: 0}}>Correct Answer:</h2>
+        <h2 style={{ marginBottom: 0}}>Answer:</h2>
         <div style={{paddingLeft: `1rem`}}>
             <p style={{ marginBottom: `.3rem` }}>{answer.address['city']}, {answer.address['province']}</p>
             <p style={{ fontStyle: `italic`, marginBottom: `.3rem` }}>

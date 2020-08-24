@@ -7,8 +7,8 @@ import Answer from "../components/answer"
 import Map from "../components/map"
 
 export default class IndexPage extends React.Component {
-  constructor(props) {
-    super(props);
+  constructor() {
+    super();
     const add = this.getAddress();
 
     this.state = {
