@@ -9,10 +9,10 @@ import Map from "../components/map"
 export default class IndexPage extends React.Component {
   constructor() {
     super();
-    const add = this.getAddress();
+    // const add = this.getAddress();
 
     this.state = {
-      address: add,
+      address: this.getAddress(),
       imageStatus: "loading",
       submitStatus: "unanswered"
     }
