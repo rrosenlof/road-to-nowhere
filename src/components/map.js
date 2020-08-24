@@ -2,7 +2,7 @@ import React from 'react';
 import Byrne from "../static/byrne.gif"
 
 class Map extends React.Component {
-  constructor(props){
+  constructor(props) {
     super(props);
 
     this.state = {
@@ -30,14 +30,21 @@ class Map extends React.Component {
   }
 
   renderImage() {
-    return (
-      <div>
-        <img onLoad={this.handleImageLoaded}
-        src={`https://www.mapquestapi.com/staticmap/v5/map?key=${process.env.GATSBY_MAPQUEST_KEY}&center=${this.props.address['latitude']},${this.props.address['longitude']}&zoom=16&scalebar=false&traffic=false&size=800,800@2x&type=sat`}
-        alt='Selected map area'
-      />
-      </div>
-    );
+    console.log(this.props.address)
+    if (!this.props.address) {
+      return (
+        <div></div>
+      )
+    } else {
+      return (
+        <div>
+          <img onLoad={this.handleImageLoaded}
+            src={`https://www.mapquestapi.com/staticmap/v5/map?key=${process.env.GATSBY_MAPQUEST_KEY}&center=${this.props.address['latitude']},${this.props.address['longitude']}&zoom=16&scalebar=false&traffic=false&size=800,800@2x&type=sat`}
+            alt='Selected map area'
+          />
+        </div>
+      );
+    }
   }
 
   render() {

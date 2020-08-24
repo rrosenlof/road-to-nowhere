@@ -12,12 +12,18 @@ export default class IndexPage extends React.Component {
     // const add = this.getAddress();
 
     this.state = {
-      address: this.getAddress(),
+      address: "",
       imageStatus: "loading",
       submitStatus: "unanswered"
     }
 
-    this.reloadPage = this.reloadPage.bind(this)
+    this.reloadPage = this.reloadPage.bind(this);
+  }
+
+  componentDidMount() {
+    this.setState({
+      address: this.getAddress()
+    })
   }
 
   getAddress() {
