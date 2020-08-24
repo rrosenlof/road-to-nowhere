@@ -46,9 +46,9 @@ const Layout = ({ children }) => {
           <Link style={{ textDecoration: `none`, flex: `0 0 33%` }} to="/about/" tabIndex={-1}>
             <h4>About</h4>
           </Link>
-          <Link style={{ textDecoration: `none`, flex: `0 0 33%` }} to="/settings/" tabIndex={-1}>
+          {/* <Link style={{ textDecoration: `none`, flex: `0 0 33%` }} to="/settings/" tabIndex={-1}>
             <h4>Settings</h4>
-          </Link>
+          </Link> */}
         </div>
         <hr />
         <footer className='footer'><a style={{ margin: `0 0 20px 10px` }} href="https://github.com/rrosenlof/road-to-nowhere">@rrosenlof</a>, 2020</footer>

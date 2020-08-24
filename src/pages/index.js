@@ -1,29 +1,22 @@
 import React from "react"
 
 import Layout from "../components/layout"
-import Byrne from "../static/byrne.gif"
 import JSONData from "../../content/taco-bells.json"
 import STATES from "../../content/states.json"
 import Answer from "../components/answer"
 import Map from "../components/map"
-import { Link } from "gatsby"
 
 export default class IndexPage extends React.Component {
   constructor(props) {
     super(props);
     const add = this.getAddress();
-    const u = this.getUrl(add);
 
     this.state = {
-      city: "",
-      province: "",
       address: add,
-      url: u,
       imageStatus: "loading",
-      submitStatus: ""
+      submitStatus: "unanswered"
     }
 
-    this.handleImageLoaded = this.handleImageLoaded.bind(this)
     this.reloadPage = this.reloadPage.bind(this)
   }
 
@@ -31,11 +24,6 @@ export default class IndexPage extends React.Component {
     const len = Object.keys(JSONData).length;
     const rand = Math.floor(Math.random() * Math.floor(len));
     return JSONData[rand]
-  }
-
-  getUrl(address) {
-    let url_string = `https://www.mapquestapi.com/staticmap/v5/map?key=${process.env.GATSBY_MAPQUEST_KEY}&center=${address['latitude']},${address['longitude']}&zoom=16&scalebar=false&traffic=false&size=800,800@2x&type=sat`
-    return url_string
   }
 
   handleInputChange = event => {
@@ -49,57 +37,30 @@ export default class IndexPage extends React.Component {
 
   handleSubmit = event => {
     this.setState({
-      submitStatus: "answered"
+      submitStatus: "answered",
+      imageStatus: "loaded"
     })
     event.preventDefault();
-    console.log(this.state);
-  }
-
-  handleImageLoaded() {
-    this.setState({ imageStatus: "loaded" });
-  }
-
-  renderSpinner() {
-    if (this.state.imageStatus === "loaded") {
-      return null;
-    }
-    return <img style={{ width: `50px`, marginBottom: 0 }} src={Byrne} alt="talking heads gif" />
-  }
-
-  renderImage(imageUrl) {
-    return (
-      <div>
-        <img
-          src={imageUrl}
-          onLoad={this.handleImageLoaded}
-          alt='Selected map area'
-        />
-      </div>
-    );
   }
 
   reloadPage() {
     this.setState({
       address: this.getAddress(),
-      submitStatus: "unanswered"
+      submitStatus: "unanswered",
+      imageStatus: "loading"
     })
   }
 
   render() {
     return <Layout>
       <form onSubmit={this.handleSubmit}>
+        <p style={{ fontStyle: 'italic', margin: '-.5rem 0 .3rem' }}><b>How to play:</b> Look at the image below and enter a guess where the location is found from the dropdown list of states.</p>
         <div className="input-row">
-          {/* <span>
-            <label>
-              City: 
-              <input type="text" name="city" value={this.state.city} onChange={this.handleInputChange} />
-            </label>
-          </span> */}
           <span>
             <label>
               State:
               <select name="province" onBlur={this.handleInputChange}>
-                <option defaultValue value=""> -- select an option -- </option>
+                <option defaultValue value=""> -- </option>
                 {STATES.map((data) => {
                   return <option key={data.abbreviation} value={data.abbreviation}>{data.name}</option>
                 })}
@@ -119,8 +80,7 @@ export default class IndexPage extends React.Component {
           <button type="button" className="button" onClick={this.reloadPage}>Next Map</button>
         </div>
       }
-      {/* {this.renderSpinner()} */}
-      <Map address={this.state.address} />
+      <Map address={this.state.address} imageStatus={this.state.imageStatus} />
 
     </Layout>
   }

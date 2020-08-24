@@ -28,12 +28,11 @@ This app is currently deployed to Netlify here: https://road-to-nowhere.netlify.
 
 A to do list:
 - Think of a better name for the project? This works though...
-- Add some sort of spinner on the image loading. How to do this when the image is in a child component?
 - Improve the gameplay UX
-  - Use the Google Autocomplete for entering guesses for location
-  - Click on a map for your guess (à la Geoguessr)
+  - Use the Google Autocomplete for entering guesses for location?
   - Keep track of a score
   - Change unlimited play to a set of questions
+  - Show a 'distance off from correct' score?
 - More styles? Colors? At least update the site icon!!
 - Allow users to change settings they play with:
   - Zoom level
