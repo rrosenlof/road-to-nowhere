@@ -38,7 +38,7 @@ class AirportMap extends React.Component {
       return (
         <div>
           <img onLoad={this.handleImageLoaded}
-            src={`https://www.mapquestapi.com/staticmap/v5/map?key=${process.env.GATSBY_MAPQUEST_KEY}&center=${this.props.address['latitude']},${this.props.address['longitude']}&zoom=15&scalebar=false&traffic=false&size=800,800@2x&type=sat`}
+            src={`https://www.mapquestapi.com/staticmap/v5/map?key=${process.env.GATSBY_MAPQUEST_KEY}&center=${this.props.address['latitude']},${this.props.address['longitude']}&zoom=14&scalebar=false&traffic=false&size=800,800@2x&type=sat`}
             alt='Selected map area'
           />
         </div>

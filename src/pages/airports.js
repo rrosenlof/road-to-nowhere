@@ -3,7 +3,7 @@ import React from "react"
 import Layout from "../components/layout"
 import JSONData from "../../content/airports.json"
 import COUNTRIES from "../../content/country-codes.json"
-import Map from "../components/map"
+import AirportMap from "../components/airportMap"
 import AirportAnswer from "../components/airportAnswer"
 import { Link } from "gatsby"
 
@@ -89,7 +89,7 @@ export default class AirportPage extends React.Component {
           <button style={{ margin: `.6rem 0`}} type="button" className="button" onClick={this.reloadPage}>Next Map</button>
         </div>
       }
-      <Map address={this.state.address} imageStatus={this.state.imageStatus} />
+      <AirportMap address={this.state.address} imageStatus={this.state.imageStatus} />
 
     </Layout>
   }
