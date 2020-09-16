@@ -1,13 +1,13 @@
 import React from "react"
 
 import Layout from "../components/layout"
-import JSONData from "../../content/taco-bells.json"
-import STATES from "../../content/states.json"
-import Answer from "../components/answer"
+import JSONData from "../../content/airports.json"
+import COUNTRIES from "../../content/country-codes.json"
 import Map from "../components/map"
+import AirportAnswer from "../components/airportAnswer"
 import { Link } from "gatsby"
 
-export default class IndexPage extends React.Component {
+export default class AirportPage extends React.Component {
   constructor() {
     super();
     // const add = this.getAddress();
@@ -16,7 +16,7 @@ export default class IndexPage extends React.Component {
       address: "",
       imageStatus: "loading",
       submitStatus: "unanswered",
-      province: "",
+      country: "",
     }
 
     this.reloadPage = this.reloadPage.bind(this);
@@ -63,16 +63,15 @@ export default class IndexPage extends React.Component {
   render() {
     return <Layout>
       <form onSubmit={this.handleSubmit}>
-        <p style={{ fontStyle: 'italic', margin: '-.5rem 0 .3rem' }}><b>How to play:</b> Look at the image below and enter a guess where the location is found from the dropdown list of states. Now try with <Link to='/airports'>Airports!</Link></p>
-        
+      <p style={{ fontStyle: 'italic', margin: '-.5rem 0 .3rem' }}><b>How to play:</b> Look at the image below and enter a guess where the location is found from the dropdown list of countries. Try the <Link to='/'>Original Version!</Link></p>
         <div className="input-row">
           <span>
             <label>
-              State:
-              <select name="province" onBlur={this.handleInputChange}>
+              Country:
+              <select name="country" onBlur={this.handleInputChange}>
                 <option defaultValue value="1"> -- </option>
-                {STATES.map((data) => {
-                  return <option key={data.abbreviation} value={data.abbreviation}>{data.name}</option>
+                {COUNTRIES.map((data) => {
+                  return <option key={data.iso_code} value={data.iso_code}>{data.country_name}</option>
                 })}
               </select>
             </label>
@@ -86,7 +85,7 @@ export default class IndexPage extends React.Component {
       </form>
       {this.state.submitStatus === "answered" &&
         <div>
-          <Answer answer={this.state} />
+          <AirportAnswer answer={this.state} />
           <button style={{ margin: `.6rem 0`}} type="button" className="button" onClick={this.reloadPage}>Next Map</button>
         </div>
       }
