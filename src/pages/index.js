@@ -14,7 +14,8 @@ export default class IndexPage extends React.Component {
     this.state = {
       address: "",
       imageStatus: "loading",
-      submitStatus: "unanswered"
+      submitStatus: "unanswered",
+      province: "",
     }
 
     this.reloadPage = this.reloadPage.bind(this);
@@ -55,6 +56,7 @@ export default class IndexPage extends React.Component {
       submitStatus: "unanswered",
       imageStatus: "loading"
     })
+
   }
 
   render() {
@@ -66,7 +68,7 @@ export default class IndexPage extends React.Component {
             <label>
               State:
               <select name="province" onBlur={this.handleInputChange}>
-                <option defaultValue value=""> -- </option>
+                <option defaultValue value="1"> -- </option>
                 {STATES.map((data) => {
                   return <option key={data.abbreviation} value={data.abbreviation}>{data.name}</option>
                 })}
@@ -83,7 +85,7 @@ export default class IndexPage extends React.Component {
       {this.state.submitStatus === "answered" &&
         <div>
           <Answer answer={this.state} />
-          <button type="button" className="button" onClick={this.reloadPage}>Next Map</button>
+          <button style={{ margin: `.6rem 0`}} type="button" className="button" onClick={this.reloadPage}>Next Map</button>
         </div>
       }
       <Map address={this.state.address} imageStatus={this.state.imageStatus} />

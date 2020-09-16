@@ -27,7 +27,7 @@ const Layout = ({ children }) => {
   return (
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
-      
+
       <div
         style={{
           margin: `0 auto`,
@@ -46,12 +46,11 @@ const Layout = ({ children }) => {
           <Link style={{ textDecoration: `none`, flex: `0 0 33%` }} to="/about/" tabIndex={-1}>
             <h4>About</h4>
           </Link>
-          {/* <Link style={{ textDecoration: `none`, flex: `0 0 33%` }} to="/settings/" tabIndex={-1}>
-            <h4>Settings</h4>
-          </Link> */}
+          <a style={{ textDecoration: `none`, flex: `0 0 33%` }} href="https://github.com/rrosenlof/road-to-nowhere" tabIndex={-1}>
+            <h4>Code</h4>
+          </a>
         </div>
         <hr />
-        <footer className='footer'><a style={{ margin: `0 0 20px 10px` }} href="https://github.com/rrosenlof/road-to-nowhere">@rrosenlof</a>, 2020</footer>
       </div>
     </>
   )

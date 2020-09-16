@@ -30,7 +30,6 @@ class Map extends React.Component {
   }
 
   renderImage() {
-    console.log(this.props.address)
     if (!this.props.address) {
       return (
         <div></div>

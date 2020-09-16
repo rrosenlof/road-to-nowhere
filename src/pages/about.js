@@ -6,7 +6,7 @@ import Layout from "../components/layout"
 const About = () => (
   <Layout>
     <h1>About</h1>
-    <p>This app was made by Ross Rosenlof, July 2020. Made using <a href="https://gatsbyjs.com">Gatsby</a>. The satellite images are rendered using the MapQuest Static API, using coordinates of over 2000 Taco Bell restaurants in the United States for the random locations. These coordinates come from a dataset from Kaggle. Enjoy! Send any feedback to <a href="mailto:rosenlof.ross@gmail.com">me</a>.</p>
+    <p>This app was made by Ross Rosenlof in the summer of 2020. The satellite images are rendered using the <a href="https://developer.mapquest.com/">MapQuest</a> Static API, using coordinates of over 2,000 Taco Bell restaurants in the United States for the semi-random locations. These coordinates come from a dataset from <a href="https://www.kaggle.com/datafiniti/fast-food-restaurants">Kaggle</a>. Enjoy!</p>
     <p>See the GitHub <a href="https://github.com/rrosenlof/road-to-nowhere/blob/master/README.md">README</a> for more info.</p>
     <Link to="/">Keep playing!</Link>
   </Layout>
