@@ -1,0 +1,1253 @@
+[
+    {
+        "iso_code": "ABQ",
+        "name": "Albuquerque International Sunport",
+        "iso_country": "US",
+        "municipality": "Albuquerque",
+        "province": "NM",
+        "latitude": 35.040199,
+        "longitude": -106.609001
+    },
+    {
+        "iso_code": "AFW",
+        "name": "Fort Worth Alliance Airport",
+        "iso_country": "US",
+        "municipality": "Fort Worth",
+        "province": "TX",
+        "latitude": 32.98759842,
+        "longitude": -97.31880188
+    },
+    {
+        "iso_code": "AGS",
+        "name": "Augusta Regional At Bush Field",
+        "iso_country": "US",
+        "municipality": "Augusta",
+        "province": "GA",
+        "latitude": 33.36989975,
+        "longitude": -81.96450043
+    },
+    {
+        "iso_code": "AMA",
+        "name": "Rick Husband Amarillo International Airport",
+        "iso_country": "US",
+        "municipality": "Amarillo",
+        "province": "TX",
+        "latitude": 35.219398,
+        "longitude": -101.706001
+    },
+    {
+        "iso_code": "ATL",
+        "name": "Hartsfield Jackson Atlanta International Airport",
+        "iso_country": "US",
+        "municipality": "Atlanta",
+        "province": "GA",
+        "latitude": 33.6367,
+        "longitude": -84.428101
+    },
+    {
+        "iso_code": "AUS",
+        "name": "Austin Bergstrom International Airport",
+        "iso_country": "US",
+        "municipality": "Austin",
+        "province": "TX",
+        "latitude": 30.19449997,
+        "longitude": -97.66989899
+    },
+    {
+        "iso_code": "AVL",
+        "name": "Asheville Regional Airport",
+        "iso_country": "US",
+        "municipality": "Asheville",
+        "province": "NC",
+        "latitude": 35.43619919,
+        "longitude": -82.54180145
+    },
+    {
+        "iso_code": "BDL",
+        "name": "Bradley International Airport",
+        "iso_country": "US",
+        "municipality": "Hartford",
+        "province": "CT",
+        "latitude": 41.93889999,
+        "longitude": -72.68319702
+    },
+    {
+        "iso_code": "BFI",
+        "name": "Boeing Field King County International Airport",
+        "iso_country": "US",
+        "municipality": "Seattle",
+        "province": "WA",
+        "latitude": 47.52999878,
+        "longitude": -122.302002
+    },
+    {
+        "iso_code": "BGR",
+        "name": "Bangor International Airport",
+        "iso_country": "US",
+        "municipality": "Bangor",
+        "province": "ME",
+        "latitude": 44.80739975,
+        "longitude": -68.82810211
+    },
+    {
+        "iso_code": "BHM",
+        "name": "Birmingham-Shuttlesworth International Airport",
+        "iso_country": "US",
+        "municipality": "Birmingham",
+        "province": "AL",
+        "latitude": 33.56290054,
+        "longitude": -86.75350189
+    },
+    {
+        "iso_code": "BIL",
+        "name": "Billings Logan International Airport",
+        "iso_country": "US",
+        "municipality": "Billings",
+        "province": "MT",
+        "latitude": 45.80770111,
+        "longitude": -108.5429993
+    },
+    {
+        "iso_code": "BLV",
+        "name": "Scott AFB/Midamerica Airport",
+        "iso_country": "US",
+        "municipality": "Belleville",
+        "province": "IL",
+        "latitude": 38.5452,
+        "longitude": -89.835197
+    },
+    {
+        "iso_code": "BMI",
+        "name": "Central Illinois Regional Airport at Bloomington-Normal",
+        "iso_country": "US",
+        "municipality": "Bloomington/Normal",
+        "province": "IL",
+        "latitude": 40.47710037,
+        "longitude": -88.91590118
+    },
+    {
+        "iso_code": "BNA",
+        "name": "Nashville International Airport",
+        "iso_country": "US",
+        "municipality": "Nashville",
+        "province": "TN",
+        "latitude": 36.12450027,
+        "longitude": -86.67819977
+    },
+    {
+        "iso_code": "BOI",
+        "name": "Boise Air Terminal/Gowen Field",
+        "iso_country": "US",
+        "municipality": "Boise",
+        "province": "ID",
+        "latitude": 43.5644,
+        "longitude": -116.223
+    },
+    {
+        "iso_code": "BOS",
+        "name": "General Edward Lawrence Logan International Airport",
+        "iso_country": "US",
+        "municipality": "Boston",
+        "province": "MA",
+        "latitude": 42.36429977,
+        "longitude": -71.00520325
+    },
+    {
+        "iso_code": "BUF",
+        "name": "Buffalo Niagara International Airport",
+        "iso_country": "US",
+        "municipality": "Buffalo",
+        "province": "NY",
+        "latitude": 42.94049835,
+        "longitude": -78.73220062
+    },
+    {
+        "iso_code": "BWI",
+        "name": "Baltimore/Washington International Thurgood Marshall Airport",
+        "iso_country": "US",
+        "municipality": "Baltimore",
+        "province": "MD",
+        "latitude": 39.1754,
+        "longitude": -76.668297
+    },
+    {
+        "iso_code": "CAE",
+        "name": "Columbia Metropolitan Airport",
+        "iso_country": "US",
+        "municipality": "Columbia",
+        "province": "SC",
+        "latitude": 33.93880081,
+        "longitude": -81.11949921
+    },
+    {
+        "iso_code": "CHA",
+        "name": "Lovell Field",
+        "iso_country": "US",
+        "municipality": "Chattanooga",
+        "province": "TN",
+        "latitude": 35.03530121,
+        "longitude": -85.20379639
+    },
+    {
+        "iso_code": "CID",
+        "name": "The Eastern Iowa Airport",
+        "iso_country": "US",
+        "municipality": "Cedar Rapids",
+        "province": "IA",
+        "latitude": 41.88470078,
+        "longitude": -91.71080017
+    },
+    {
+        "iso_code": "CLE",
+        "name": "Cleveland Hopkins International Airport",
+        "iso_country": "US",
+        "municipality": "Cleveland",
+        "province": "OH",
+        "latitude": 41.4117012,
+        "longitude": -81.84980011
+    },
+    {
+        "iso_code": "CLT",
+        "name": "Charlotte Douglas International Airport",
+        "iso_country": "US",
+        "municipality": "Charlotte",
+        "province": "NC",
+        "latitude": 35.2140007,
+        "longitude": -80.94309998
+    },
+    {
+        "iso_code": "CMH",
+        "name": "John Glenn Columbus International Airport",
+        "iso_country": "US",
+        "municipality": "Columbus",
+        "province": "OH",
+        "latitude": 39.998001,
+        "longitude": -82.891899
+    },
+    {
+        "iso_code": "COS",
+        "name": "City of Colorado Springs Municipal Airport",
+        "iso_country": "US",
+        "municipality": "Colorado Springs",
+        "province": "CO",
+        "latitude": 38.805801,
+        "longitude": -104.700996
+    },
+    {
+        "iso_code": "CRP",
+        "name": "Corpus Christi International Airport",
+        "iso_country": "US",
+        "municipality": "Corpus Christi",
+        "province": "TX",
+        "latitude": 27.77039909,
+        "longitude": -97.50119781
+    },
+    {
+        "iso_code": "CRW",
+        "name": "Yeager Airport",
+        "iso_country": "US",
+        "municipality": "Charleston",
+        "province": "SC",
+        "latitude": 38.37310028,
+        "longitude": -81.59320068
+    },
+    {
+        "iso_code": "CVG",
+        "name": "Cincinnati Northern Kentucky International Airport",
+        "iso_country": "US",
+        "municipality": "Cincinnati",
+        "province": "OH",
+        "latitude": 39.04880142,
+        "longitude": -84.6678009
+    },
+    {
+        "iso_code": "DAB",
+        "name": "Daytona Beach International Airport",
+        "iso_country": "US",
+        "municipality": "Daytona Beach",
+        "province": "FL",
+        "latitude": 29.179899,
+        "longitude": -81.058098
+    },
+    {
+        "iso_code": "DAL",
+        "name": "Dallas Love Field",
+        "iso_country": "US",
+        "municipality": "Dallas",
+        "province": "TX",
+        "latitude": 32.847099,
+        "longitude": -96.851799
+    },
+    {
+        "iso_code": "DAY",
+        "name": "James M Cox Dayton International Airport",
+        "iso_country": "US",
+        "municipality": "Dayton",
+        "province": "OH",
+        "latitude": 39.90240097,
+        "longitude": -84.2193985
+    },
+    {
+        "iso_code": "DBQ",
+        "name": "Dubuque Regional Airport",
+        "iso_country": "US",
+        "municipality": "Dubuque",
+        "province": "IA",
+        "latitude": 42.40200043,
+        "longitude": -90.70950317
+    },
+    {
+        "iso_code": "DCA",
+        "name": "Ronald Reagan Washington National Airport",
+        "iso_country": "US",
+        "municipality": "Arlington",
+        "province": "VA",
+        "latitude": 38.8521,
+        "longitude": -77.037697
+    },
+    {
+        "iso_code": "DEN",
+        "name": "Denver International Airport",
+        "iso_country": "US",
+        "municipality": "Denver",
+        "province": "CO",
+        "latitude": 39.86169815,
+        "longitude": -104.6729965
+    },
+    {
+        "iso_code": "DFW",
+        "name": "Dallas Fort Worth International Airport",
+        "iso_country": "US",
+        "municipality": "Dallas-Fort Worth",
+        "province": "TX",
+        "latitude": 32.896801,
+        "longitude": -97.038002
+    },
+    {
+        "iso_code": "DLF",
+        "name": "DLF Airport",
+        "iso_country": "US",
+        "municipality": "Del Rio",
+        "province": "TX",
+        "latitude": 29.359501,
+        "longitude": -100.778002
+    },
+    {
+        "iso_code": "DLH",
+        "name": "Duluth International Airport",
+        "iso_country": "US",
+        "municipality": "Duluth",
+        "province": "MN",
+        "latitude": 46.84209824,
+        "longitude": -92.19360352
+    },
+    {
+        "iso_code": "DSM",
+        "name": "Des Moines International Airport",
+        "iso_country": "US",
+        "municipality": "Des Moines",
+        "province": "IA",
+        "latitude": 41.5340004,
+        "longitude": -93.6631012
+    },
+    {
+        "iso_code": "DTW",
+        "name": "Detroit Metropolitan Wayne County Airport",
+        "iso_country": "US",
+        "municipality": "Detroit",
+        "province": "MI",
+        "latitude": 42.21239853,
+        "longitude": -83.35340118
+    },
+    {
+        "iso_code": "ERI",
+        "name": "Erie International Tom Ridge Field",
+        "iso_country": "US",
+        "municipality": "Erie",
+        "province": "PA",
+        "latitude": 42.08312701,
+        "longitude": -80.17386675
+    },
+    {
+        "iso_code": "EWR",
+        "name": "Newark Liberty International Airport",
+        "iso_country": "US",
+        "municipality": "Newark",
+        "province": "NJ",
+        "latitude": 40.69250107,
+        "longitude": -74.16870117
+    },
+    {
+        "iso_code": "FLL",
+        "name": "Fort Lauderdale Hollywood International Airport",
+        "iso_country": "US",
+        "municipality": "Fort Lauderdale",
+        "province": "FL",
+        "latitude": 26.072599,
+        "longitude": -80.152702
+    },
+    {
+        "iso_code": "FSM",
+        "name": "Fort Smith Regional Airport",
+        "iso_country": "US",
+        "municipality": "Fort Smith",
+        "province": "AR",
+        "latitude": 35.33660126,
+        "longitude": -94.36740112
+    },
+    {
+        "iso_code": "FTW",
+        "name": "Fort Worth Meacham International Airport",
+        "iso_country": "US",
+        "municipality": "Fort Worth",
+        "province": "TX",
+        "latitude": 32.819801,
+        "longitude": -97.362396
+    },
+    {
+        "iso_code": "FWA",
+        "name": "Fort Wayne International Airport",
+        "iso_country": "US",
+        "municipality": "Fort Wayne",
+        "province": "IN",
+        "latitude": 40.97850037,
+        "longitude": -85.19509888
+    },
+    {
+        "iso_code": "GEG",
+        "name": "Spokane International Airport",
+        "iso_country": "US",
+        "municipality": "Spokane",
+        "province": "WA",
+        "latitude": 47.61989975,
+        "longitude": -117.5339966
+    },
+    {
+        "iso_code": "GPT",
+        "name": "Gulfport Biloxi International Airport",
+        "iso_country": "US",
+        "municipality": "Gulfport",
+        "province": "LA",
+        "latitude": 30.40730095,
+        "longitude": -89.07009888
+    },
+    {
+        "iso_code": "GRB",
+        "name": "Austin Straubel International Airport",
+        "iso_country": "US",
+        "municipality": "Green Bay",
+        "province": "WI",
+        "latitude": 44.48509979,
+        "longitude": -88.12960052
+    },
+    {
+        "iso_code": "GSO",
+        "name": "Piedmont Triad International Airport",
+        "iso_country": "US",
+        "municipality": "Greensboro",
+        "province": "NC",
+        "latitude": 36.09780121,
+        "longitude": -79.93730164
+    },
+    {
+        "iso_code": "GSP",
+        "name": "Greenville Spartanburg International Airport",
+        "iso_country": "US",
+        "municipality": "Greenville",
+        "province": "SC",
+        "latitude": 34.89569855,
+        "longitude": -82.21890259
+    },
+    {
+        "iso_code": "HIB",
+        "name": "Range Regional Airport",
+        "iso_country": "US",
+        "municipality": "Hibbing",
+        "province": "MN",
+        "latitude": 47.38660049,
+        "longitude": -92.83899689
+    },
+    {
+        "iso_code": "HOU",
+        "name": "William P Hobby Airport",
+        "iso_country": "US",
+        "municipality": "Houston",
+        "province": "TX",
+        "latitude": 29.64539909,
+        "longitude": -95.27890015
+    },
+    {
+        "iso_code": "HSV",
+        "name": "Huntsville International Carl T Jones Field",
+        "iso_country": "US",
+        "municipality": "Huntsville",
+        "province": "AL",
+        "latitude": 34.6371994,
+        "longitude": -86.77510071
+    },
+    {
+        "iso_code": "HTS",
+        "name": "Tri-State/Milton J. Ferguson Field",
+        "iso_country": "US",
+        "municipality": "Huntington",
+        "province": "WV",
+        "latitude": 38.36669922,
+        "longitude": -82.55799866
+    },
+    {
+        "iso_code": "IAD",
+        "name": "Washington Dulles International Airport",
+        "iso_country": "US",
+        "municipality": "Dulles",
+        "province": "VA",
+        "latitude": 38.94449997,
+        "longitude": -77.45580292
+    },
+    {
+        "iso_code": "IAH",
+        "name": "George Bush Intercontinental Houston Airport",
+        "iso_country": "US",
+        "municipality": "Houston",
+        "province": "TX",
+        "latitude": 29.9843998,
+        "longitude": -95.34140015
+    },
+    {
+        "iso_code": "ICT",
+        "name": "Wichita Eisenhower National Airport",
+        "iso_country": "US",
+        "municipality": "Wichita",
+        "province": "KS",
+        "latitude": 37.649899,
+        "longitude": -97.433098
+    },
+    {
+        "iso_code": "IND",
+        "name": "Indianapolis International Airport",
+        "iso_country": "US",
+        "municipality": "Indianapolis",
+        "province": "IN",
+        "latitude": 39.7173,
+        "longitude": -86.294403
+    },
+    {
+        "iso_code": "JAN",
+        "name": "Jackson-Medgar Wiley Evers International Airport",
+        "iso_country": "US",
+        "municipality": "Jackson",
+        "province": "MS",
+        "latitude": 32.31119919,
+        "longitude": -90.07589722
+    },
+    {
+        "iso_code": "JAX",
+        "name": "Jacksonville International Airport",
+        "iso_country": "US",
+        "municipality": "Jacksonville",
+        "province": "FL",
+        "latitude": 30.49410057,
+        "longitude": -81.68789673
+    },
+    {
+        "iso_code": "JFK",
+        "name": "John F Kennedy International Airport",
+        "iso_country": "US",
+        "municipality": "New York",
+        "province": "NY",
+        "latitude": 40.63980103,
+        "longitude": -73.77890015
+    },
+    {
+        "iso_code": "JLN",
+        "name": "Joplin Regional Airport",
+        "iso_country": "US",
+        "municipality": "Joplin",
+        "province": "MO",
+        "latitude": 37.15179825,
+        "longitude": -94.49829865
+    },
+    {
+        "iso_code": "LAS",
+        "name": "McCarran International Airport",
+        "iso_country": "US",
+        "municipality": "Las Vegas",
+        "province": "NV",
+        "latitude": 36.08010101,
+        "longitude": -115.1520004
+    },
+    {
+        "iso_code": "LAX",
+        "name": "Los Angeles International Airport",
+        "iso_country": "US",
+        "municipality": "Los Angeles",
+        "province": "CA",
+        "latitude": 33.94250107,
+        "longitude": -118.4079971
+    },
+    {
+        "iso_code": "LBB",
+        "name": "Lubbock Preston Smith International Airport",
+        "iso_country": "US",
+        "municipality": "Lubbock",
+        "province": "TX",
+        "latitude": 33.663601,
+        "longitude": -101.822998
+    },
+    {
+        "iso_code": "LCK",
+        "name": "Rickenbacker International Airport",
+        "iso_country": "US",
+        "municipality": "Columbus",
+        "province": "OH",
+        "latitude": 39.813801,
+        "longitude": -82.927803
+    },
+    {
+        "iso_code": "LEX",
+        "name": "Blue Grass Airport",
+        "iso_country": "US",
+        "municipality": "Lexington",
+        "province": "KY",
+        "latitude": 38.03649902,
+        "longitude": -84.60590363
+    },
+    {
+        "iso_code": "LFT",
+        "name": "Lafayette Regional Airport",
+        "iso_country": "US",
+        "municipality": "Lafayette",
+        "province": "LA",
+        "latitude": 30.20529938,
+        "longitude": -91.98760223
+    },
+    {
+        "iso_code": "LGA",
+        "name": "La Guardia Airport",
+        "iso_country": "US",
+        "municipality": "New York",
+        "province": "NY",
+        "latitude": 40.77719879,
+        "longitude": -73.87259674
+    },
+    {
+        "iso_code": "LIT",
+        "name": "Bill & Hillary Clinton National Airport/Adams Field",
+        "iso_country": "US",
+        "municipality": "Little Rock",
+        "province": "AR",
+        "latitude": 34.72940063,
+        "longitude": -92.22429657
+    },
+    {
+        "iso_code": "MBS",
+        "name": "MBS International Airport",
+        "iso_country": "US",
+        "municipality": "Saginaw",
+        "province": "MI",
+        "latitude": 43.53290176,
+        "longitude": -84.07959747
+    },
+    {
+        "iso_code": "MCI",
+        "name": "Kansas City International Airport",
+        "iso_country": "US",
+        "municipality": "Kansas City",
+        "province": "MO",
+        "latitude": 39.2976,
+        "longitude": -94.713898
+    },
+    {
+        "iso_code": "MCO",
+        "name": "Orlando International Airport",
+        "iso_country": "US",
+        "municipality": "Orlando",
+        "province": "FL",
+        "latitude": 28.42939949,
+        "longitude": -81.30899811
+    },
+    {
+        "iso_code": "MDW",
+        "name": "Chicago Midway International Airport",
+        "iso_country": "US",
+        "municipality": "Chicago",
+        "province": "IL",
+        "latitude": 41.785999,
+        "longitude": -87.752403
+    },
+    {
+        "iso_code": "MEM",
+        "name": "Memphis International Airport",
+        "iso_country": "US",
+        "municipality": "Memphis",
+        "province": "TN",
+        "latitude": 35.04240036,
+        "longitude": -89.97669983
+    },
+    {
+        "iso_code": "MGM",
+        "name": "Montgomery Regional (Dannelly Field) Airport",
+        "iso_country": "US",
+        "municipality": "Montgomery",
+        "province": "AL",
+        "latitude": 32.30059814,
+        "longitude": -86.39399719
+    },
+    {
+        "iso_code": "MHT",
+        "name": "Manchester-Boston Regional Airport",
+        "iso_country": "US",
+        "municipality": "Manchester",
+        "province": "NH",
+        "latitude": 42.932598,
+        "longitude": -71.435699
+    },
+    {
+        "iso_code": "MIA",
+        "name": "Miami International Airport",
+        "iso_country": "US",
+        "municipality": "Miami",
+        "province": "FL",
+        "latitude": 25.79319954,
+        "longitude": -80.29060364
+    },
+    {
+        "iso_code": "MKE",
+        "name": "General Mitchell International Airport",
+        "iso_country": "US",
+        "municipality": "Milwaukee",
+        "province": "WI",
+        "latitude": 42.94720078,
+        "longitude": -87.89659882
+    },
+    {
+        "iso_code": "MLI",
+        "name": "Quad City International Airport",
+        "iso_country": "US",
+        "municipality": "Moline",
+        "province": "IL",
+        "latitude": 41.44850159,
+        "longitude": -90.50749969
+    },
+    {
+        "iso_code": "MLU",
+        "name": "Monroe Regional Airport",
+        "iso_country": "US",
+        "municipality": "Monroe",
+        "province": "LA",
+        "latitude": 32.51089859,
+        "longitude": -92.03769684
+    },
+    {
+        "iso_code": "MOB",
+        "name": "Mobile Regional Airport",
+        "iso_country": "US",
+        "municipality": "Mobile",
+        "province": "AL",
+        "latitude": 30.69120026,
+        "longitude": -88.24279785
+    },
+    {
+        "iso_code": "MSN",
+        "name": "Dane County Regional Truax Field",
+        "iso_country": "US",
+        "municipality": "Madison",
+        "province": "WI",
+        "latitude": 43.13990021,
+        "longitude": -89.33750153
+    },
+    {
+        "iso_code": "MSP",
+        "name": "Minneapolis-St Paul International/Wold-Chamberlain Airport",
+        "iso_country": "US",
+        "municipality": "Minneapolis",
+        "province": "MN",
+        "latitude": 44.882,
+        "longitude": -93.221802
+    },
+    {
+        "iso_code": "MSY",
+        "name": "Louis Armstrong New Orleans International Airport",
+        "iso_country": "US",
+        "municipality": "New Orleans",
+        "province": "LA",
+        "latitude": 29.99340057,
+        "longitude": -90.25800323
+    },
+    {
+        "iso_code": "OAK",
+        "name": "Metropolitan Oakland International Airport",
+        "iso_country": "US",
+        "municipality": "Oakland",
+        "province": "CA",
+        "latitude": 37.721298,
+        "longitude": -122.221001
+    },
+    {
+        "iso_code": "OKC",
+        "name": "Will Rogers World Airport",
+        "iso_country": "US",
+        "municipality": "Oklahoma City",
+        "province": "OK",
+        "latitude": 35.39310074,
+        "longitude": -97.60070038
+    },
+    {
+        "iso_code": "OMA",
+        "name": "Eppley Airfield",
+        "iso_country": "US",
+        "municipality": "Omaha",
+        "province": "NE",
+        "latitude": 41.3032,
+        "longitude": -95.894096
+    },
+    {
+        "iso_code": "ONT",
+        "name": "Ontario International Airport",
+        "iso_country": "US",
+        "municipality": "Ontario",
+        "province": "CA",
+        "latitude": 34.05599976,
+        "longitude": -117.6009979
+    },
+    {
+        "iso_code": "ORD",
+        "name": "Chicago O'Hare International Airport",
+        "iso_country": "US",
+        "municipality": "Chicago",
+        "province": "IL",
+        "latitude": 41.9786,
+        "longitude": -87.9048
+    },
+    {
+        "iso_code": "ORF",
+        "name": "Norfolk International Airport",
+        "iso_country": "US",
+        "municipality": "Norfolk",
+        "province": "VA",
+        "latitude": 36.89459991,
+        "longitude": -76.20120239
+    },
+    {
+        "iso_code": "PBI",
+        "name": "Palm Beach International Airport",
+        "iso_country": "US",
+        "municipality": "West Palm Beach",
+        "province": "FL",
+        "latitude": 26.68320084,
+        "longitude": -80.09559631
+    },
+    {
+        "iso_code": "PDX",
+        "name": "Portland International Airport",
+        "iso_country": "US",
+        "municipality": "Portland",
+        "province": "OR",
+        "latitude": 45.58869934,
+        "longitude": -122.5979996
+    },
+    {
+        "iso_code": "PHF",
+        "name": "Newport News Williamsburg International Airport",
+        "iso_country": "US",
+        "municipality": "Newport News",
+        "province": "VA",
+        "latitude": 37.13190079,
+        "longitude": -76.49299622
+    },
+    {
+        "iso_code": "PHL",
+        "name": "Philadelphia International Airport",
+        "iso_country": "US",
+        "municipality": "Philadelphia",
+        "province": "PA",
+        "latitude": 39.87189865,
+        "longitude": -75.2410965
+    },
+    {
+        "iso_code": "PHX",
+        "name": "Phoenix Sky Harbor International Airport",
+        "iso_country": "US",
+        "municipality": "Phoenix",
+        "province": "AZ",
+        "latitude": 33.43429947,
+        "longitude": -112.012001
+    },
+    {
+        "iso_code": "PIA",
+        "name": "General Wayne A. Downing Peoria International Airport",
+        "iso_country": "US",
+        "municipality": "Peoria",
+        "province": "IL",
+        "latitude": 40.66419983,
+        "longitude": -89.69329834
+    },
+    {
+        "iso_code": "PIT",
+        "name": "Pittsburgh International Airport",
+        "iso_country": "US",
+        "municipality": "Pittsburgh",
+        "province": "PA",
+        "latitude": 40.49150085,
+        "longitude": -80.23290253
+    },
+    {
+        "iso_code": "PVD",
+        "name": "Theodore Francis Green State Airport",
+        "iso_country": "US",
+        "municipality": "Providence",
+        "province": "RI",
+        "latitude": 41.732601,
+        "longitude": -71.420403
+    },
+    {
+        "iso_code": "PWM",
+        "name": "Portland International Jetport Airport",
+        "iso_country": "US",
+        "municipality": "Portland",
+        "province": "ME",
+        "latitude": 43.64619827,
+        "longitude": -70.30930328
+    },
+    {
+        "iso_code": "RDU",
+        "name": "Raleigh Durham International Airport",
+        "iso_country": "US",
+        "municipality": "Raleigh/Durham",
+        "province": "NC",
+        "latitude": 35.87760162,
+        "longitude": -78.78749847
+    },
+    {
+        "iso_code": "RFD",
+        "name": "Chicago Rockford International Airport",
+        "iso_country": "US",
+        "municipality": "Chicago/Rockford",
+        "province": "IL",
+        "latitude": 42.19540024,
+        "longitude": -89.09719849
+    },
+    {
+        "iso_code": "RIC",
+        "name": "Richmond International Airport",
+        "iso_country": "US",
+        "municipality": "Richmond",
+        "province": "VA",
+        "latitude": 37.50519943,
+        "longitude": -77.31970215
+    },
+    {
+        "iso_code": "RNO",
+        "name": "Reno Tahoe International Airport",
+        "iso_country": "US",
+        "municipality": "Reno",
+        "province": "NV",
+        "latitude": 39.49909973,
+        "longitude": -119.7679977
+    },
+    {
+        "iso_code": "ROA",
+        "name": "Roanoke Blacksburg Regional Airport",
+        "iso_country": "US",
+        "municipality": "Roanoke",
+        "province": "NC",
+        "latitude": 37.3255,
+        "longitude": -79.975403
+    },
+    {
+        "iso_code": "ROC",
+        "name": "Greater Rochester International Airport",
+        "iso_country": "US",
+        "municipality": "Rochester",
+        "province": "NY",
+        "latitude": 43.1189003,
+        "longitude": -77.67240143
+    },
+    {
+        "iso_code": "RST",
+        "name": "Rochester International Airport",
+        "iso_country": "US",
+        "municipality": "Rochester",
+        "province": "NY",
+        "latitude": 43.90829849,
+        "longitude": -92.5
+    },
+    {
+        "iso_code": "RSW",
+        "name": "Southwest Florida International Airport",
+        "iso_country": "US",
+        "municipality": "Fort Myers",
+        "province": "FL",
+        "latitude": 26.53619957,
+        "longitude": -81.75520325
+    },
+    {
+        "iso_code": "SAN",
+        "name": "San Diego International Airport",
+        "iso_country": "US",
+        "municipality": "San Diego",
+        "province": "CA",
+        "latitude": 32.73360062,
+        "longitude": -117.1900024
+    },
+    {
+        "iso_code": "SAT",
+        "name": "San Antonio International Airport",
+        "iso_country": "US",
+        "municipality": "San Antonio",
+        "province": "TX",
+        "latitude": 29.53370094,
+        "longitude": -98.46980286
+    },
+    {
+        "iso_code": "SAV",
+        "name": "Savannah Hilton Head International Airport",
+        "iso_country": "US",
+        "municipality": "Savannah",
+        "province": "GA",
+        "latitude": 32.12760162,
+        "longitude": -81.20210266
+    },
+    {
+        "iso_code": "SBN",
+        "name": "South Bend Regional Airport",
+        "iso_country": "US",
+        "municipality": "South Bend",
+        "province": "IN",
+        "latitude": 41.70869827,
+        "longitude": -86.31729889
+    },
+    {
+        "iso_code": "SDF",
+        "name": "Louisville International Standiford Field",
+        "iso_country": "US",
+        "municipality": "Louisville",
+        "province": "KY",
+        "latitude": 38.1744,
+        "longitude": -85.736
+    },
+    {
+        "iso_code": "SEA",
+        "name": "Seattle Tacoma International Airport",
+        "iso_country": "US",
+        "municipality": "Seattle",
+        "province": "WA",
+        "latitude": 47.449001,
+        "longitude": -122.308998
+    },
+    {
+        "iso_code": "SFB",
+        "name": "Orlando Sanford International Airport",
+        "iso_country": "US",
+        "municipality": "Orlando",
+        "province": "FL",
+        "latitude": 28.77759933,
+        "longitude": -81.23750305
+    },
+    {
+        "iso_code": "SFO",
+        "name": "San Francisco International Airport",
+        "iso_country": "US",
+        "municipality": "San Francisco",
+        "province": "CA",
+        "latitude": 37.61899948,
+        "longitude": -122.375
+    },
+    {
+        "iso_code": "SGF",
+        "name": "Springfield Branson National Airport",
+        "iso_country": "US",
+        "municipality": "Springfield",
+        "province": "MO",
+        "latitude": 37.24570084,
+        "longitude": -93.38860321
+    },
+    {
+        "iso_code": "SJC",
+        "name": "Norman Y. Mineta San Jose International Airport",
+        "iso_country": "US",
+        "municipality": "San Jose",
+        "province": "CA",
+        "latitude": 37.362598,
+        "longitude": -121.929001
+    },
+    {
+        "iso_code": "SLC",
+        "name": "Salt Lake City International Airport",
+        "iso_country": "US",
+        "municipality": "Salt Lake City",
+        "province": "UT",
+        "latitude": 40.78839874,
+        "longitude": -111.9779968
+    },
+    {
+        "iso_code": "SMF",
+        "name": "Sacramento International Airport",
+        "iso_country": "US",
+        "municipality": "Sacramento",
+        "province": "CA",
+        "latitude": 38.69540024,
+        "longitude": -121.5910034
+    },
+    {
+        "iso_code": "SNA",
+        "name": "John Wayne Airport-Orange County Airport",
+        "iso_country": "US",
+        "municipality": "Santa Ana",
+        "province": "CA",
+        "latitude": 33.67570114,
+        "longitude": -117.8679962
+    },
+    {
+        "iso_code": "SPI",
+        "name": "Abraham Lincoln Capital Airport",
+        "iso_country": "US",
+        "municipality": "Springfield",
+        "province": "IL",
+        "latitude": 39.84410095,
+        "longitude": -89.67790222
+    },
+    {
+        "iso_code": "SRQ",
+        "name": "Sarasota Bradenton International Airport",
+        "iso_country": "US",
+        "municipality": "Sarasota/Bradenton",
+        "province": "FL",
+        "latitude": 27.39539909,
+        "longitude": -82.55439758
+    },
+    {
+        "iso_code": "STL",
+        "name": "St Louis Lambert International Airport",
+        "iso_country": "US",
+        "municipality": "St Louis",
+        "province": "MO",
+        "latitude": 38.748697,
+        "longitude": -90.370003
+    },
+    {
+        "iso_code": "SUS",
+        "name": "Spirit of St Louis Airport",
+        "iso_country": "US",
+        "municipality": "St Louis",
+        "province": "MO",
+        "latitude": 38.66210175,
+        "longitude": -90.65200043
+    },
+    {
+        "iso_code": "SUX",
+        "name": "Sioux Gateway Col. Bud Day Field",
+        "iso_country": "US",
+        "municipality": "Sioux City",
+        "province": "IA",
+        "latitude": 42.40259933,
+        "longitude": -96.38439941
+    },
+    {
+        "iso_code": "SYR",
+        "name": "Syracuse Hancock International Airport",
+        "iso_country": "US",
+        "municipality": "Syracuse",
+        "province": "NY",
+        "latitude": 43.11119843,
+        "longitude": -76.10630035
+    },
+    {
+        "iso_code": "TLH",
+        "name": "Tallahassee Regional Airport",
+        "iso_country": "US",
+        "municipality": "Tallahassee",
+        "province": "FL",
+        "latitude": 30.39649963,
+        "longitude": -84.35030365
+    },
+    {
+        "iso_code": "TOL",
+        "name": "Toledo Express Airport",
+        "iso_country": "US",
+        "municipality": "Toledo",
+        "province": "OH",
+        "latitude": 41.58679962,
+        "longitude": -83.80780029
+    },
+    {
+        "iso_code": "TPA",
+        "name": "Tampa International Airport",
+        "iso_country": "US",
+        "municipality": "Tampa",
+        "province": "FL",
+        "latitude": 27.97550011,
+        "longitude": -82.53320313
+    },
+    {
+        "iso_code": "TRI",
+        "name": "Tri-Cities Regional TN/VA Airport",
+        "iso_country": "US",
+        "municipality": "Bristol/Johnson/Kingsport",
+        "province": "TN",
+        "latitude": 36.475201,
+        "longitude": -82.407401
+    },
+    {
+        "iso_code": "TUL",
+        "name": "Tulsa International Airport",
+        "iso_country": "US",
+        "municipality": "Tulsa",
+        "province": "OK",
+        "latitude": 36.19839859,
+        "longitude": -95.88809967
+    },
+    {
+        "iso_code": "TUS",
+        "name": "Tucson International Airport",
+        "iso_country": "US",
+        "municipality": "Tucson",
+        "province": "AZ",
+        "latitude": 32.11610031,
+        "longitude": -110.9410019
+    },
+    {
+        "iso_code": "TYS",
+        "name": "McGhee Tyson Airport",
+        "iso_country": "US",
+        "municipality": "Knoxville",
+        "province": "TN",
+        "latitude": 35.81100082,
+        "longitude": -83.9940033
+    },
+    {
+        "iso_code": "VPS",
+        "name": "Destin-Ft Walton Beach Airport",
+        "iso_country": "US",
+        "municipality": "Valparaiso",
+        "province": "FL",
+        "latitude": 30.4832,
+        "longitude": -86.525398
+    },
+    {
+        "iso_code": "AFA",
+        "name": "Fairbanks International Airport",
+        "iso_country": "US",
+        "municipality": "Fairbanks",
+        "province": "AK",
+        "latitude": 64.81510162,
+        "longitude": -147.8560028
+    },
+    {
+        "iso_code": "ANC",
+        "name": "Ted Stevens Anchorage International Airport",
+        "iso_country": "US",
+        "municipality": "Anchorage",
+        "province": "AK",
+        "latitude": 61.17440033,
+        "longitude": -149.9960022
+    },
+    {
+        "iso_code": "HNL",
+        "name": "Daniel K Inouye International Airport",
+        "iso_country": "US",
+        "municipality": "Honolulu",
+        "province": "HI",
+        "latitude": 21.32062,
+        "longitude": -157.924228
+    }
+]

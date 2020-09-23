@@ -117,7 +117,7 @@
     },
     {
       "iso_code": "CD",
-      "country_name": "Congo, Democratic Republic of the"
+      "country_name": "Congo DR"
     },
     {
       "iso_code": "CK",
@@ -558,10 +558,6 @@
     {
       "iso_code": "GB",
       "country_name": "United Kingdom"
-    },
-    {
-      "iso_code": "US",
-      "country_name": "United States of America"
     },
     {
       "iso_code": "UY",

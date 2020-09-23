@@ -63,7 +63,7 @@ export default class IndexPage extends React.Component {
   render() {
     return <Layout>
       <form onSubmit={this.handleSubmit}>
-        <p style={{ fontStyle: 'italic', margin: '-.5rem 0 .3rem' }}><b>How to play:</b> Look at the image below and enter a guess where the location is found from the dropdown list of states. Now try with <Link to='/airports'>Airports!</Link></p>
+        <p style={{ fontStyle: 'italic', margin: '-.5rem 0 .3rem' }}><b>How to play:</b> Look at the image below and enter a guess where the location is found from the dropdown list of states. Now try with <Link to='/airports'>international airports</Link> or <Link to='/us-airports'>US airports</Link>!</p>
         
         <div className="input-row">
           <span>

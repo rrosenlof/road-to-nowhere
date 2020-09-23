@@ -1,13 +1,12 @@
 import React from "react"
 
 import Layout from "../components/layout"
-import JSONData from "../../content/airports.json"
-import COUNTRIES from "../../content/country-codes.json"
+import JSONData from "../../content/us-airports.json"
 import AirportMap from "../components/airportMap"
-import AirportAnswer from "../components/airportAnswer"
+import UsAirportAnswer from "../components/usAirportAnswer"
 import { Link } from "gatsby"
 
-export default class AirportPage extends React.Component {
+export default class UsAirport extends React.Component {
   constructor() {
     super();
     // const add = this.getAddress();
@@ -63,15 +62,15 @@ export default class AirportPage extends React.Component {
   render() {
     return <Layout>
       <form onSubmit={this.handleSubmit}>
-      <p style={{ fontStyle: 'italic', margin: '-.5rem 0 .3rem' }}><b>How to play:</b> Look at the image below and enter a guess where the location is found from the dropdown list of countries. All of these airports in countries outside the United States. Try the <Link to='/'>Original Version!</Link></p>
+      <p style={{ fontStyle: 'italic', margin: '-.5rem 0 .3rem' }}><b>How to play:</b> Look at the image below and enter a guess which airport is shown from the list below. Try the <Link to='/'>Original Version!</Link></p>
         <div className="input-row">
           <span>
             <label>
-              Country:
+              Airport:
               <select name="country" onBlur={this.handleInputChange}>
                 <option defaultValue value="1"> -- </option>
-                {COUNTRIES.map((data) => {
-                  return <option key={data.iso_code} value={data.iso_code}>{data.country_name}</option>
+                {JSONData.map((data) => {
+                  return <option key={data.iso_code} value={data.iso_code}>{data.iso_code}: {data.name}</option>
                 })}
               </select>
             </label>
@@ -85,7 +84,7 @@ export default class AirportPage extends React.Component {
       </form>
       {this.state.submitStatus === "answered" &&
         <div>
-          <AirportAnswer answer={this.state} />
+          <UsAirportAnswer answer={this.state} />
           <button style={{ margin: `.6rem 0`}} type="button" className="button" onClick={this.reloadPage}>Next Map</button>
         </div>
       }
